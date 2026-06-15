@@ -125,6 +125,7 @@ WIKI = {
     "tactical-fitness": ("tactical-fitness.md", "Tactical fitness & human performance"),
     "field-hygiene": ("field-hygiene.md", "Field hygiene & disease prevention"),
     "sop-battle-rhythm": ("sop.md", "SOPs & battle rhythm"),
+    "equipment": ("equipment.md", "Military equipment reference (descriptive)"),
 }
 
 

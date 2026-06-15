@@ -19,7 +19,8 @@ import argparse
 import json
 import os
 
-from . import loadouts, acronyms, catalog, lessons as lessonsmod, sop as sopmod
+from . import (loadouts, acronyms, catalog, lessons as lessonsmod, sop as sopmod,
+               equipment as equipmod, sources as srcmod)
 from .loadouts import TOOL_NAME, TOOL_VERSION
 
 
@@ -177,6 +178,36 @@ def cmd_os(a):
     return 0
 
 
+def cmd_equipment(a):
+    items = equipmod.all_items(a.category, a.origin)
+    if a.search:
+        items = [i for i in equipmod.search(a.search)
+                 if (not a.category or i.category == a.category)]
+    if a.format == "json": _j([i.to_dict() for i in items]); return 0
+    for i in items:
+        print(f"{i.name:30} {i.category:18} {i.origin:16} {i.role}")
+    cats = equipmod.categories()
+    print(f"\n({len(items)} shown · {equipmod.count()} total across {len(cats)} categories) "
+          f"— full datasets via `fieldcraft sources`")
+    return 0
+
+
+def cmd_equip_show(a):
+    it = equipmod.get(a.id)
+    if not it:
+        print(f"unknown item '{a.id}'"); return 1
+    _j(it.to_dict()); return 0
+
+
+def cmd_sources(a):
+    s = srcmod.sources()
+    if a.format == "json": _j(s); return 0
+    for r in s:
+        print(f"[{r['type']:16}] {r['name']:42} {r['url']}")
+    print("\nODIN (TRADOC) is the canonical public threat-equipment reference.")
+    return 0
+
+
 def cmd_search(a):
     out = {"acronyms": acronyms.search(a.query),
            "resources": [r for r in catalog.resources()
@@ -207,6 +238,10 @@ def build_parser():
     sp = add("lesson", cmd_lesson); sp.add_argument("id")
     sp = add("sop", cmd_sop); sp.add_argument("name", nargs="?")
     add("os", cmd_os)
+    sp = add("equipment", cmd_equipment); sp.add_argument("--category")
+    sp.add_argument("--origin"); sp.add_argument("--search")
+    sp = add("equip-show", cmd_equip_show); sp.add_argument("id")
+    add("sources", cmd_sources)
     sp = add("search", cmd_search); sp.add_argument("query")
     return p
 
