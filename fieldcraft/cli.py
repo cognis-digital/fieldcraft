@@ -19,7 +19,7 @@ import argparse
 import json
 import os
 
-from . import loadouts, acronyms, catalog
+from . import loadouts, acronyms, catalog, lessons as lessonsmod, sop as sopmod
 from .loadouts import TOOL_NAME, TOOL_VERSION
 
 
@@ -123,6 +123,60 @@ def cmd_wiki(a):
     return 0
 
 
+def cmd_lessons(a):
+    items = lessonsmod.list_lessons(a.domain)
+    if a.format == "json": _j([l.to_dict() for l in items]); return 0
+    for l in items:
+        print(f"{l.id:10} [{l.domain:16}] {l.lesson}")
+        print(f"            -> {l.takeaway}")
+    print(f"\n({len(items)} of {lessonsmod.count()} lessons; domains: {', '.join(lessonsmod.DOMAINS)})")
+    return 0
+
+
+def cmd_lesson(a):
+    l = lessonsmod.get_lesson(a.id)
+    if not l:
+        print(f"unknown lesson '{a.id}'; see `fieldcraft lessons`"); return 1
+    _j(l.to_dict()); return 0
+
+
+def cmd_sop(a):
+    if a.name:
+        s = sopmod.get_sop(a.name)
+        if not s:
+            print(f"unknown SOP '{a.name}'; see `fieldcraft sop`"); return 1
+        if a.format == "json": _j(s.to_dict()); return 0
+        print(f"# {s.name}\n{s.purpose}\n")
+        for st in s.steps:
+            print(f"  {st}")
+        return 0
+    sl = sopmod.list_sops()
+    if a.format == "json": _j([s.to_dict() for s in sl]); return 0
+    for s in sl:
+        print(f"{s.key:20} {s.name:38} {s.purpose}")
+    return 0
+
+
+def cmd_os(a):
+    modules = {
+        "roles / loadout": "build a role's kit + skills + references (`fieldcraft roles`/`loadout`)",
+        "wiki": f"{len(catalog.wiki_pages())} reference pages (`fieldcraft wiki`)",
+        "acronyms": f"{acronyms.count()} terms (`fieldcraft acronyms`)",
+        "lessons": f"{lessonsmod.count()} modern-conflict lessons, defensive takeaways (`fieldcraft lessons`)",
+        "sop": "readiness SOPs & battle rhythm (`fieldcraft sop`)",
+        "checklists": "printable checklists (`fieldcraft checklists`)",
+        "resources": "curated public + open-source links (`fieldcraft resources`)",
+        "cognis": "interop with the Cognis suite (`fieldcraft cognis`)",
+    }
+    if a.format == "json": _j(modules); return 0
+    print(f"# fieldcraft — Modern Soldier OS v{TOOL_VERSION}\n"
+          f"An educational/reference readiness OS for soldiers and civilians.\n")
+    for k, v in modules.items():
+        print(f"  {k:18} {v}")
+    print("\nEducational/reference only — see the disclaimer in README.md.")
+    return 0
+
+
 def cmd_search(a):
     out = {"acronyms": acronyms.search(a.query),
            "resources": [r for r in catalog.resources()
@@ -149,6 +203,10 @@ def build_parser():
     sp = add("checklist", cmd_checklist); sp.add_argument("name")
     add("checklists", cmd_checklists)
     sp = add("wiki", cmd_wiki); sp.add_argument("page", nargs="?")
+    sp = add("lessons", cmd_lessons); sp.add_argument("--domain")
+    sp = add("lesson", cmd_lesson); sp.add_argument("id")
+    sp = add("sop", cmd_sop); sp.add_argument("name", nargs="?")
+    add("os", cmd_os)
     sp = add("search", cmd_search); sp.add_argument("query")
     return p
 

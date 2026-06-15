@@ -15,7 +15,7 @@ import json
 import os
 
 TOOL_NAME = "fieldcraft"
-TOOL_VERSION = "0.1.0"
+TOOL_VERSION = "0.2.0"
 
 TIERS = ["edc", "24h", "72h", "sustainment"]   # escalating preparedness levels
 
@@ -76,6 +76,22 @@ _SEED = [
          {"edc": ["binoculars/monocular", "notebook + pencil", "watch", "map"],
           "72h": ["spotting optics", "range card/notebook", "camera", "comms (see comms role)"]},
          ["land-nav", "mil-reference"], ["maritimeint", "geoaoi"]),
+    Role("team_leader", "Team leader", "Plan, decide, and coordinate a small team (C2 / mission command).",
+         ["troop-leading procedures", "PACE planning", "priorities of work", "AAR / mission command",
+          "risk management"],
+         {"edc": ["notebook + waterproof pen", "map + protractor", "comms card", "watch"],
+          "72h": ["radio (see comms)", "team roster + PACE card", "casualty/evac plan card", "rehearsal kit"]},
+         ["sop-battle-rhythm", "mil-reference"], ["jtf-meridian", "agentforge"]),
+    Role("uas_observer", "Drone-threat / counter-UAS observer", "Detect and react to overhead drone threats (defensive awareness).",
+         ["drone visual/acoustic recognition", "overhead-cover discipline", "dispersion", "signature management"],
+         {"edc": ["binoculars", "notebook", "whistle/alert signal"],
+          "72h": ["spotting optics", "acoustic awareness aids", "overhead-cover materials", "comms"]},
+         ["lessons", "camouflage-concealment"], ["awesome-drone-warfare-osint", "frontline-drones"]),
+    Role("pioneer", "Pioneer / field engineer", "Field-expedient construction and protective works (cover, shelter, obstacles) — protective, not demolitions.",
+         ["protective position construction", "field-expedient shelter", "knots & lashings", "obstacle awareness"],
+         {"edc": ["multitool", "cordage", "gloves", "folding saw"],
+          "sustainment": ["entrenching tool", "wire/cordage", "tarps", "sandbags", "hand tools", "overhead-cover materials"]},
+         ["camouflage-concealment", "survival"], ["labforge"]),
 ]
 
 _BY_KEY = {}

@@ -7,7 +7,8 @@
 > public + open-source resources.
 
 [![Code License: COCL 1.0](https://img.shields.io/badge/License-COCL%201.0-6b46c1.svg)](LICENSE)
-[![tests](https://img.shields.io/badge/tests-8%20passing-2ea44f.svg)](tests/)
+[![tests](https://img.shields.io/badge/tests-15%20passing-2ea44f.svg)](tests/)
+[![version](https://img.shields.io/badge/Modern%20Soldier%20OS-v0.2-1f6feb.svg)](docs/HOME.md)
 
 > **Disclaimer — read first.** fieldcraft is **educational / reference / preparedness**
 > material with links to public and open-source resources (public-domain field
@@ -33,6 +34,26 @@ skills that role assumes, and the reference pages to learn them. Look up any acr
 packing, water). And browse curated links to the best free, public, and open-source
 material on each topic. Build your real-life character — kit, skills, and knowledge.
 <!-- cognis:layman:end -->
+
+## Modern Soldier OS (v0.2)
+
+fieldcraft is organized as a personal readiness "OS" — run `fieldcraft os` for the
+module map. On top of the survival/preparedness base it adds:
+
+- **Lessons from recent & ongoing conflicts** (`fieldcraft lessons`) — analytical,
+  individual-focused takeaways (drones/UAS, counter-UAS, EW & GPS denial, pervasive
+  ISR & signature management, prolonged combat medicine, logistics, dispersion,
+  resilience) in the spirit of RUSI / West Point MWI / CSIS lessons-learned. The
+  emphasis is **protective, medical, survival, and resilience** takeaways — what
+  changed and how to *survive and endure* it, not how to attack.
+- **Defensive/readiness domains** — camouflage & concealment (incl. thermal/drone-era),
+  night & limited visibility, CBRN protective basics, tactical fitness & human
+  performance, field hygiene & disease prevention.
+- **SOPs & battle rhythm** (`fieldcraft sop`) — TLP, priorities of work, PCC/PCI, AAR,
+  PACE, security halts, stand-to — readiness discipline (descriptive).
+- **More roles** — team leader, drone-threat/counter-UAS observer, pioneer/field
+  engineer (protective works), alongside medic, navigator, comms, rucker, survivalist,
+  logistics, scout.
 
 ## Use it
 

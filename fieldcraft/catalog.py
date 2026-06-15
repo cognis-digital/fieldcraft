@@ -52,6 +52,13 @@ CHECKLISTS_SEED = {
                      "Frequently-used items on top/pockets", "Test weight ≤ ~1/3 bodyweight", "Hot-spot/blister kit handy"],
     "water": ["Source identification", "Pre-filter (cloth) sediment", "Filter (0.1-0.2 micron) or boil 1 min",
               "Chemical backup (tabs)", "Safe storage (1 gal/person/day)"],
+    "field-hygiene": ["Treat all water (boil/filter/chemical)", "Hand wash/sanitize before eating + after latrine",
+                      "Latrine sited downhill + away from water/sleep", "Dry socks + foot care at halts",
+                      "Manage hot spots before blisters", "Brush teeth", "Cover/treat minor wounds early",
+                      "Insect/tick protection", "Rotate rest; watch for run-down teammates"],
+    "drone-threat-react": ["Stop + listen/look on drone cue", "Get under overhead cover within seconds",
+                           "Freeze movement; minimize signature", "Disperse — do not cluster",
+                           "Account for team; move to better cover when clear", "Report (SALUTE/SITREP)"],
 }
 
 
@@ -106,9 +113,18 @@ WIKI = {
     "preparedness": ("preparedness.md", "Emergency preparedness"),
     "mil-reference": ("mil-reference.md", "Military reference (educational)"),
     "environment": ("environment.md", "Environmental survival"),
+    "tools": ("tools.md", "Open-source tools"),
     "acronyms": ("acronyms.md", "Acronyms & terminology"),
     "resources": ("resources.md", "Resources & links"),
     "roles": ("roles-loadouts.md", "Roles & loadouts"),
+    # Modern Soldier OS (v0.2) — analytical lessons + defensive/readiness domains
+    "lessons": ("lessons.md", "Lessons from recent conflicts (analytical/defensive)"),
+    "camouflage-concealment": ("camouflage-concealment.md", "Camouflage & concealment"),
+    "night": ("night.md", "Night & limited visibility"),
+    "cbrn": ("cbrn.md", "CBRN protective basics (defensive)"),
+    "tactical-fitness": ("tactical-fitness.md", "Tactical fitness & human performance"),
+    "field-hygiene": ("field-hygiene.md", "Field hygiene & disease prevention"),
+    "sop-battle-rhythm": ("sop.md", "SOPs & battle rhythm"),
 }
 
 
