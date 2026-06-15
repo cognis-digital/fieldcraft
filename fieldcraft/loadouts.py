@@ -15,7 +15,7 @@ import json
 import os
 
 TOOL_NAME = "fieldcraft"
-TOOL_VERSION = "0.3.0"
+TOOL_VERSION = "0.4.0"
 
 TIERS = ["edc", "24h", "72h", "sustainment"]   # escalating preparedness levels
 

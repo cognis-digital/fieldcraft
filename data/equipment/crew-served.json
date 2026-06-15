@@ -1,0 +1,14 @@
+[
+  {"id": "m2-browning", "name": "M2 Browning (.50 cal)", "category": "crew-served", "type": "heavy machine gun", "origin": "United States", "role": "heavy MG", "era": "1930s", "status": "in service", "class": "12.7x99mm", "operators": ["many"]},
+  {"id": "m134", "name": "M134 Minigun", "category": "crew-served", "type": "rotary machine gun", "origin": "United States", "role": "vehicle/aircraft MG", "era": "1960s", "status": "in service", "class": "7.62x51mm", "operators": ["several"]},
+  {"id": "dshk", "name": "DShK", "category": "crew-served", "type": "heavy machine gun", "origin": "Soviet Union", "role": "heavy MG", "era": "1930s", "status": "in service", "class": "12.7x108mm", "operators": ["many"]},
+  {"id": "kord", "name": "Kord", "category": "crew-served", "type": "heavy machine gun", "origin": "Russia", "role": "heavy MG", "era": "1990s", "status": "in service", "class": "12.7x108mm", "operators": ["Russia", "several"]},
+  {"id": "mk19", "name": "Mk 19", "category": "crew-served", "type": "automatic grenade launcher", "origin": "United States", "role": "AGL", "era": "1960s", "status": "in service", "class": "40mm AGL", "operators": ["United States", "many"]},
+  {"id": "ags-17", "name": "AGS-17 Plamya", "category": "crew-served", "type": "automatic grenade launcher", "origin": "Soviet Union", "role": "AGL", "era": "1970s", "status": "in service", "class": "30mm AGL", "operators": ["many"]},
+  {"id": "m252", "name": "M252", "category": "crew-served", "type": "mortar", "origin": "UK/US", "role": "indirect fire (company)", "era": "1980s", "status": "in service", "class": "81mm mortar", "operators": ["United States", "several"]},
+  {"id": "m224", "name": "M224", "category": "crew-served", "type": "mortar", "origin": "United States", "role": "light indirect fire", "era": "1970s", "status": "in service", "class": "60mm mortar", "operators": ["United States", "several"]},
+  {"id": "carl-gustaf", "name": "Carl Gustaf M4", "category": "crew-served", "type": "recoilless rifle", "origin": "Sweden", "role": "multi-role recoilless", "era": "2010s", "status": "in service", "class": "84mm", "operators": ["many"]},
+  {"id": "at4", "name": "AT4", "category": "crew-served", "type": "recoilless weapon", "origin": "Sweden", "role": "single-shot light AT", "era": "1980s", "status": "in service", "class": "84mm", "operators": ["many"]},
+  {"id": "rpg-7", "name": "RPG-7", "category": "crew-served", "type": "rocket-propelled grenade launcher", "origin": "Soviet Union", "role": "shoulder-fired launcher", "era": "1960s", "status": "in service", "class": "40mm (variable warheads)", "operators": ["many"]},
+  {"id": "panzerfaust-3", "name": "Panzerfaust 3", "category": "crew-served", "type": "recoilless AT weapon", "origin": "Germany", "role": "shoulder-fired AT", "era": "1980s", "status": "in service", "class": "60mm", "operators": ["several"]}
+]
