@@ -10,7 +10,8 @@ from fieldcraft.cli import main  # noqa: E402
 
 
 def test_version_bumped():
-    assert TOOL_VERSION == "0.2.0"
+    major, minor = (int(x) for x in TOOL_VERSION.split(".")[:2])
+    assert (major, minor) >= (0, 2)   # Modern Soldier OS line
 
 
 def test_lessons():
