@@ -1,0 +1,23 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fieldcraft"
+version = "0.1.0"
+description = "A practical preparedness, survival & field-reference knowledge base + loadout builder for soldiers and civilians. Educational/reference; links public + open-source resources."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "LicenseRef-COCL-1.0" }
+authors = [{ name = "Cognis Digital" }]
+keywords = ["survival", "preparedness", "fieldcraft", "first-aid", "tccc",
+            "land-navigation", "rucking", "edc", "emergency-preparedness", "reference"]
+
+[project.scripts]
+fieldcraft = "fieldcraft.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/cognis-digital/fieldcraft"
+
+[tool.hatch.build.targets.wheel]
+packages = ["fieldcraft"]

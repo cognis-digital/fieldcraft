@@ -1,0 +1,1982 @@
+[
+  {
+    "term": "FM",
+    "expansion": "Field Manual",
+    "domain": "environment_sere",
+    "note": "US Army doctrinal publication; FM 21-76 (Survival Manual) and FM 4-25.11 (First Aid) are foundational environmental injury references"
+  },
+  {
+    "term": "STOP",
+    "expansion": "Stop, Think, Observe, Plan",
+    "domain": "environment_sere",
+    "note": "Survival decision-making mnemonic; prevents panic-driven errors in emergency situations"
+  },
+  {
+    "term": "PLB",
+    "expansion": "Personal Locator Beacon",
+    "domain": "gear_edc",
+    "note": "Satellite emergency device that transmits a distress signal to COSPAS-SARSAT; one-way, subscription-free"
+  },
+  {
+    "term": "EPIRB",
+    "expansion": "Emergency Position-Indicating Radio Beacon",
+    "domain": "survival",
+    "note": "Marine equivalent of a PLB; activates automatically on water immersion"
+  },
+  {
+    "term": "COSPAS-SARSAT",
+    "expansion": "Cosmicheskaya Sistyema Poiska Avariynykh Sudov \u2014 Search And Rescue Satellite-Aided Tracking",
+    "domain": "survival",
+    "note": "International satellite system that receives and relays PLB/EPIRB distress signals to rescue coordination centers"
+  },
+  {
+    "term": "SAR",
+    "expansion": "Search and Rescue",
+    "domain": "opensource_tools",
+    "note": ""
+  },
+  {
+    "term": "WFA",
+    "expansion": "Wilderness First Aid",
+    "domain": "environment_sere",
+    "note": "16-hour entry-level wilderness medicine course for recreationists"
+  },
+  {
+    "term": "WFR",
+    "expansion": "Wilderness First Responder",
+    "domain": "environment_sere",
+    "note": "80-hour professional wilderness medicine certification; required for many outdoor guides"
+  },
+  {
+    "term": "WEMT",
+    "expansion": "Wilderness Emergency Medical Technician",
+    "domain": "environment_sere",
+    "note": "Advanced wilderness medicine certification combining EMT with wilderness protocols"
+  },
+  {
+    "term": "TCCC",
+    "expansion": "Tactical Combat Casualty Care",
+    "domain": "environment_sere",
+    "note": "Battlefield trauma care framework; ATP 4-02.11 incorporates TCCC into broader casualty response doctrine"
+  },
+  {
+    "term": "TECC",
+    "expansion": "Tactical Emergency Casualty Care",
+    "domain": "medical_tccc",
+    "note": "Civilian adaptation of TCCC for law enforcement, EMS, and public responders; maintained by C-TECC"
+  },
+  {
+    "term": "CAT",
+    "expansion": "Combat Application Tourniquet",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "CoTCCC-approved windlass-style limb tourniquet; most widely issued in US military"
+  },
+  {
+    "term": "SOFTT-W",
+    "expansion": "Special Operations Forces Tactical Tourniquet Wide",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "CoTCCC-approved alternative windlass tourniquet; wider band for easier self-application"
+  },
+  {
+    "term": "ABC",
+    "expansion": "Airway, Breathing, Circulation",
+    "domain": "survival",
+    "note": "Primary patient assessment sequence in first aid"
+  },
+  {
+    "term": "SAMPLE",
+    "expansion": "Symptoms, Allergies, Medications, Pertinent history, Last intake, Events",
+    "domain": "environment_sere",
+    "note": "Patient history mnemonic used in wilderness and emergency medicine assessment"
+  },
+  {
+    "term": "UEF",
+    "expansion": "Universal Edibility Test",
+    "domain": "survival",
+    "note": "FM 21-76 protocol for testing unknown plants for edibility as a last resort"
+  },
+  {
+    "term": "NOLS",
+    "expansion": "National Outdoor Leadership School",
+    "domain": "environment_sere",
+    "note": "Leading wilderness education and wilderness medicine training organization"
+  },
+  {
+    "term": "FEMA",
+    "expansion": "Federal Emergency Management Agency",
+    "domain": "opensource_tools",
+    "note": ""
+  },
+  {
+    "term": "NOAA",
+    "expansion": "National Oceanic and Atmospheric Administration",
+    "domain": "preparedness",
+    "note": "Federal agency that operates the National Weather Service and the NOAA Weather Radio All Hazards network"
+  },
+  {
+    "term": "GPS",
+    "expansion": "Global Positioning System",
+    "domain": "opensource_tools",
+    "note": ""
+  },
+  {
+    "term": "RVOL",
+    "expansion": "Relative Volume",
+    "domain": "rucking_load",
+    "note": "Not specific to rucking; included for completeness"
+  },
+  {
+    "term": "SOS",
+    "expansion": "Distress signal (Morse: \u00b7 \u00b7 \u00b7 \u2014 \u2014 \u2014 \u00b7 \u00b7 \u00b7)",
+    "domain": "survival",
+    "note": "Internationally recognized emergency signal; does not stand for 'Save Our Souls' \u2014 that is a backronym"
+  },
+  {
+    "term": "WNB",
+    "expansion": "Wind, Night, and Barriers",
+    "domain": "survival",
+    "note": "Common field mnemonic for shelter-site selection factors"
+  },
+  {
+    "term": "MCRP",
+    "expansion": "Marine Corps Reference Publication",
+    "domain": "survival",
+    "note": "MCRP 3-02F is the Marine Corps equivalent of FM 21-76"
+  },
+  {
+    "term": "MRE",
+    "expansion": "Meal Ready to Eat",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "US military individual combat ration; self-heating, shelf-stable, ~1,200 calories per meal"
+  },
+  {
+    "term": "FSR",
+    "expansion": "First Strike Ration",
+    "domain": "food_water_rations",
+    "note": "Compact assault ration; ~2,900 kcal/24hr; minimal prep for high-intensity ops"
+  },
+  {
+    "term": "MCW",
+    "expansion": "Meal, Cold Weather",
+    "domain": "food_water_rations",
+    "note": "Cold-weather individual ration; elevated caloric density for thermogenesis"
+  },
+  {
+    "term": "UGR",
+    "expansion": "Unitized Group Ration",
+    "domain": "food_water_rations",
+    "note": "Group ration system serving 50; replaces older A/B/T ration alphabet system"
+  },
+  {
+    "term": "UGR-A",
+    "expansion": "Unitized Group Ration - A-ration equivalent",
+    "domain": "food_water_rations",
+    "note": "Highest quality group ration; includes frozen components; requires field kitchen"
+  },
+  {
+    "term": "UGR-H&S",
+    "expansion": "Unitized Group Ration - Heat and Serve",
+    "domain": "food_water_rations",
+    "note": "Shelf-stable group ration; submerge trays in hot water; no field kitchen needed"
+  },
+  {
+    "term": "UGR-E",
+    "expansion": "Unitized Group Ration - Express",
+    "domain": "food_water_rations",
+    "note": "Ready in 30\u201345 minutes; requires no trained cooks"
+  },
+  {
+    "term": "MORE",
+    "expansion": "Modular Operational Rations Enhancement",
+    "domain": "food_water_rations",
+    "note": "~1,000 kcal supplement pack for cold/altitude/high-exertion environments"
+  },
+  {
+    "term": "FRH",
+    "expansion": "Flameless Ration Heater",
+    "domain": "food_water_rations",
+    "note": "Magnesium-iron exothermic packet included in MREs; heats entree with water"
+  },
+  {
+    "term": "MRDA",
+    "expansion": "Military Recommended Daily Allowance",
+    "domain": "food_water_rations",
+    "note": "Nutrition standard each 3-MRE daily issue must meet; governed by AR 40-25"
+  },
+  {
+    "term": "AR 40-25",
+    "expansion": "Army Regulation 40-25",
+    "domain": "food_water_rations",
+    "note": "Joint service nutrition and menu standards for human performance optimization"
+  },
+  {
+    "term": "FIFO",
+    "expansion": "First In, First Out",
+    "domain": "food_water_rations",
+    "note": "Rotation principle for stored food; oldest stock consumed first"
+  },
+  {
+    "term": "SODIS",
+    "expansion": "Solar Disinfection",
+    "domain": "environment_sere",
+    "note": "Water purification method using UV from sunlight; clear PET bottles + 6+ hours sun exposure; emergency backup"
+  },
+  {
+    "term": "ORS",
+    "expansion": "Oral Rehydration Solution",
+    "domain": "food_water_rations",
+    "note": "WHO formula: 1L water + 6 tsp sugar + 0.5 tsp salt; treats mild-moderate dehydration"
+  },
+  {
+    "term": "PET / PETE",
+    "expansion": "Polyethylene Terephthalate",
+    "domain": "food_water_rations",
+    "note": "Food-safe plastic for water bottles; approved for SODIS; recycle code 1"
+  },
+  {
+    "term": "HDPE",
+    "expansion": "High-Density Polyethylene",
+    "domain": "food_water_rations",
+    "note": "Food-grade plastic for water containers; recycle code 2; blue water barrels"
+  },
+  {
+    "term": "NTU",
+    "expansion": "Nephelometric Turbidity Unit",
+    "domain": "food_water_rations",
+    "note": "Measure of water cloudiness; SODIS requires <30 NTU; chemical treatment less effective in high turbidity"
+  },
+  {
+    "term": "WBGT",
+    "expansion": "Wet Bulb Globe Temperature",
+    "domain": "environment_sere",
+    "note": "Heat stress index accounting for temperature, humidity, wind, and solar radiation; used for military work/rest decisions"
+  },
+  {
+    "term": "UV-A",
+    "expansion": "Ultraviolet-A radiation",
+    "domain": "food_water_rations",
+    "note": "280\u2013400 nm band; primary disinfecting agent in SODIS and UV purifiers"
+  },
+  {
+    "term": "FM 21-76",
+    "expansion": "Field Manual 21-76",
+    "domain": "food_water_rations",
+    "note": "US Army Survival Manual; covers water, food, shelter, navigation; public domain"
+  },
+  {
+    "term": "FM 4-25.11",
+    "expansion": "Field Manual 4-25.11",
+    "domain": "food_water_rations",
+    "note": "US Army First Aid Manual; covers dehydration, heat injuries, field medical treatment"
+  },
+  {
+    "term": "ComRaD",
+    "expansion": "Combat Rations Database",
+    "domain": "food_water_rations",
+    "note": "USARIEM database of detailed nutritional data for all military ration components"
+  },
+  {
+    "term": "CDC",
+    "expansion": "Centers for Disease Control and Prevention",
+    "domain": "food_water_rations",
+    "note": "US public health agency; publishes emergency water treatment guidelines"
+  },
+  {
+    "term": "EPA",
+    "expansion": "Environmental Protection Agency",
+    "domain": "food_water_rations",
+    "note": "US agency; publishes emergency drinking water disinfection standards and dosage tables"
+  },
+  {
+    "term": "WHO",
+    "expansion": "World Health Organization",
+    "domain": "food_water_rations",
+    "note": "Endorses SODIS; publishes ORS formulas and emergency water standards"
+  },
+  {
+    "term": "NAAK",
+    "expansion": "Nerve Agent Antidote Kit",
+    "domain": "food_water_rations",
+    "note": "Military dual-injector (atropine + pralidoxime) issued against nerve agent exposure; not a food/water item \u2014 included for context only"
+  },
+  {
+    "term": "MARCH",
+    "expansion": "Massive hemorrhage, Airway, Respiration, Circulation, Hypothermia",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Primary TCCC treatment priority sequence"
+  },
+  {
+    "term": "MARCH PAWS",
+    "expansion": "Massive hemorrhage, Airway, Respiration, Circulation, Hypothermia, Pain, Antibiotics, Wounds, Splinting",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "USAF Pararescue (PJ) expansion of MARCH for tactical field care and TACEVAC"
+  },
+  {
+    "term": "CoTCCC",
+    "expansion": "Committee on Tactical Combat Casualty Care",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "The body that writes and updates TCCC guidelines under the Joint Trauma System"
+  },
+  {
+    "term": "C-TECC",
+    "expansion": "Committee for Tactical Emergency Casualty Care",
+    "domain": "medical_tccc",
+    "note": "Civilian body formed 2011 that maintains TECC guidelines; publishes free PDFs at c-tecc.org"
+  },
+  {
+    "term": "IFAK",
+    "expansion": "Individual First Aid Kit",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Soldier's personal trauma kit; standardized TCCC contents include tourniquet, chest seal, hemostatic gauze, NPA"
+  },
+  {
+    "term": "AFAK",
+    "expansion": "Advanced First Aid Kit",
+    "domain": "medical_tccc",
+    "note": "Enhanced kit adding IV supplies, advanced airway, and medications beyond the basic IFAK"
+  },
+  {
+    "term": "MFAK",
+    "expansion": "Medic/Mass Casualty First Aid Kit",
+    "domain": "medical_tccc",
+    "note": "Larger team-level resource carried by medics for multiple casualties"
+  },
+  {
+    "term": "SOF-T Wide",
+    "expansion": "Special Operations Forces Tourniquet Wide",
+    "domain": "medical_tccc",
+    "note": "Alternative CoTCCC-recommended tourniquet; wider band distributes pressure over larger area"
+  },
+  {
+    "term": "NPA",
+    "expansion": "Nasopharyngeal Airway",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Flexible rubber tube inserted into a nostril to maintain an airway in unconscious patients"
+  },
+  {
+    "term": "OPA",
+    "expansion": "Oropharyngeal Airway",
+    "domain": "medical_tccc",
+    "note": "Rigid plastic airway adjunct inserted through the mouth; requires absent gag reflex"
+  },
+  {
+    "term": "ETD",
+    "expansion": "Emergency Trauma Dressing",
+    "domain": "medical_tccc",
+    "note": "Also called Israeli bandage; elastic pressure bandage with built-in compression bar"
+  },
+  {
+    "term": "TFC",
+    "expansion": "Tactical Field Care",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Phase 2 of TCCC: care when not under immediate fire; full MARCH assessment"
+  },
+  {
+    "term": "CUF",
+    "expansion": "Care Under Fire",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Phase 1 of TCCC: casualty care while still under direct enemy fire; limited interventions"
+  },
+  {
+    "term": "TACEVAC",
+    "expansion": "Tactical Evacuation Care",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Phase 3 of TCCC: care provided during evacuation to a medical facility"
+  },
+  {
+    "term": "PFC",
+    "expansion": "Private First Class",
+    "domain": "mil_reference",
+    "note": "E-3"
+  },
+  {
+    "term": "TBI",
+    "expansion": "Traumatic Brain Injury",
+    "domain": "medical_tccc",
+    "note": "Brain injury from external mechanical force; field management focuses on preventing secondary injury via oxygenation and BP maintenance"
+  },
+  {
+    "term": "GCS",
+    "expansion": "Glasgow Coma Scale",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "13-level neurological assessment scoring eye, verbal, and motor responses; used in hospital and WFR settings"
+  },
+  {
+    "term": "NTX",
+    "expansion": "Needle Thoracostomy / Needle Decompression",
+    "domain": "medical_tccc",
+    "note": "Emergency needle insertion to relieve tension pneumothorax; 14g 3.25-inch needle at ICS2-MCL or ICS4/5-AAL"
+  },
+  {
+    "term": "ICS",
+    "expansion": "Incident Command System",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Standardized on-scene emergency management structure used by all US emergency responders"
+  },
+  {
+    "term": "MCL",
+    "expansion": "Mid-Clavicular Line",
+    "domain": "medical_tccc",
+    "note": "Vertical line through midpoint of clavicle; traditional landmark for needle decompression"
+  },
+  {
+    "term": "AAL",
+    "expansion": "Anterior Axillary Line",
+    "domain": "medical_tccc",
+    "note": "Vertical line at the anterior axillary fold; preferred by many for needle decompression due to reduced chest wall thickness"
+  },
+  {
+    "term": "JTS",
+    "expansion": "Joint Trauma System",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "DoD system that collects combat casualty data and translates it into TCCC guidance"
+  },
+  {
+    "term": "CPG",
+    "expansion": "Clinical Practice Guideline",
+    "domain": "medical_tccc",
+    "note": "Evidence-based DoD medical treatment recommendation; free public PDFs available at jts.health.mil"
+  },
+  {
+    "term": "PHTLS",
+    "expansion": "Prehospital Trauma Life Support",
+    "domain": "medical_tccc",
+    "note": "NAEMT global EMS trauma course; uses XABCDE mnemonic placing exsanguinating hemorrhage first"
+  },
+  {
+    "term": "NAEMT",
+    "expansion": "National Association of Emergency Medical Technicians",
+    "domain": "opensource_tools",
+    "note": "Primary accredited TCCC course provider for civilians"
+  },
+  {
+    "term": "ATLS",
+    "expansion": "Advanced Trauma Life Support",
+    "domain": "medical_tccc",
+    "note": "In-hospital surgeon/physician trauma framework by the American College of Surgeons; uses ABCDE"
+  },
+  {
+    "term": "FAST",
+    "expansion": "Focused Assessment with Sonography in Trauma",
+    "domain": "medical_tccc",
+    "note": "Bedside ultrasound to detect blood in peritoneal/pericardial space; used in TC and hospital settings"
+  },
+  {
+    "term": "AMS",
+    "expansion": "Acute Mountain Sickness",
+    "domain": "environment_sere",
+    "note": "Most common altitude illness; headache + systemic symptoms above 8,000 ft"
+  },
+  {
+    "term": "HACE",
+    "expansion": "High Altitude Cerebral Edema",
+    "domain": "environment_sere",
+    "note": "Severe brain swelling from altitude hypoxia; neurological symptoms; fatal without descent"
+  },
+  {
+    "term": "HAPE",
+    "expansion": "High Altitude Pulmonary Edema",
+    "domain": "environment_sere",
+    "note": "Fluid in lungs at altitude; most common cause of altitude-related death"
+  },
+  {
+    "term": "XABCDE",
+    "expansion": "Exsanguinating hemorrhage, Airway, Breathing, Circulation, Disability, Exposure",
+    "domain": "medical_tccc",
+    "note": "PHTLS assessment mnemonic placing external hemorrhage control before standard ABC"
+  },
+  {
+    "term": "TC 4-02.1",
+    "expansion": "Training Circular 4-02.1",
+    "domain": "medical_tccc",
+    "note": "US Army First Aid manual (2016); publicly available at rdl.train.army.mil"
+  },
+  {
+    "term": "THREAT",
+    "expansion": "Threat suppression, Hemorrhage control, Rapid Extrication, Assessment, Transport",
+    "domain": "medical_tccc",
+    "note": "Hartford Consensus mnemonic for law enforcement integration at active shooter events; origin of Stop the Bleed"
+  },
+  {
+    "term": "IO",
+    "expansion": "Intraosseous",
+    "domain": "medical_tccc",
+    "note": "Needle inserted into bone marrow space for fluid/medication delivery when IV access is unavailable"
+  },
+  {
+    "term": "TQ",
+    "expansion": "Tourniquet",
+    "domain": "medical_tccc",
+    "note": "Common field abbreviation; T-time = time of tourniquet application, must be documented"
+  },
+  {
+    "term": "ETT",
+    "expansion": "Endotracheal Tube",
+    "domain": "medical_tccc",
+    "note": "Definitive airway device placed through the vocal cords; requires training, not typically a self/buddy-aid skill"
+  },
+  {
+    "term": "ATP",
+    "expansion": "Army Techniques Publication",
+    "domain": "environment_sere",
+    "note": "ATP 4-02.11 (2026) is current US Army casualty response and first aid doctrine, superseding TC 4-02.1"
+  },
+  {
+    "term": "TC",
+    "expansion": "Training Circular",
+    "domain": "environment_sere",
+    "note": "US Army training publication; TC 4-02.1 First Aid (2016) covers heat and cold injury treatment"
+  },
+  {
+    "term": "ACFT",
+    "expansion": "Army Combat Fitness Test",
+    "domain": "rucking_load",
+    "note": "Replaced by AFT as of June 1, 2025; did not include a ruck event"
+  },
+  {
+    "term": "AFT",
+    "expansion": "Army Fitness Test",
+    "domain": "rucking_load",
+    "note": "Current Army fitness test of record as of June 2025; 2-mile run and other events; no ruck event"
+  },
+  {
+    "term": "ORP",
+    "expansion": "Objective Rally Point",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Last covered position before assaulting or reconnoitering an objective"
+  },
+  {
+    "term": "RASP",
+    "expansion": "Ranger Assessment and Selection Program",
+    "domain": "rucking_load",
+    "note": "Selection pipeline for the 75th Ranger Regiment"
+  },
+  {
+    "term": "SFAS",
+    "expansion": "Special Forces Assessment and Selection",
+    "domain": "rucking_load",
+    "note": "Selection course for the U.S. Army Special Forces (Green Berets)"
+  },
+  {
+    "term": "LRIM",
+    "expansion": "Long Range Individual Movement",
+    "domain": "rucking_load",
+    "note": "Final ruck event at SFAS, up to 32 miles; also called 'the Trek'"
+  },
+  {
+    "term": "MOLLE",
+    "expansion": "Modular Lightweight Load-carrying Equipment",
+    "domain": "gear_edc",
+    "note": "Current U.S. Army load-carrying standard; uses PALS webbing for modular attachment"
+  },
+  {
+    "term": "ILBE",
+    "expansion": "Improved Load Bearing Equipment",
+    "domain": "rucking_load",
+    "note": "USMC-origin pack system widely used across services"
+  },
+  {
+    "term": "FILBE",
+    "expansion": "Family of Improved Load Bearing Equipment",
+    "domain": "rucking_load",
+    "note": "Newer USMC pack family replacing ILBE"
+  },
+  {
+    "term": "PSS",
+    "expansion": "Patellofemoral Pain Syndrome",
+    "domain": "rucking_load",
+    "note": "Also called runner's knee; pain under/around the kneecap from overuse, worsened by downhill rucking with heavy load"
+  },
+  {
+    "term": "MOS",
+    "expansion": "Military Occupational Specialty",
+    "domain": "mil_reference",
+    "note": "Army job code system; alphanumeric e.g. 11B"
+  },
+  {
+    "term": "ATV",
+    "expansion": "All-Terrain Vehicle",
+    "domain": "rucking_load",
+    "note": "Referenced in load-distribution context; sustainment loads moved by vehicle whenever possible"
+  },
+  {
+    "term": "BFT",
+    "expansion": "Blue Force Tracker",
+    "domain": "rucking_load",
+    "note": "Digital situational awareness device; adds to fighting load weight in modern operations"
+  },
+  {
+    "term": "NVG",
+    "expansion": "Night Vision Goggles",
+    "domain": "rucking_load",
+    "note": "Worn on helmet or carried; adds to fighting load weight"
+  },
+  {
+    "term": "MGRS",
+    "expansion": "Military Grid Reference System",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "NATO standard alphanumeric geocoordinate format; derived from UTM"
+  },
+  {
+    "term": "UTM",
+    "expansion": "Universal Transverse Mercator",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Civilian grid coordinate system underlying MGRS"
+  },
+  {
+    "term": "GZD",
+    "expansion": "Grid Zone Designator",
+    "domain": "land_nav_terrain",
+    "note": "See above \u2014 the two-character zone prefix of an MGRS coordinate"
+  },
+  {
+    "term": "WGS84",
+    "expansion": "World Geodetic System 1984",
+    "domain": "land_nav_terrain",
+    "note": "The datum used by GPS; standard reference ellipsoid for Earth's shape"
+  },
+  {
+    "term": "NAD27",
+    "expansion": "North American Datum 1927",
+    "domain": "land_nav_terrain",
+    "note": "Older datum used on many legacy USGS topo maps; can differ from WGS84 by 100+ meters"
+  },
+  {
+    "term": "NAD83",
+    "expansion": "North American Datum 1983",
+    "domain": "land_nav_terrain",
+    "note": "Near-equivalent to WGS84 for most practical purposes; used on newer USGS topos"
+  },
+  {
+    "term": "OAKOC",
+    "expansion": "Observation and fields of fire, Avenues of approach, Key terrain, Obstacles, Cover and concealment",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Terrain analysis sub-framework within METT-TC"
+  },
+  {
+    "term": "KOCOA",
+    "expansion": "Key Terrain, Observation and Fields of Fire, Cover and Concealment, Obstacles, Avenues of Approach",
+    "domain": "land_nav_terrain",
+    "note": "Alternate ordering of OAKOC used in historical and doctrinal analysis contexts"
+  },
+  {
+    "term": "OCOKA",
+    "expansion": "Observation/Fields of Fire, Cover/Concealment, Obstacles, Key Terrain, Avenues of Approach",
+    "domain": "land_nav_terrain",
+    "note": "Another ordering variant; all refer to the same five terrain analysis factors"
+  },
+  {
+    "term": "METT-TC",
+    "expansion": "Mission, Enemy, Terrain and weather, Troops and support available, Time available, Civil considerations",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Primary Army framework for analyzing any tactical situation"
+  },
+  {
+    "term": "IPB",
+    "expansion": "Intelligence Preparation of the Battlefield",
+    "domain": "mil_reference",
+    "note": "Analytical process for terrain, weather, and enemy analysis"
+  },
+  {
+    "term": "WAAS",
+    "expansion": "Wide Area Augmentation System",
+    "domain": "land_nav_terrain",
+    "note": "FAA augmentation network improving GPS accuracy to 1-3m within CONUS"
+  },
+  {
+    "term": "SA",
+    "expansion": "Selective Availability",
+    "domain": "land_nav_terrain",
+    "note": "Intentional GPS accuracy degradation for civilians; permanently disabled May 1, 2000"
+  },
+  {
+    "term": "DMS",
+    "expansion": "Degrees, Minutes, Seconds",
+    "domain": "land_nav_terrain",
+    "note": "Traditional format for lat/long coordinates (e.g., 38 degrees 53' 23\" N)"
+  },
+  {
+    "term": "DD",
+    "expansion": "Decimal Degrees",
+    "domain": "land_nav_terrain",
+    "note": "Modern format for lat/long used by most GPS apps (e.g., 38.8897)"
+  },
+  {
+    "term": "AZ",
+    "expansion": "Azimuth",
+    "domain": "land_nav_terrain",
+    "note": "A horizontal angle measured clockwise from north (0-360 degrees, or 0-6400 mils)"
+  },
+  {
+    "term": "MIL",
+    "expansion": "Milliradian (military)",
+    "domain": "land_nav_terrain",
+    "note": "Angular unit used on military lensatic compasses; 6,400 mils = 360 degrees"
+  },
+  {
+    "term": "CI",
+    "expansion": "Contour Interval",
+    "domain": "land_nav_terrain",
+    "note": "The elevation difference between adjacent contour lines on a topo map; shown in map margin"
+  },
+  {
+    "term": "BMPT",
+    "expansion": "Battlefield Weather: Visibility, Wind, Precipitation, Temperature/humidity",
+    "domain": "land_nav_terrain",
+    "note": "Weather sub-analysis under the METT-TC 'T' variable; informal variant grouping"
+  },
+  {
+    "term": "PNT",
+    "expansion": "Position, Navigation, and Timing",
+    "domain": "land_nav_terrain",
+    "note": "The three services provided by GPS satellite systems"
+  },
+  {
+    "term": "RTK",
+    "expansion": "Real-Time Kinematic",
+    "domain": "land_nav_terrain",
+    "note": "Differential GPS technique achieving centimeter accuracy; requires base station"
+  },
+  {
+    "term": "IGRF",
+    "expansion": "International Geomagnetic Reference Field",
+    "domain": "land_nav_terrain",
+    "note": "Scientific model of Earth's magnetic field used by NOAA declination calculator"
+  },
+  {
+    "term": "WMM",
+    "expansion": "World Magnetic Model",
+    "domain": "land_nav_terrain",
+    "note": "DoD/NOAA model used for declination correction; updated every 5 years"
+  },
+  {
+    "term": "USNG",
+    "expansion": "United States National Grid",
+    "domain": "land_nav_terrain",
+    "note": "Civilian equivalent of MGRS adopted for emergency management; identical format"
+  },
+  {
+    "term": "CAP",
+    "expansion": "Civil Air Patrol",
+    "domain": "land_nav_terrain",
+    "note": "USAF Auxiliary; trains members in land navigation for SAR operations"
+  },
+  {
+    "term": "ATAK",
+    "expansion": "Android Team Awareness Kit (civilian) / Android Tactical Assault Kit (military)",
+    "domain": "opensource_tools",
+    "note": "Same acronym, two names depending on context; civilian version is CivTAK"
+  },
+  {
+    "term": "PACE",
+    "expansion": "Primary, Alternate, Contingency, Emergency",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Four-tier planning framework for communications, routes, and critical functions"
+  },
+  {
+    "term": "FRS",
+    "expansion": "Family Radio Service",
+    "domain": "opensource_tools",
+    "note": "U.S. license-free personal radio; channels programmable via CHIRP"
+  },
+  {
+    "term": "GMRS",
+    "expansion": "General Mobile Radio Service",
+    "domain": "opensource_tools",
+    "note": "U.S. licensed personal radio service; channels programmable via CHIRP"
+  },
+  {
+    "term": "MURS",
+    "expansion": "Multi-Use Radio Service",
+    "domain": "comms",
+    "note": "License-free VHF service, 5 channels, max 2W, no repeaters"
+  },
+  {
+    "term": "HF",
+    "expansion": "High Frequency",
+    "domain": "comms",
+    "note": "3\u201330 MHz; enables long-distance skywave propagation"
+  },
+  {
+    "term": "VHF",
+    "expansion": "Very High Frequency",
+    "domain": "comms",
+    "note": "30\u2013300 MHz; mostly line-of-sight; 2m ham band here"
+  },
+  {
+    "term": "UHF",
+    "expansion": "Ultra High Frequency",
+    "domain": "comms",
+    "note": "300 MHz\u20133 GHz; strictly line-of-sight; FRS/GMRS/70cm ham band"
+  },
+  {
+    "term": "NVIS",
+    "expansion": "Near Vertical Incidence Skywave",
+    "domain": "comms",
+    "note": "HF propagation mode for regional (100\u2013300 mile) coverage via low horizontal antenna"
+  },
+  {
+    "term": "CTCSS",
+    "expansion": "Continuous Tone-Coded Squelch System",
+    "domain": "opensource_tools",
+    "note": "Sub-audible tone used to open a radio squelch; programmed via CHIRP"
+  },
+  {
+    "term": "DCS",
+    "expansion": "Digital-Coded Squelch",
+    "domain": "opensource_tools",
+    "note": "Digital equivalent of CTCSS; also programmed via CHIRP"
+  },
+  {
+    "term": "PL",
+    "expansion": "Private Line",
+    "domain": "comms",
+    "note": "Motorola trademark for CTCSS; used interchangeably in the field"
+  },
+  {
+    "term": "LOS",
+    "expansion": "Line of Sight",
+    "domain": "comms",
+    "note": "Radio propagation mode where signal travels in straight line; dominant at VHF/UHF"
+  },
+  {
+    "term": "ARRL",
+    "expansion": "American Radio Relay League",
+    "domain": "comms",
+    "note": "National association for amateur radio in the US; publisher of licensing materials"
+  },
+  {
+    "term": "FCC",
+    "expansion": "Federal Communications Commission",
+    "domain": "comms",
+    "note": "US regulatory body for radio spectrum and licensing"
+  },
+  {
+    "term": "ARES",
+    "expansion": "Amateur Radio Emergency Service",
+    "domain": "comms",
+    "note": "ARRL-organized volunteer ham radio operators for disaster communications"
+  },
+  {
+    "term": "RACES",
+    "expansion": "Radio Amateur Civil Emergency Service",
+    "domain": "comms",
+    "note": "Government-sponsored amateur radio volunteers affiliated with civil defense/FEMA"
+  },
+  {
+    "term": "NCS",
+    "expansion": "Net Control Station",
+    "domain": "comms",
+    "note": "The station that manages and directs traffic on a radio net"
+  },
+  {
+    "term": "ULS",
+    "expansion": "Universal Licensing System",
+    "domain": "comms",
+    "note": "FCC online portal for radio license applications and management"
+  },
+  {
+    "term": "EFHW",
+    "expansion": "End-Fed Half-Wave antenna",
+    "domain": "comms",
+    "note": "Single-wire HF antenna fed at one end via matching transformer; easy field deployment"
+  },
+  {
+    "term": "CHIRP",
+    "expansion": "Cross-platform Ham Radio Programming",
+    "domain": "opensource_tools",
+    "note": "Free open-source radio memory-channel programming software"
+  },
+  {
+    "term": "APRS",
+    "expansion": "Automatic Packet Reporting System",
+    "domain": "comms",
+    "note": "Amateur radio data network for position, weather, and message reporting"
+  },
+  {
+    "term": "ICS-205",
+    "expansion": "Incident Radio Communications Plan (form 205)",
+    "domain": "comms",
+    "note": "FEMA ICS form documenting all radio frequencies and assignments for an incident"
+  },
+  {
+    "term": "EOC",
+    "expansion": "Emergency Operations Center",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Fixed facility coordinating resources and information during a declared emergency"
+  },
+  {
+    "term": "EmComm",
+    "expansion": "Emergency Communications",
+    "domain": "comms",
+    "note": "Amateur radio operations in support of public safety during disasters"
+  },
+  {
+    "term": "QRM",
+    "expansion": "Man-made interference (ITU Q-code)",
+    "domain": "comms",
+    "note": "Interference caused by other radio operators"
+  },
+  {
+    "term": "RST",
+    "expansion": "Readability, Strength, Tone",
+    "domain": "comms",
+    "note": "Signal report scale used in amateur radio"
+  },
+  {
+    "term": "CW",
+    "expansion": "Continuous Wave (Morse code)",
+    "domain": "comms",
+    "note": "HF mode using on/off keying; most resilient to noise; last-resort EmComm tool"
+  },
+  {
+    "term": "SDR",
+    "expansion": "Software Defined Radio",
+    "domain": "opensource_tools",
+    "note": "Radio hardware whose signal processing is performed in software rather than dedicated hardware"
+  },
+  {
+    "term": "LoRa",
+    "expansion": "Long Range (radio modulation)",
+    "domain": "opensource_tools",
+    "note": "Spread-spectrum modulation used by Meshtastic for low-power long-range comms"
+  },
+  {
+    "term": "SINPO",
+    "expansion": "Signal, Interference, Noise, Propagation, Overall",
+    "domain": "comms",
+    "note": "5-element signal report scale used in shortwave/HF monitoring"
+  },
+  {
+    "term": "EDC",
+    "expansion": "Every Day Carry",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Items carried on the person daily for immediate preparedness: knife, light, first aid, etc."
+  },
+  {
+    "term": "ECWCS",
+    "expansion": "Extended Cold Weather Clothing System",
+    "domain": "environment_sere",
+    "note": "US Army 7-layer cold weather clothing system (Gen III current standard); rated +40\u00b0F to \u221260\u00b0F"
+  },
+  {
+    "term": "PALS",
+    "expansion": "Pouch Attachment Ladder System",
+    "domain": "gear_edc",
+    "note": "The rows of nylon webbing on MOLLE-compatible gear that accept pouches"
+  },
+  {
+    "term": "FLC",
+    "expansion": "Fighting Load Carrier",
+    "domain": "gear_edc",
+    "note": "Chest/torso vest component of the MOLLE system; holds immediate-access items"
+  },
+  {
+    "term": "IOTV",
+    "expansion": "Improved Outer Tactical Vest",
+    "domain": "gear_edc",
+    "note": "Current U.S. Army body armor vest; compatible with MOLLE TAP accessories"
+  },
+  {
+    "term": "TAP",
+    "expansion": "Tactical Assault Panel",
+    "domain": "gear_edc",
+    "note": "MOLLE pouch panel that attaches to the IOTV; replaced the FLC in 2010"
+  },
+  {
+    "term": "WAFA",
+    "expansion": "Wilderness Advanced First Aid",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Intermediate wilderness medicine certification between WFA and WFR"
+  },
+  {
+    "term": "UPF",
+    "expansion": "Ultraviolet Protection Factor",
+    "domain": "gear_edc",
+    "note": "Clothing sun-protection rating; UPF 50 blocks 98% of UV radiation"
+  },
+  {
+    "term": "GTX",
+    "expansion": "GORE-TEX",
+    "domain": "gear_edc",
+    "note": "Waterproof/breathable membrane material; Level 6 ECWCS and civilian hardshell standard"
+  },
+  {
+    "term": "ACS",
+    "expansion": "American College of Surgeons",
+    "domain": "opensource_tools",
+    "note": ""
+  },
+  {
+    "term": "COLD",
+    "expansion": "Clean, Avoid Overheating, Loose and in Layers, Dry",
+    "domain": "gear_edc",
+    "note": "U.S. Army mnemonic for cold weather clothing management"
+  },
+  {
+    "term": "TM",
+    "expansion": "Technical Manual",
+    "domain": "gear_edc",
+    "note": "U.S. Army equipment operator/maintenance manual; TM 10-8415-236-10 covers ECWCS Gen III"
+  },
+  {
+    "term": "AAA / AA",
+    "expansion": "Standard dry-cell battery sizes",
+    "domain": "gear_edc",
+    "note": "AAA and AA batteries are the most universally available field battery formats"
+  },
+  {
+    "term": "Li-ion",
+    "expansion": "Lithium Ion",
+    "domain": "gear_edc",
+    "note": "Rechargeable battery chemistry; 18650 cell format is standard for high-output flashlights"
+  },
+  {
+    "term": "CERT",
+    "expansion": "Community Emergency Response Team",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "FEMA-coordinated neighborhood volunteer program training civilians in basic disaster response"
+  },
+  {
+    "term": "EAS",
+    "expansion": "Emergency Alert System",
+    "domain": "preparedness",
+    "note": "National broadcast-based public warning system used over TV and radio"
+  },
+  {
+    "term": "EFFAK",
+    "expansion": "Emergency Financial First Aid Kit",
+    "domain": "preparedness",
+    "note": "FEMA/Operation HOPE document organizing tool for financial and medical records before a disaster"
+  },
+  {
+    "term": "GFI",
+    "expansion": "Ground Fault Circuit Interrupter",
+    "domain": "preparedness",
+    "note": "Electrical safety outlet required in wet areas; check that these work before using power during flood recovery"
+  },
+  {
+    "term": "HVAC",
+    "expansion": "Heating, Ventilation, and Air Conditioning",
+    "domain": "preparedness",
+    "note": "Must be turned off during shelter-in-place for chemical or biological hazards to prevent drawing in contaminated air"
+  },
+  {
+    "term": "IPAWS",
+    "expansion": "Integrated Public Alert and Warning System",
+    "domain": "preparedness",
+    "note": "FEMA's national platform for simultaneous WEA, EAS, and NOAA Weather Radio alerts"
+  },
+  {
+    "term": "NWR",
+    "expansion": "NOAA Weather Radio (All Hazards)",
+    "domain": "preparedness",
+    "note": "Nationwide network broadcasting continuous weather and hazard information 24/7; core kit item"
+  },
+  {
+    "term": "NWS",
+    "expansion": "National Weather Service",
+    "domain": "preparedness",
+    "note": "NOAA component that issues weather watches, warnings, and forecasts"
+  },
+  {
+    "term": "WEA",
+    "expansion": "Wireless Emergency Alerts",
+    "domain": "preparedness",
+    "note": "Cell-broadcast messages pushed to WEA-enabled phones in a targeted area; no opt-in required"
+  },
+  {
+    "term": "PPE",
+    "expansion": "Personal Protective Equipment",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Protective gear including gloves, respirators, goggles, and gowns"
+  },
+  {
+    "term": "SIP",
+    "expansion": "Shelter In Place",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Emergency directive to remain at a location rather than evacuate; used for chemical, radiological, or severe weather events"
+  },
+  {
+    "term": "AED",
+    "expansion": "Automated External Defibrillator",
+    "domain": "opensource_tools",
+    "note": ""
+  },
+  {
+    "term": "CPR",
+    "expansion": "Cardiopulmonary Resuscitation",
+    "domain": "preparedness",
+    "note": "Emergency life-saving procedure combining chest compressions and rescue breaths"
+  },
+  {
+    "term": "CO",
+    "expansion": "Carbon Monoxide",
+    "domain": "preparedness",
+    "note": "Colorless, odorless gas produced by generators, grills, and combustion appliances; fatal indoors"
+  },
+  {
+    "term": "BOB",
+    "expansion": "Bug Out Bag",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Pre-packed evacuation kit kept ready for rapid departure in an emergency"
+  },
+  {
+    "term": "FOAD",
+    "expansion": "Functional Needs Support Services",
+    "domain": "preparedness",
+    "note": "FEMA terminology for shelter services addressing access and functional needs populations"
+  },
+  {
+    "term": "CMF",
+    "expansion": "Career Management Field",
+    "domain": "mil_reference",
+    "note": "Groups related MOSs; identified by the two-digit number prefix"
+  },
+  {
+    "term": "MOSQ",
+    "expansion": "MOS Qualified",
+    "domain": "mil_reference",
+    "note": "Soldier has completed required training for their MOS"
+  },
+  {
+    "term": "AIT",
+    "expansion": "Advanced Individual Training",
+    "domain": "mil_reference",
+    "note": "Post-Basic Training job-specific school"
+  },
+  {
+    "term": "OSUT",
+    "expansion": "One Station Unit Training",
+    "domain": "mil_reference",
+    "note": "Combined Basic + AIT at same location; used for Infantry, Armor, Military Police"
+  },
+  {
+    "term": "NCO",
+    "expansion": "Non-Commissioned Officer",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Enlisted leaders (Corporal through Sergeant Major) who are the backbone of tactical units"
+  },
+  {
+    "term": "SNCO",
+    "expansion": "Senior Noncommissioned Officer",
+    "domain": "mil_reference",
+    "note": "E-7 through E-9"
+  },
+  {
+    "term": "SMA",
+    "expansion": "Sergeant Major of the Army",
+    "domain": "mil_reference",
+    "note": "Highest enlisted rank; senior advisor to Army Chief of Staff"
+  },
+  {
+    "term": "CSM",
+    "expansion": "Circulation, Sensation, Motion",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Extremity neurovascular check performed after splinting or tourniquet application"
+  },
+  {
+    "term": "1SG",
+    "expansion": "First Sergeant",
+    "domain": "mil_reference",
+    "note": "E-8 (1SG variant); senior NCO of a company-sized unit"
+  },
+  {
+    "term": "WO1",
+    "expansion": "Warrant Officer 1",
+    "domain": "mil_reference",
+    "note": "Entry-level warrant officer grade"
+  },
+  {
+    "term": "CW2",
+    "expansion": "Chief Warrant Officer 2",
+    "domain": "mil_reference",
+    "note": "Fully qualified technical specialist"
+  },
+  {
+    "term": "CW5",
+    "expansion": "Chief Warrant Officer 5",
+    "domain": "mil_reference",
+    "note": "Highest warrant officer grade; strategic-level technical advisor"
+  },
+  {
+    "term": "2LT",
+    "expansion": "Second Lieutenant",
+    "domain": "mil_reference",
+    "note": "O-1; entry-level commissioned officer; typically a platoon leader"
+  },
+  {
+    "term": "CPT",
+    "expansion": "Captain",
+    "domain": "mil_reference",
+    "note": "O-3; commands a company; first command position"
+  },
+  {
+    "term": "LTC",
+    "expansion": "Lieutenant Colonel",
+    "domain": "mil_reference",
+    "note": "O-5; commands a battalion"
+  },
+  {
+    "term": "COL",
+    "expansion": "Colonel",
+    "domain": "mil_reference",
+    "note": "O-6; commands a brigade"
+  },
+  {
+    "term": "MG",
+    "expansion": "Major General",
+    "domain": "mil_reference",
+    "note": "O-8; two stars; commands a division"
+  },
+  {
+    "term": "CJCS",
+    "expansion": "Chairman of the Joint Chiefs of Staff",
+    "domain": "mil_reference",
+    "note": "Senior uniformed officer of the entire U.S. military"
+  },
+  {
+    "term": "ADP",
+    "expansion": "Army Doctrine Publication",
+    "domain": "mil_reference",
+    "note": "Capstone short publications; highest-level Army doctrine"
+  },
+  {
+    "term": "ADRP",
+    "expansion": "Army Doctrine Reference Publication",
+    "domain": "mil_reference",
+    "note": "Expanded companion to ADP; being consolidated back into FMs"
+  },
+  {
+    "term": "APD",
+    "expansion": "Army Publishing Directorate",
+    "domain": "mil_reference",
+    "note": "Official source for all Army doctrine; armypubs.army.mil"
+  },
+  {
+    "term": "OODA",
+    "expansion": "Observe, Orient, Decide, Act",
+    "domain": "mil_reference",
+    "note": "Boyd's decision-making loop; tempo determines competitive advantage"
+  },
+  {
+    "term": "BCT",
+    "expansion": "Brigade Combat Team",
+    "domain": "mil_reference",
+    "note": "Primary deployable combined-arms maneuver unit"
+  },
+  {
+    "term": "IBCT",
+    "expansion": "Infantry Brigade Combat Team",
+    "domain": "mil_reference",
+    "note": "Light infantry BCT; airborne or air-assault capable variants"
+  },
+  {
+    "term": "ABCT",
+    "expansion": "Armored Brigade Combat Team",
+    "domain": "mil_reference",
+    "note": "Mounted combined-arms BCT with tanks and Bradley IFVs"
+  },
+  {
+    "term": "SBCT",
+    "expansion": "Stryker Brigade Combat Team",
+    "domain": "mil_reference",
+    "note": "Wheeled BCT using Stryker 8x8 armored vehicles"
+  },
+  {
+    "term": "OPORD",
+    "expansion": "Operations Order",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Full formal order using the five-paragraph SMEAC format"
+  },
+  {
+    "term": "SMEAC",
+    "expansion": "Situation, Mission, Execution, Administration/Logistics, Command/Signal",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Five-paragraph operations order format; used by Army and USMC"
+  },
+  {
+    "term": "TLP",
+    "expansion": "Troop Leading Procedures",
+    "domain": "mil_reference",
+    "note": "Small-unit planning process; compressed MDMP for time-constrained environments"
+  },
+  {
+    "term": "MDMP",
+    "expansion": "Military Decision-Making Process",
+    "domain": "mil_reference",
+    "note": "Formal staff planning process; produces OPORD"
+  },
+  {
+    "term": "COA",
+    "expansion": "Course of Action",
+    "domain": "mil_reference",
+    "note": "Proposed plan; multiple COAs are developed and wargamed in MDMP"
+  },
+  {
+    "term": "SAW",
+    "expansion": "Squad Automatic Weapon",
+    "domain": "mil_reference",
+    "note": "M249 light machine gun; carried by automatic rifleman in fire team"
+  },
+  {
+    "term": "IAR",
+    "expansion": "Infantry Automatic Rifle",
+    "domain": "mil_reference",
+    "note": "M27; replacing M249 in some units as the base-of-fire weapon"
+  },
+  {
+    "term": "AOC",
+    "expansion": "Area of Concentration",
+    "domain": "mil_reference",
+    "note": "Officer equivalent of MOS; identifies specialty branch"
+  },
+  {
+    "term": "ASI",
+    "expansion": "Additional Skill Identifier",
+    "domain": "mil_reference",
+    "note": "Appended to MOS to denote secondary skills"
+  },
+  {
+    "term": "SQI",
+    "expansion": "Special Qualification Identifier",
+    "domain": "mil_reference",
+    "note": "Denotes special qualifications such as airborne (P) or Ranger tab (V)"
+  },
+  {
+    "term": "LSCO",
+    "expansion": "Large-Scale Combat Operations",
+    "domain": "mil_reference",
+    "note": "Primary operational planning scenario; peer/near-peer conflict"
+  },
+  {
+    "term": "RSTA",
+    "expansion": "Reconnaissance, Surveillance, and Target Acquisition",
+    "domain": "mil_reference",
+    "note": "BCT cavalry squadron mission; some CONUS IBCTs/SBCTs deactivated RSTA sqns in 2024"
+  },
+  {
+    "term": "SSG",
+    "expansion": "Staff Sergeant",
+    "domain": "mil_reference",
+    "note": "E-6; typical squad leader rank"
+  },
+  {
+    "term": "SGT",
+    "expansion": "Sergeant",
+    "domain": "mil_reference",
+    "note": "E-5; first full NCO grade; typical fire team leader"
+  },
+  {
+    "term": "SFC",
+    "expansion": "Sergeant First Class",
+    "domain": "mil_reference",
+    "note": "E-7; typical platoon sergeant"
+  },
+  {
+    "term": "SGM",
+    "expansion": "Sergeant Major",
+    "domain": "mil_reference",
+    "note": "E-9 (staff variant); serves in staff positions at battalion and higher"
+  },
+  {
+    "term": "PVT",
+    "expansion": "Private",
+    "domain": "mil_reference",
+    "note": "E-1; initial entry rank"
+  },
+  {
+    "term": "PV2",
+    "expansion": "Private Second Class",
+    "domain": "mil_reference",
+    "note": "E-2"
+  },
+  {
+    "term": "SPC",
+    "expansion": "Specialist",
+    "domain": "mil_reference",
+    "note": "E-4; technical track junior enlisted"
+  },
+  {
+    "term": "CPL",
+    "expansion": "Corporal",
+    "domain": "mil_reference",
+    "note": "E-4; leadership track; first NCO authority grade"
+  },
+  {
+    "term": "CivTAK",
+    "expansion": "Civilian Team Awareness Kit",
+    "domain": "opensource_tools",
+    "note": "The open-source civilian build of ATAK distributed via Google Play and tak.gov"
+  },
+  {
+    "term": "CoT",
+    "expansion": "Cursor on Target",
+    "domain": "opensource_tools",
+    "note": "XML/Protobuf messaging protocol at the heart of the TAK ecosystem"
+  },
+  {
+    "term": "GIS",
+    "expansion": "Geographic Information System",
+    "domain": "opensource_tools",
+    "note": ""
+  },
+  {
+    "term": "GPX",
+    "expansion": "GPS Exchange Format",
+    "domain": "opensource_tools",
+    "note": "Standard XML interchange format for waypoints, tracks, and routes"
+  },
+  {
+    "term": "GQRX",
+    "expansion": "GNU Radio Qt RX",
+    "domain": "opensource_tools",
+    "note": "Open-source SDR receiver GUI"
+  },
+  {
+    "term": "RTL-SDR",
+    "expansion": "Realtek SDR",
+    "domain": "opensource_tools",
+    "note": "Inexpensive (~$25) USB TV tuner repurposed as a wideband SDR receiver"
+  },
+  {
+    "term": "OSM",
+    "expansion": "OpenStreetMap",
+    "domain": "opensource_tools",
+    "note": "Global community-maintained open map database"
+  },
+  {
+    "term": "ODbL",
+    "expansion": "Open Database License",
+    "domain": "opensource_tools",
+    "note": "License under which OSM data is distributed"
+  },
+  {
+    "term": "ZIM",
+    "expansion": "Zeno Internet Media (file format)",
+    "domain": "opensource_tools",
+    "note": "Highly compressed indexed archive format used by Kiwix"
+  },
+  {
+    "term": "MBTiles",
+    "expansion": "MapBox Tiles",
+    "domain": "opensource_tools",
+    "note": "SQLite-based container format for offline map tile sets"
+  },
+  {
+    "term": "KML",
+    "expansion": "Keyhole Markup Language",
+    "domain": "opensource_tools",
+    "note": "XML-based geospatial data format used by Google Earth"
+  },
+  {
+    "term": "KMZ",
+    "expansion": "Keyhole Markup Language Zipped",
+    "domain": "opensource_tools",
+    "note": "Compressed KML file"
+  },
+  {
+    "term": "AFRL",
+    "expansion": "Air Force Research Laboratory",
+    "domain": "opensource_tools",
+    "note": "Original developer of ATAK"
+  },
+  {
+    "term": "GNU GPL",
+    "expansion": "GNU General Public License",
+    "domain": "opensource_tools",
+    "note": "Copyleft open-source software license used by QGIS, GQRX, CHIRP, GPSBabel"
+  },
+  {
+    "term": "ISM",
+    "expansion": "Industrial, Scientific, and Medical (radio bands)",
+    "domain": "opensource_tools",
+    "note": "License-free radio frequency bands; 915 MHz used by Meshtastic in North America"
+  },
+  {
+    "term": "GNSS",
+    "expansion": "Global Navigation Satellite System",
+    "domain": "opensource_tools",
+    "note": "Umbrella term for GPS, GLONASS, Galileo, BeiDou satellite navigation systems"
+  },
+  {
+    "term": "FFT",
+    "expansion": "Fast Fourier Transform",
+    "domain": "opensource_tools",
+    "note": "Algorithm producing the spectrum display in GQRX and other SDR tools"
+  },
+  {
+    "term": "SBC",
+    "expansion": "Single-Board Computer",
+    "domain": "opensource_tools",
+    "note": "e.g., Raspberry Pi; suitable host for OpenTAKServer, Kiwix, TileServer GL"
+  },
+  {
+    "term": "IQ",
+    "expansion": "In-phase and Quadrature",
+    "domain": "opensource_tools",
+    "note": "Raw baseband SDR signal format recorded by GQRX"
+  },
+  {
+    "term": "ASCOPE",
+    "expansion": "Areas, Structures, Capabilities, Organizations, People, Events",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Analysis of civil considerations in urban/populated environments"
+  },
+  {
+    "term": "WARNO",
+    "expansion": "Warning Order",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Preliminary alert order issued before a full OPORD"
+  },
+  {
+    "term": "FRAGO",
+    "expansion": "Fragmentary Order",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Abbreviated order updating or changing an existing OPORD"
+  },
+  {
+    "term": "GOTWA",
+    "expansion": "Going, Others I am taking, Time of return, What to do if I do not return, Actions on contact",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Five-point contingency brief used by patrol leaders before departing an element"
+  },
+  {
+    "term": "DRAW-D",
+    "expansion": "Defend, Reinforce, Attack, Withdraw, Delay",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Enemy capability analysis framework; sometimes extended to DRAW-DG adding Gas"
+  },
+  {
+    "term": "SALUTE",
+    "expansion": "Size, Activity, Location, Unit/Uniform, Time, Equipment",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Standard enemy contact report format"
+  },
+  {
+    "term": "SPOTREP",
+    "expansion": "Spot Report",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Nine-line format for rapid enemy contact reporting"
+  },
+  {
+    "term": "SITREP",
+    "expansion": "Situation Report",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Periodic status snapshot transmitted up the chain of command"
+  },
+  {
+    "term": "AAR",
+    "expansion": "After Action Review",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Structured post-mission debrief capturing lessons learned"
+  },
+  {
+    "term": "LOGSTAT",
+    "expansion": "Logistics Status",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Report summarizing supply, fuel, ammunition, and maintenance status"
+  },
+  {
+    "term": "INTSUM",
+    "expansion": "Intelligence Summary",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Consolidated intelligence assessment for a given period"
+  },
+  {
+    "term": "BLUF",
+    "expansion": "Bottom Line Up Front",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Military writing convention: key conclusion stated at the top of any message"
+  },
+  {
+    "term": "BMNT",
+    "expansion": "Begin Morning Nautical Twilight",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "When sun is 12 deg below horizon at dawn; terrain outlines visible; triggers stand-to"
+  },
+  {
+    "term": "EENT",
+    "expansion": "End Evening Nautical Twilight",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "When sun is 12 deg below horizon at dusk; darkness begins; triggers stand-to"
+  },
+  {
+    "term": "RON",
+    "expansion": "Remain Over Night",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Planned overnight patrol halt at a secured patrol base"
+  },
+  {
+    "term": "LUP",
+    "expansion": "Lying Up Position",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Concealed daylight hide used by small patrols during evasion or surveillance"
+  },
+  {
+    "term": "SLLS",
+    "expansion": "Stop, Look, Listen, Smell",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Sensory security check performed whenever a patrol halts"
+  },
+  {
+    "term": "SMARCH",
+    "expansion": "Security, Massive hemorrhage, Airway, Respiration, Circulation, Hypothermia",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "MARCH extended with scene-safety step; emphasizes securing the scene before treating"
+  },
+  {
+    "term": "NCD",
+    "expansion": "Needle Chest Decompression",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Needle insertion into the pleural space to relieve tension pneumothorax; 2026 TCCC requires bilateral for pulseless torso-trauma patients in TACEVAC"
+  },
+  {
+    "term": "TXA",
+    "expansion": "Tranexamic Acid",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Antifibrinolytic drug given IV/IO within 3 hours of injury to reduce hemorrhagic shock mortality"
+  },
+  {
+    "term": "MEDEVAC",
+    "expansion": "Medical Evacuation",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Dedicated, medically staffed platform providing en-route care; planned transport from treatment facility"
+  },
+  {
+    "term": "CASEVAC",
+    "expansion": "Casualty Evacuation",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Emergency clearance of casualties using any available non-dedicated platform; command responsibility"
+  },
+  {
+    "term": "CCP",
+    "expansion": "Casualty Collection Point",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Designated location where casualties are gathered for initial treatment and staging for evacuation"
+  },
+  {
+    "term": "CSH",
+    "expansion": "Combat Support Hospital",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Forward deployable hospital capable of surgical care"
+  },
+  {
+    "term": "CLS",
+    "expansion": "Combat Lifesaver",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Non-medic soldier trained beyond basic first aid; carries a CLS bag with advanced TCCC supplies"
+  },
+  {
+    "term": "AVPU",
+    "expansion": "Alert, Verbal, Pain, Unresponsive",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Rapid four-level consciousness scale; simpler field alternative to the Glasgow Coma Scale (GCS)"
+  },
+  {
+    "term": "SOAP",
+    "expansion": "Subjective, Objective, Assessment, Plan",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Universal medical documentation format for patient notes"
+  },
+  {
+    "term": "PAS",
+    "expansion": "Patient Assessment System",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "NOLS/wilderness medicine structured approach to patient evaluation"
+  },
+  {
+    "term": "ABCDE",
+    "expansion": "Airway, Breathing, Circulation, Disability, Environment/Expose",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Primary survey sequence for immediate life threats"
+  },
+  {
+    "term": "MOI",
+    "expansion": "Mechanism of Injury",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "How an injury occurred; guides index of suspicion for hidden injuries"
+  },
+  {
+    "term": "SCTM",
+    "expansion": "Skin Color, Temperature, Moisture",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Skin vital signs assessed as a proxy for cardiovascular and respiratory status"
+  },
+  {
+    "term": "LOR",
+    "expansion": "Level of Responsiveness",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Evaluation of brain function and mental status; relates to AVPU"
+  },
+  {
+    "term": "BSI",
+    "expansion": "Body Substance Isolation",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Donning PPE (gloves, eye protection) before contact with a patient to prevent disease transmission"
+  },
+  {
+    "term": "SERE",
+    "expansion": "Survival, Evasion, Resistance, Escape",
+    "domain": "environment_sere",
+    "note": "US military training program for personnel at risk of capture; environmental survival is a foundational component"
+  },
+  {
+    "term": "E&E",
+    "expansion": "Escape and Evasion",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Skill set for evading hostile forces after being separated, downed, or escaped from captivity"
+  },
+  {
+    "term": "OPSEC",
+    "expansion": "Operations Security",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Process of identifying and denying adversaries access to critical friendly information"
+  },
+  {
+    "term": "ROE",
+    "expansion": "Rules of Engagement",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Legal and operational constraints governing when and how military force may be used"
+  },
+  {
+    "term": "CONOP",
+    "expansion": "Concept of Operations",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "User-oriented document describing system or mission characteristics and planned execution"
+  },
+  {
+    "term": "GHB",
+    "expansion": "Get Home Bag",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Emergency kit stored away from home (car, workplace) for use during incidents while away"
+  },
+  {
+    "term": "GOOD",
+    "expansion": "Get Out Of Dodge",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Slang for rapid evacuation; synonymous with Bug Out Bag concept"
+  },
+  {
+    "term": "INCH",
+    "expansion": "I'm Never Coming Home",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Long-term wilderness survival pack designed for permanent displacement"
+  },
+  {
+    "term": "SHTF",
+    "expansion": "Stuff (or the profane equivalent) Hits The Fan",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Preparedness community shorthand for any major disruptive event"
+  },
+  {
+    "term": "TEOTWAWKI",
+    "expansion": "The End Of The World As We Know It",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Scenario descriptor for fundamental societal collapse"
+  },
+  {
+    "term": "WROL",
+    "expansion": "Without Rule Of Law",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Scenario where governmental and legal authority has broken down"
+  },
+  {
+    "term": "CBRN",
+    "expansion": "Chemical, Biological, Radiological, Nuclear",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Category of hazards requiring specialized protective equipment and decontamination procedures; supersedes older NBC"
+  },
+  {
+    "term": "NBC",
+    "expansion": "Nuclear, Biological, Chemical",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Older US military term for CBRN threats; still used in some NATO contexts"
+  },
+  {
+    "term": "EMP",
+    "expansion": "Electromagnetic Pulse",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Burst of electromagnetic energy from nuclear detonation or solar event capable of damaging electronics"
+  },
+  {
+    "term": "NIMS",
+    "expansion": "National Incident Management System",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "FEMA-maintained comprehensive framework for nationwide incident management"
+  },
+  {
+    "term": "COOP",
+    "expansion": "Continuity of Operations Plan",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Organizational plan for maintaining essential functions during a disruption or disaster"
+  },
+  {
+    "term": "LACE",
+    "expansion": "Liquids, Ammo, Casualties, Equipment",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Patrol status report format used to communicate unit readiness after a contact or halt"
+  },
+  {
+    "term": "FOB",
+    "expansion": "Forward Operating Base",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Secured semi-permanent position in a forward area used as a base for tactical operations"
+  },
+  {
+    "term": "TOC",
+    "expansion": "Tactical Operations Center",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Command and control node for a tactical unit"
+  },
+  {
+    "term": "AOR",
+    "expansion": "Area of Responsibility",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Defined geographic or functional area assigned to a unit or commander"
+  },
+  {
+    "term": "QRF",
+    "expansion": "Quick Reaction Force",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Standing force held ready to respond rapidly to a developing situation"
+  },
+  {
+    "term": "MSR",
+    "expansion": "Main Supply Route",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Primary road network used for logistics movement in an operational area"
+  },
+  {
+    "term": "IED",
+    "expansion": "Improvised Explosive Device",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Homemade explosive device; detection and defeat is an EOD (Explosive Ordnance Disposal) specialty"
+  },
+  {
+    "term": "VBIED",
+    "expansion": "Vehicle-Borne Improvised Explosive Device",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "IED concealed in or constructed from a vehicle; a vehicle-as-weapon threat"
+  },
+  {
+    "term": "UXO",
+    "expansion": "Unexploded Ordnance",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Munitions that failed to detonate; remain hazardous and must be reported and avoided \u2014 EOD handles disposal"
+  },
+  {
+    "term": "EOD",
+    "expansion": "Explosive Ordnance Disposal",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Specialist personnel trained to detect, identify, and safely neutralize explosive hazards"
+  },
+  {
+    "term": "RPG",
+    "expansion": "Rocket-Propelled Grenade",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Shoulder-fired unguided rocket with shaped-charge warhead; common in conflicts worldwide"
+  },
+  {
+    "term": "SAPI",
+    "expansion": "Small Arms Protective Insert",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Ceramic ballistic plate worn in body armor to stop rifle-caliber rounds"
+  },
+  {
+    "term": "IBA",
+    "expansion": "Interceptor Body Armor",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "US Army modular body armor system accepting SAPI plates"
+  },
+  {
+    "term": "ACU",
+    "expansion": "Army Combat Uniform",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Current US Army utility uniform in Operational Camouflage Pattern (OCP)"
+  },
+  {
+    "term": "BDU",
+    "expansion": "Battle Dress Uniform",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Legacy woodland/desert camouflage uniform; superseded by ACU"
+  },
+  {
+    "term": "DFAC",
+    "expansion": "Dining Facility",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Military cafeteria on a base or FOB"
+  },
+  {
+    "term": "XO",
+    "expansion": "Executive Officer",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Second-in-command of a unit, responsible for administrative and logistical functions"
+  },
+  {
+    "term": "PSD",
+    "expansion": "Personal Security Detail",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Dedicated force protecting a high-value individual"
+  },
+  {
+    "term": "PIR",
+    "expansion": "Priority Intelligence Requirement",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Commander's most critical intelligence questions, driving collection and reporting"
+  },
+  {
+    "term": "NATO Phonetic Alphabet",
+    "expansion": "Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee, Zulu",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Standardized spelling alphabet used across NATO nations for voice communications; adopted 1956"
+  },
+  {
+    "term": "NFCI",
+    "expansion": "Non-Freezing Cold Injury",
+    "domain": "environment_sere",
+    "note": "Cold injury occurring above freezing temperatures from prolonged wet/cold exposure; includes trench foot and immersion foot"
+  },
+  {
+    "term": "PFD",
+    "expansion": "Personal Flotation Device",
+    "domain": "environment_sere",
+    "note": "Life jacket worn to remain afloat in water; essential cold water survival equipment"
+  },
+  {
+    "term": "H.E.L.P.",
+    "expansion": "Heat Escape Lessening Posture",
+    "domain": "environment_sere",
+    "note": "Survival position in cold water: arms crossed over chest, knees drawn up; requires a PFD"
+  },
+  {
+    "term": "WMS",
+    "expansion": "Wilderness Medical Society",
+    "domain": "environment_sere",
+    "note": "Professional organization publishing evidence-based clinical practice guidelines for wilderness medicine"
+  },
+  {
+    "term": "MOPP",
+    "expansion": "Mission Oriented Protective Posture",
+    "domain": "environment_sere",
+    "note": "US military CBRN protective equipment levels; full MOPP adds ~10\u00b0F WBGT equivalent heat stress"
+  },
+  {
+    "term": "NSAID",
+    "expansion": "Non-Steroidal Anti-Inflammatory Drug",
+    "domain": "environment_sere",
+    "note": "Ibuprofen is the preferred NSAID in wilderness medicine for frostbite pain and AMS headache; also inhibits thromboxane cascade in frostbite"
+  },
+  {
+    "term": "UV",
+    "expansion": "Ultraviolet",
+    "domain": "environment_sere",
+    "note": "Used in UV water purification devices and SODIS; destroys pathogen DNA but ineffective in turbid water"
+  },
+  {
+    "term": "PHC",
+    "expansion": "Public Health Command",
+    "domain": "environment_sere",
+    "note": "US Army Public Health Command; publishes cold weather and heat injury prevention guidance at phc.amedd.army.mil"
+  }
+]

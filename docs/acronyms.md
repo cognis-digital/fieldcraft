@@ -1,0 +1,336 @@
+# Acronyms & terminology
+
+> **Disclaimer:** Educational / reference / preparedness material with links to public and open-source resources. Not operational instructions for violence or weapons. Verify against primary sources; train with qualified instructors. Follow all applicable laws.
+
+330 terms across military / tactical / survival / medical / comms.
+
+- **1SG** — First Sergeant — E-8 (1SG variant); senior NCO of a company-sized unit
+- **2LT** — Second Lieutenant — O-1; entry-level commissioned officer; typically a platoon leader
+- **AAA / AA** — Standard dry-cell battery sizes — AAA and AA batteries are the most universally available field battery formats
+- **AAL** — Anterior Axillary Line — Vertical line at the anterior axillary fold; preferred by many for needle decompression due to reduced chest wall thickness
+- **AAR** — After Action Review — Structured post-mission debrief capturing lessons learned
+- **ABC** — Airway, Breathing, Circulation — Primary patient assessment sequence in first aid
+- **ABCDE** — Airway, Breathing, Circulation, Disability, Environment/Expose — Primary survey sequence for immediate life threats
+- **ABCT** — Armored Brigade Combat Team — Mounted combined-arms BCT with tanks and Bradley IFVs
+- **ACFT** — Army Combat Fitness Test — Replaced by AFT as of June 1, 2025; did not include a ruck event
+- **ACS** — American College of Surgeons
+- **ACU** — Army Combat Uniform — Current US Army utility uniform in Operational Camouflage Pattern (OCP)
+- **ADP** — Army Doctrine Publication — Capstone short publications; highest-level Army doctrine
+- **ADRP** — Army Doctrine Reference Publication — Expanded companion to ADP; being consolidated back into FMs
+- **AED** — Automated External Defibrillator
+- **AFAK** — Advanced First Aid Kit — Enhanced kit adding IV supplies, advanced airway, and medications beyond the basic IFAK
+- **AFRL** — Air Force Research Laboratory — Original developer of ATAK
+- **AFT** — Army Fitness Test — Current Army fitness test of record as of June 2025; 2-mile run and other events; no ruck event
+- **AIT** — Advanced Individual Training — Post-Basic Training job-specific school
+- **AMS** — Acute Mountain Sickness — Most common altitude illness; headache + systemic symptoms above 8,000 ft
+- **AOC** — Area of Concentration — Officer equivalent of MOS; identifies specialty branch
+- **AOR** — Area of Responsibility — Defined geographic or functional area assigned to a unit or commander
+- **APD** — Army Publishing Directorate — Official source for all Army doctrine; armypubs.army.mil
+- **APRS** — Automatic Packet Reporting System — Amateur radio data network for position, weather, and message reporting
+- **AR 40-25** — Army Regulation 40-25 — Joint service nutrition and menu standards for human performance optimization
+- **ARES** — Amateur Radio Emergency Service — ARRL-organized volunteer ham radio operators for disaster communications
+- **ARRL** — American Radio Relay League — National association for amateur radio in the US; publisher of licensing materials
+- **ASCOPE** — Areas, Structures, Capabilities, Organizations, People, Events — Analysis of civil considerations in urban/populated environments
+- **ASI** — Additional Skill Identifier — Appended to MOS to denote secondary skills
+- **ATAK** — Android Team Awareness Kit (civilian) / Android Tactical Assault Kit (military) — Same acronym, two names depending on context; civilian version is CivTAK
+- **ATLS** — Advanced Trauma Life Support — In-hospital surgeon/physician trauma framework by the American College of Surgeons; uses ABCDE
+- **ATP** — Army Techniques Publication — ATP 4-02.11 (2026) is current US Army casualty response and first aid doctrine, superseding TC 4-02.1
+- **ATV** — All-Terrain Vehicle — Referenced in load-distribution context; sustainment loads moved by vehicle whenever possible
+- **AVPU** — Alert, Verbal, Pain, Unresponsive — Rapid four-level consciousness scale; simpler field alternative to the Glasgow Coma Scale (GCS)
+- **AZ** — Azimuth — A horizontal angle measured clockwise from north (0-360 degrees, or 0-6400 mils)
+- **BCT** — Brigade Combat Team — Primary deployable combined-arms maneuver unit
+- **BDU** — Battle Dress Uniform — Legacy woodland/desert camouflage uniform; superseded by ACU
+- **BFT** — Blue Force Tracker — Digital situational awareness device; adds to fighting load weight in modern operations
+- **BLUF** — Bottom Line Up Front — Military writing convention: key conclusion stated at the top of any message
+- **BMNT** — Begin Morning Nautical Twilight — When sun is 12 deg below horizon at dawn; terrain outlines visible; triggers stand-to
+- **BMPT** — Battlefield Weather: Visibility, Wind, Precipitation, Temperature/humidity — Weather sub-analysis under the METT-TC 'T' variable; informal variant grouping
+- **BOB** — Bug Out Bag — Pre-packed evacuation kit kept ready for rapid departure in an emergency
+- **BSI** — Body Substance Isolation — Donning PPE (gloves, eye protection) before contact with a patient to prevent disease transmission
+- **C-TECC** — Committee for Tactical Emergency Casualty Care — Civilian body formed 2011 that maintains TECC guidelines; publishes free PDFs at c-tecc.org
+- **CAP** — Civil Air Patrol — USAF Auxiliary; trains members in land navigation for SAR operations
+- **CASEVAC** — Casualty Evacuation — Emergency clearance of casualties using any available non-dedicated platform; command responsibility
+- **CAT** — Combat Application Tourniquet — CoTCCC-approved windlass-style limb tourniquet; most widely issued in US military
+- **CBRN** — Chemical, Biological, Radiological, Nuclear — Category of hazards requiring specialized protective equipment and decontamination procedures; supersedes older NBC
+- **CCP** — Casualty Collection Point — Designated location where casualties are gathered for initial treatment and staging for evacuation
+- **CDC** — Centers for Disease Control and Prevention — US public health agency; publishes emergency water treatment guidelines
+- **CERT** — Community Emergency Response Team — FEMA-coordinated neighborhood volunteer program training civilians in basic disaster response
+- **CHIRP** — Cross-platform Ham Radio Programming — Free open-source radio memory-channel programming software
+- **CI** — Contour Interval — The elevation difference between adjacent contour lines on a topo map; shown in map margin
+- **CivTAK** — Civilian Team Awareness Kit — The open-source civilian build of ATAK distributed via Google Play and tak.gov
+- **CJCS** — Chairman of the Joint Chiefs of Staff — Senior uniformed officer of the entire U.S. military
+- **CLS** — Combat Lifesaver — Non-medic soldier trained beyond basic first aid; carries a CLS bag with advanced TCCC supplies
+- **CMF** — Career Management Field — Groups related MOSs; identified by the two-digit number prefix
+- **CO** — Carbon Monoxide — Colorless, odorless gas produced by generators, grills, and combustion appliances; fatal indoors
+- **COA** — Course of Action — Proposed plan; multiple COAs are developed and wargamed in MDMP
+- **COL** — Colonel — O-6; commands a brigade
+- **COLD** — Clean, Avoid Overheating, Loose and in Layers, Dry — U.S. Army mnemonic for cold weather clothing management
+- **ComRaD** — Combat Rations Database — USARIEM database of detailed nutritional data for all military ration components
+- **CONOP** — Concept of Operations — User-oriented document describing system or mission characteristics and planned execution
+- **COOP** — Continuity of Operations Plan — Organizational plan for maintaining essential functions during a disruption or disaster
+- **COSPAS-SARSAT** — Cosmicheskaya Sistyema Poiska Avariynykh Sudov — Search And Rescue Satellite-Aided Tracking — International satellite system that receives and relays PLB/EPIRB distress signals to rescue coordination centers
+- **CoT** — Cursor on Target — XML/Protobuf messaging protocol at the heart of the TAK ecosystem
+- **CoTCCC** — Committee on Tactical Combat Casualty Care — The body that writes and updates TCCC guidelines under the Joint Trauma System
+- **CPG** — Clinical Practice Guideline — Evidence-based DoD medical treatment recommendation; free public PDFs available at jts.health.mil
+- **CPL** — Corporal — E-4; leadership track; first NCO authority grade
+- **CPR** — Cardiopulmonary Resuscitation — Emergency life-saving procedure combining chest compressions and rescue breaths
+- **CPT** — Captain — O-3; commands a company; first command position
+- **CSH** — Combat Support Hospital — Forward deployable hospital capable of surgical care
+- **CSM** — Circulation, Sensation, Motion — Extremity neurovascular check performed after splinting or tourniquet application
+- **CTCSS** — Continuous Tone-Coded Squelch System — Sub-audible tone used to open a radio squelch; programmed via CHIRP
+- **CUF** — Care Under Fire — Phase 1 of TCCC: casualty care while still under direct enemy fire; limited interventions
+- **CW** — Continuous Wave (Morse code) — HF mode using on/off keying; most resilient to noise; last-resort EmComm tool
+- **CW2** — Chief Warrant Officer 2 — Fully qualified technical specialist
+- **CW5** — Chief Warrant Officer 5 — Highest warrant officer grade; strategic-level technical advisor
+- **DCS** — Digital-Coded Squelch — Digital equivalent of CTCSS; also programmed via CHIRP
+- **DD** — Decimal Degrees — Modern format for lat/long used by most GPS apps (e.g., 38.8897)
+- **DFAC** — Dining Facility — Military cafeteria on a base or FOB
+- **DMS** — Degrees, Minutes, Seconds — Traditional format for lat/long coordinates (e.g., 38 degrees 53' 23" N)
+- **DRAW-D** — Defend, Reinforce, Attack, Withdraw, Delay — Enemy capability analysis framework; sometimes extended to DRAW-DG adding Gas
+- **E&E** — Escape and Evasion — Skill set for evading hostile forces after being separated, downed, or escaped from captivity
+- **EAS** — Emergency Alert System — National broadcast-based public warning system used over TV and radio
+- **ECWCS** — Extended Cold Weather Clothing System — US Army 7-layer cold weather clothing system (Gen III current standard); rated +40°F to −60°F
+- **EDC** — Every Day Carry — Items carried on the person daily for immediate preparedness: knife, light, first aid, etc.
+- **EENT** — End Evening Nautical Twilight — When sun is 12 deg below horizon at dusk; darkness begins; triggers stand-to
+- **EFFAK** — Emergency Financial First Aid Kit — FEMA/Operation HOPE document organizing tool for financial and medical records before a disaster
+- **EFHW** — End-Fed Half-Wave antenna — Single-wire HF antenna fed at one end via matching transformer; easy field deployment
+- **EmComm** — Emergency Communications — Amateur radio operations in support of public safety during disasters
+- **EMP** — Electromagnetic Pulse — Burst of electromagnetic energy from nuclear detonation or solar event capable of damaging electronics
+- **EOC** — Emergency Operations Center — Fixed facility coordinating resources and information during a declared emergency
+- **EOD** — Explosive Ordnance Disposal — Specialist personnel trained to detect, identify, and safely neutralize explosive hazards
+- **EPA** — Environmental Protection Agency — US agency; publishes emergency drinking water disinfection standards and dosage tables
+- **EPIRB** — Emergency Position-Indicating Radio Beacon — Marine equivalent of a PLB; activates automatically on water immersion
+- **ETD** — Emergency Trauma Dressing — Also called Israeli bandage; elastic pressure bandage with built-in compression bar
+- **ETT** — Endotracheal Tube — Definitive airway device placed through the vocal cords; requires training, not typically a self/buddy-aid skill
+- **FAST** — Focused Assessment with Sonography in Trauma — Bedside ultrasound to detect blood in peritoneal/pericardial space; used in TC and hospital settings
+- **FCC** — Federal Communications Commission — US regulatory body for radio spectrum and licensing
+- **FEMA** — Federal Emergency Management Agency
+- **FFT** — Fast Fourier Transform — Algorithm producing the spectrum display in GQRX and other SDR tools
+- **FIFO** — First In, First Out — Rotation principle for stored food; oldest stock consumed first
+- **FILBE** — Family of Improved Load Bearing Equipment — Newer USMC pack family replacing ILBE
+- **FLC** — Fighting Load Carrier — Chest/torso vest component of the MOLLE system; holds immediate-access items
+- **FM** — Field Manual — US Army doctrinal publication; FM 21-76 (Survival Manual) and FM 4-25.11 (First Aid) are foundational environmental injury references
+- **FM 21-76** — Field Manual 21-76 — US Army Survival Manual; covers water, food, shelter, navigation; public domain
+- **FM 4-25.11** — Field Manual 4-25.11 — US Army First Aid Manual; covers dehydration, heat injuries, field medical treatment
+- **FOAD** — Functional Needs Support Services — FEMA terminology for shelter services addressing access and functional needs populations
+- **FOB** — Forward Operating Base — Secured semi-permanent position in a forward area used as a base for tactical operations
+- **FRAGO** — Fragmentary Order — Abbreviated order updating or changing an existing OPORD
+- **FRH** — Flameless Ration Heater — Magnesium-iron exothermic packet included in MREs; heats entree with water
+- **FRS** — Family Radio Service — U.S. license-free personal radio; channels programmable via CHIRP
+- **FSR** — First Strike Ration — Compact assault ration; ~2,900 kcal/24hr; minimal prep for high-intensity ops
+- **GCS** — Glasgow Coma Scale — 13-level neurological assessment scoring eye, verbal, and motor responses; used in hospital and WFR settings
+- **GFI** — Ground Fault Circuit Interrupter — Electrical safety outlet required in wet areas; check that these work before using power during flood recovery
+- **GHB** — Get Home Bag — Emergency kit stored away from home (car, workplace) for use during incidents while away
+- **GIS** — Geographic Information System
+- **GMRS** — General Mobile Radio Service — U.S. licensed personal radio service; channels programmable via CHIRP
+- **GNSS** — Global Navigation Satellite System — Umbrella term for GPS, GLONASS, Galileo, BeiDou satellite navigation systems
+- **GNU GPL** — GNU General Public License — Copyleft open-source software license used by QGIS, GQRX, CHIRP, GPSBabel
+- **GOOD** — Get Out Of Dodge — Slang for rapid evacuation; synonymous with Bug Out Bag concept
+- **GOTWA** — Going, Others I am taking, Time of return, What to do if I do not return, Actions on contact — Five-point contingency brief used by patrol leaders before departing an element
+- **GPS** — Global Positioning System
+- **GPX** — GPS Exchange Format — Standard XML interchange format for waypoints, tracks, and routes
+- **GQRX** — GNU Radio Qt RX — Open-source SDR receiver GUI
+- **GTX** — GORE-TEX — Waterproof/breathable membrane material; Level 6 ECWCS and civilian hardshell standard
+- **GZD** — Grid Zone Designator — See above — the two-character zone prefix of an MGRS coordinate
+- **H.E.L.P.** — Heat Escape Lessening Posture — Survival position in cold water: arms crossed over chest, knees drawn up; requires a PFD
+- **HACE** — High Altitude Cerebral Edema — Severe brain swelling from altitude hypoxia; neurological symptoms; fatal without descent
+- **HAPE** — High Altitude Pulmonary Edema — Fluid in lungs at altitude; most common cause of altitude-related death
+- **HDPE** — High-Density Polyethylene — Food-grade plastic for water containers; recycle code 2; blue water barrels
+- **HF** — High Frequency — 3–30 MHz; enables long-distance skywave propagation
+- **HVAC** — Heating, Ventilation, and Air Conditioning — Must be turned off during shelter-in-place for chemical or biological hazards to prevent drawing in contaminated air
+- **IAR** — Infantry Automatic Rifle — M27; replacing M249 in some units as the base-of-fire weapon
+- **IBA** — Interceptor Body Armor — US Army modular body armor system accepting SAPI plates
+- **IBCT** — Infantry Brigade Combat Team — Light infantry BCT; airborne or air-assault capable variants
+- **ICS** — Incident Command System — Standardized on-scene emergency management structure used by all US emergency responders
+- **ICS-205** — Incident Radio Communications Plan (form 205) — FEMA ICS form documenting all radio frequencies and assignments for an incident
+- **IED** — Improvised Explosive Device — Homemade explosive device; detection and defeat is an EOD (Explosive Ordnance Disposal) specialty
+- **IFAK** — Individual First Aid Kit — Soldier's personal trauma kit; standardized TCCC contents include tourniquet, chest seal, hemostatic gauze, NPA
+- **IGRF** — International Geomagnetic Reference Field — Scientific model of Earth's magnetic field used by NOAA declination calculator
+- **ILBE** — Improved Load Bearing Equipment — USMC-origin pack system widely used across services
+- **INCH** — I'm Never Coming Home — Long-term wilderness survival pack designed for permanent displacement
+- **INTSUM** — Intelligence Summary — Consolidated intelligence assessment for a given period
+- **IO** — Intraosseous — Needle inserted into bone marrow space for fluid/medication delivery when IV access is unavailable
+- **IOTV** — Improved Outer Tactical Vest — Current U.S. Army body armor vest; compatible with MOLLE TAP accessories
+- **IPAWS** — Integrated Public Alert and Warning System — FEMA's national platform for simultaneous WEA, EAS, and NOAA Weather Radio alerts
+- **IPB** — Intelligence Preparation of the Battlefield — Analytical process for terrain, weather, and enemy analysis
+- **IQ** — In-phase and Quadrature — Raw baseband SDR signal format recorded by GQRX
+- **ISM** — Industrial, Scientific, and Medical (radio bands) — License-free radio frequency bands; 915 MHz used by Meshtastic in North America
+- **JTS** — Joint Trauma System — DoD system that collects combat casualty data and translates it into TCCC guidance
+- **KML** — Keyhole Markup Language — XML-based geospatial data format used by Google Earth
+- **KMZ** — Keyhole Markup Language Zipped — Compressed KML file
+- **KOCOA** — Key Terrain, Observation and Fields of Fire, Cover and Concealment, Obstacles, Avenues of Approach — Alternate ordering of OAKOC used in historical and doctrinal analysis contexts
+- **LACE** — Liquids, Ammo, Casualties, Equipment — Patrol status report format used to communicate unit readiness after a contact or halt
+- **Li-ion** — Lithium Ion — Rechargeable battery chemistry; 18650 cell format is standard for high-output flashlights
+- **LOGSTAT** — Logistics Status — Report summarizing supply, fuel, ammunition, and maintenance status
+- **LOR** — Level of Responsiveness — Evaluation of brain function and mental status; relates to AVPU
+- **LoRa** — Long Range (radio modulation) — Spread-spectrum modulation used by Meshtastic for low-power long-range comms
+- **LOS** — Line of Sight — Radio propagation mode where signal travels in straight line; dominant at VHF/UHF
+- **LRIM** — Long Range Individual Movement — Final ruck event at SFAS, up to 32 miles; also called 'the Trek'
+- **LSCO** — Large-Scale Combat Operations — Primary operational planning scenario; peer/near-peer conflict
+- **LTC** — Lieutenant Colonel — O-5; commands a battalion
+- **LUP** — Lying Up Position — Concealed daylight hide used by small patrols during evasion or surveillance
+- **MARCH** — Massive hemorrhage, Airway, Respiration, Circulation, Hypothermia — Primary TCCC treatment priority sequence
+- **MARCH PAWS** — Massive hemorrhage, Airway, Respiration, Circulation, Hypothermia, Pain, Antibiotics, Wounds, Splinting — USAF Pararescue (PJ) expansion of MARCH for tactical field care and TACEVAC
+- **MBTiles** — MapBox Tiles — SQLite-based container format for offline map tile sets
+- **MCL** — Mid-Clavicular Line — Vertical line through midpoint of clavicle; traditional landmark for needle decompression
+- **MCRP** — Marine Corps Reference Publication — MCRP 3-02F is the Marine Corps equivalent of FM 21-76
+- **MCW** — Meal, Cold Weather — Cold-weather individual ration; elevated caloric density for thermogenesis
+- **MDMP** — Military Decision-Making Process — Formal staff planning process; produces OPORD
+- **MEDEVAC** — Medical Evacuation — Dedicated, medically staffed platform providing en-route care; planned transport from treatment facility
+- **METT-TC** — Mission, Enemy, Terrain and weather, Troops and support available, Time available, Civil considerations — Primary Army framework for analyzing any tactical situation
+- **MFAK** — Medic/Mass Casualty First Aid Kit — Larger team-level resource carried by medics for multiple casualties
+- **MG** — Major General — O-8; two stars; commands a division
+- **MGRS** — Military Grid Reference System — NATO standard alphanumeric geocoordinate format; derived from UTM
+- **MIL** — Milliradian (military) — Angular unit used on military lensatic compasses; 6,400 mils = 360 degrees
+- **MOI** — Mechanism of Injury — How an injury occurred; guides index of suspicion for hidden injuries
+- **MOLLE** — Modular Lightweight Load-carrying Equipment — Current U.S. Army load-carrying standard; uses PALS webbing for modular attachment
+- **MOPP** — Mission Oriented Protective Posture — US military CBRN protective equipment levels; full MOPP adds ~10°F WBGT equivalent heat stress
+- **MORE** — Modular Operational Rations Enhancement — ~1,000 kcal supplement pack for cold/altitude/high-exertion environments
+- **MOS** — Military Occupational Specialty — Army job code system; alphanumeric e.g. 11B
+- **MOSQ** — MOS Qualified — Soldier has completed required training for their MOS
+- **MRDA** — Military Recommended Daily Allowance — Nutrition standard each 3-MRE daily issue must meet; governed by AR 40-25
+- **MRE** — Meal Ready to Eat — US military individual combat ration; self-heating, shelf-stable, ~1,200 calories per meal
+- **MSR** — Main Supply Route — Primary road network used for logistics movement in an operational area
+- **MURS** — Multi-Use Radio Service — License-free VHF service, 5 channels, max 2W, no repeaters
+- **NAAK** — Nerve Agent Antidote Kit — Military dual-injector (atropine + pralidoxime) issued against nerve agent exposure; not a food/water item — included for context only
+- **NAD27** — North American Datum 1927 — Older datum used on many legacy USGS topo maps; can differ from WGS84 by 100+ meters
+- **NAD83** — North American Datum 1983 — Near-equivalent to WGS84 for most practical purposes; used on newer USGS topos
+- **NAEMT** — National Association of Emergency Medical Technicians — Primary accredited TCCC course provider for civilians
+- **NATO Phonetic Alphabet** — Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee, Zulu — Standardized spelling alphabet used across NATO nations for voice communications; adopted 1956
+- **NBC** — Nuclear, Biological, Chemical — Older US military term for CBRN threats; still used in some NATO contexts
+- **NCD** — Needle Chest Decompression — Needle insertion into the pleural space to relieve tension pneumothorax; 2026 TCCC requires bilateral for pulseless torso-trauma patients in TACEVAC
+- **NCO** — Non-Commissioned Officer — Enlisted leaders (Corporal through Sergeant Major) who are the backbone of tactical units
+- **NCS** — Net Control Station — The station that manages and directs traffic on a radio net
+- **NFCI** — Non-Freezing Cold Injury — Cold injury occurring above freezing temperatures from prolonged wet/cold exposure; includes trench foot and immersion foot
+- **NIMS** — National Incident Management System — FEMA-maintained comprehensive framework for nationwide incident management
+- **NOAA** — National Oceanic and Atmospheric Administration — Federal agency that operates the National Weather Service and the NOAA Weather Radio All Hazards network
+- **NOLS** — National Outdoor Leadership School — Leading wilderness education and wilderness medicine training organization
+- **NPA** — Nasopharyngeal Airway — Flexible rubber tube inserted into a nostril to maintain an airway in unconscious patients
+- **NSAID** — Non-Steroidal Anti-Inflammatory Drug — Ibuprofen is the preferred NSAID in wilderness medicine for frostbite pain and AMS headache; also inhibits thromboxane cascade in frostbite
+- **NTU** — Nephelometric Turbidity Unit — Measure of water cloudiness; SODIS requires <30 NTU; chemical treatment less effective in high turbidity
+- **NTX** — Needle Thoracostomy / Needle Decompression — Emergency needle insertion to relieve tension pneumothorax; 14g 3.25-inch needle at ICS2-MCL or ICS4/5-AAL
+- **NVG** — Night Vision Goggles — Worn on helmet or carried; adds to fighting load weight
+- **NVIS** — Near Vertical Incidence Skywave — HF propagation mode for regional (100–300 mile) coverage via low horizontal antenna
+- **NWR** — NOAA Weather Radio (All Hazards) — Nationwide network broadcasting continuous weather and hazard information 24/7; core kit item
+- **NWS** — National Weather Service — NOAA component that issues weather watches, warnings, and forecasts
+- **OAKOC** — Observation and fields of fire, Avenues of approach, Key terrain, Obstacles, Cover and concealment — Terrain analysis sub-framework within METT-TC
+- **OCOKA** — Observation/Fields of Fire, Cover/Concealment, Obstacles, Key Terrain, Avenues of Approach — Another ordering variant; all refer to the same five terrain analysis factors
+- **ODbL** — Open Database License — License under which OSM data is distributed
+- **OODA** — Observe, Orient, Decide, Act — Boyd's decision-making loop; tempo determines competitive advantage
+- **OPA** — Oropharyngeal Airway — Rigid plastic airway adjunct inserted through the mouth; requires absent gag reflex
+- **OPORD** — Operations Order — Full formal order using the five-paragraph SMEAC format
+- **OPSEC** — Operations Security — Process of identifying and denying adversaries access to critical friendly information
+- **ORP** — Objective Rally Point — Last covered position before assaulting or reconnoitering an objective
+- **ORS** — Oral Rehydration Solution — WHO formula: 1L water + 6 tsp sugar + 0.5 tsp salt; treats mild-moderate dehydration
+- **OSM** — OpenStreetMap — Global community-maintained open map database
+- **OSUT** — One Station Unit Training — Combined Basic + AIT at same location; used for Infantry, Armor, Military Police
+- **PACE** — Primary, Alternate, Contingency, Emergency — Four-tier planning framework for communications, routes, and critical functions
+- **PALS** — Pouch Attachment Ladder System — The rows of nylon webbing on MOLLE-compatible gear that accept pouches
+- **PAS** — Patient Assessment System — NOLS/wilderness medicine structured approach to patient evaluation
+- **PET / PETE** — Polyethylene Terephthalate — Food-safe plastic for water bottles; approved for SODIS; recycle code 1
+- **PFC** — Private First Class — E-3
+- **PFD** — Personal Flotation Device — Life jacket worn to remain afloat in water; essential cold water survival equipment
+- **PHC** — Public Health Command — US Army Public Health Command; publishes cold weather and heat injury prevention guidance at phc.amedd.army.mil
+- **PHTLS** — Prehospital Trauma Life Support — NAEMT global EMS trauma course; uses XABCDE mnemonic placing exsanguinating hemorrhage first
+- **PIR** — Priority Intelligence Requirement — Commander's most critical intelligence questions, driving collection and reporting
+- **PL** — Private Line — Motorola trademark for CTCSS; used interchangeably in the field
+- **PLB** — Personal Locator Beacon — Satellite emergency device that transmits a distress signal to COSPAS-SARSAT; one-way, subscription-free
+- **PNT** — Position, Navigation, and Timing — The three services provided by GPS satellite systems
+- **PPE** — Personal Protective Equipment — Protective gear including gloves, respirators, goggles, and gowns
+- **PSD** — Personal Security Detail — Dedicated force protecting a high-value individual
+- **PSS** — Patellofemoral Pain Syndrome — Also called runner's knee; pain under/around the kneecap from overuse, worsened by downhill rucking with heavy load
+- **PV2** — Private Second Class — E-2
+- **PVT** — Private — E-1; initial entry rank
+- **QRF** — Quick Reaction Force — Standing force held ready to respond rapidly to a developing situation
+- **QRM** — Man-made interference (ITU Q-code) — Interference caused by other radio operators
+- **RACES** — Radio Amateur Civil Emergency Service — Government-sponsored amateur radio volunteers affiliated with civil defense/FEMA
+- **RASP** — Ranger Assessment and Selection Program — Selection pipeline for the 75th Ranger Regiment
+- **ROE** — Rules of Engagement — Legal and operational constraints governing when and how military force may be used
+- **RON** — Remain Over Night — Planned overnight patrol halt at a secured patrol base
+- **RPG** — Rocket-Propelled Grenade — Shoulder-fired unguided rocket with shaped-charge warhead; common in conflicts worldwide
+- **RST** — Readability, Strength, Tone — Signal report scale used in amateur radio
+- **RSTA** — Reconnaissance, Surveillance, and Target Acquisition — BCT cavalry squadron mission; some CONUS IBCTs/SBCTs deactivated RSTA sqns in 2024
+- **RTK** — Real-Time Kinematic — Differential GPS technique achieving centimeter accuracy; requires base station
+- **RTL-SDR** — Realtek SDR — Inexpensive (~$25) USB TV tuner repurposed as a wideband SDR receiver
+- **RVOL** — Relative Volume — Not specific to rucking; included for completeness
+- **SA** — Selective Availability — Intentional GPS accuracy degradation for civilians; permanently disabled May 1, 2000
+- **SALUTE** — Size, Activity, Location, Unit/Uniform, Time, Equipment — Standard enemy contact report format
+- **SAMPLE** — Symptoms, Allergies, Medications, Pertinent history, Last intake, Events — Patient history mnemonic used in wilderness and emergency medicine assessment
+- **SAPI** — Small Arms Protective Insert — Ceramic ballistic plate worn in body armor to stop rifle-caliber rounds
+- **SAR** — Search and Rescue
+- **SAW** — Squad Automatic Weapon — M249 light machine gun; carried by automatic rifleman in fire team
+- **SBC** — Single-Board Computer — e.g., Raspberry Pi; suitable host for OpenTAKServer, Kiwix, TileServer GL
+- **SBCT** — Stryker Brigade Combat Team — Wheeled BCT using Stryker 8x8 armored vehicles
+- **SCTM** — Skin Color, Temperature, Moisture — Skin vital signs assessed as a proxy for cardiovascular and respiratory status
+- **SDR** — Software Defined Radio — Radio hardware whose signal processing is performed in software rather than dedicated hardware
+- **SERE** — Survival, Evasion, Resistance, Escape — US military training program for personnel at risk of capture; environmental survival is a foundational component
+- **SFAS** — Special Forces Assessment and Selection — Selection course for the U.S. Army Special Forces (Green Berets)
+- **SFC** — Sergeant First Class — E-7; typical platoon sergeant
+- **SGM** — Sergeant Major — E-9 (staff variant); serves in staff positions at battalion and higher
+- **SGT** — Sergeant — E-5; first full NCO grade; typical fire team leader
+- **SHTF** — Stuff (or the profane equivalent) Hits The Fan — Preparedness community shorthand for any major disruptive event
+- **SINPO** — Signal, Interference, Noise, Propagation, Overall — 5-element signal report scale used in shortwave/HF monitoring
+- **SIP** — Shelter In Place — Emergency directive to remain at a location rather than evacuate; used for chemical, radiological, or severe weather events
+- **SITREP** — Situation Report — Periodic status snapshot transmitted up the chain of command
+- **SLLS** — Stop, Look, Listen, Smell — Sensory security check performed whenever a patrol halts
+- **SMA** — Sergeant Major of the Army — Highest enlisted rank; senior advisor to Army Chief of Staff
+- **SMARCH** — Security, Massive hemorrhage, Airway, Respiration, Circulation, Hypothermia — MARCH extended with scene-safety step; emphasizes securing the scene before treating
+- **SMEAC** — Situation, Mission, Execution, Administration/Logistics, Command/Signal — Five-paragraph operations order format; used by Army and USMC
+- **SNCO** — Senior Noncommissioned Officer — E-7 through E-9
+- **SOAP** — Subjective, Objective, Assessment, Plan — Universal medical documentation format for patient notes
+- **SODIS** — Solar Disinfection — Water purification method using UV from sunlight; clear PET bottles + 6+ hours sun exposure; emergency backup
+- **SOF-T Wide** — Special Operations Forces Tourniquet Wide — Alternative CoTCCC-recommended tourniquet; wider band distributes pressure over larger area
+- **SOFTT-W** — Special Operations Forces Tactical Tourniquet Wide — CoTCCC-approved alternative windlass tourniquet; wider band for easier self-application
+- **SOS** — Distress signal (Morse: · · · — — — · · ·) — Internationally recognized emergency signal; does not stand for 'Save Our Souls' — that is a backronym
+- **SPC** — Specialist — E-4; technical track junior enlisted
+- **SPOTREP** — Spot Report — Nine-line format for rapid enemy contact reporting
+- **SQI** — Special Qualification Identifier — Denotes special qualifications such as airborne (P) or Ranger tab (V)
+- **SSG** — Staff Sergeant — E-6; typical squad leader rank
+- **STOP** — Stop, Think, Observe, Plan — Survival decision-making mnemonic; prevents panic-driven errors in emergency situations
+- **TACEVAC** — Tactical Evacuation Care — Phase 3 of TCCC: care provided during evacuation to a medical facility
+- **TAP** — Tactical Assault Panel — MOLLE pouch panel that attaches to the IOTV; replaced the FLC in 2010
+- **TBI** — Traumatic Brain Injury — Brain injury from external mechanical force; field management focuses on preventing secondary injury via oxygenation and BP maintenance
+- **TC** — Training Circular — US Army training publication; TC 4-02.1 First Aid (2016) covers heat and cold injury treatment
+- **TC 4-02.1** — Training Circular 4-02.1 — US Army First Aid manual (2016); publicly available at rdl.train.army.mil
+- **TCCC** — Tactical Combat Casualty Care — Battlefield trauma care framework; ATP 4-02.11 incorporates TCCC into broader casualty response doctrine
+- **TECC** — Tactical Emergency Casualty Care — Civilian adaptation of TCCC for law enforcement, EMS, and public responders; maintained by C-TECC
+- **TEOTWAWKI** — The End Of The World As We Know It — Scenario descriptor for fundamental societal collapse
+- **TFC** — Tactical Field Care — Phase 2 of TCCC: care when not under immediate fire; full MARCH assessment
+- **THREAT** — Threat suppression, Hemorrhage control, Rapid Extrication, Assessment, Transport — Hartford Consensus mnemonic for law enforcement integration at active shooter events; origin of Stop the Bleed
+- **TLP** — Troop Leading Procedures — Small-unit planning process; compressed MDMP for time-constrained environments
+- **TM** — Technical Manual — U.S. Army equipment operator/maintenance manual; TM 10-8415-236-10 covers ECWCS Gen III
+- **TOC** — Tactical Operations Center — Command and control node for a tactical unit
+- **TQ** — Tourniquet — Common field abbreviation; T-time = time of tourniquet application, must be documented
+- **TXA** — Tranexamic Acid — Antifibrinolytic drug given IV/IO within 3 hours of injury to reduce hemorrhagic shock mortality
+- **UEF** — Universal Edibility Test — FM 21-76 protocol for testing unknown plants for edibility as a last resort
+- **UGR** — Unitized Group Ration — Group ration system serving 50; replaces older A/B/T ration alphabet system
+- **UGR-A** — Unitized Group Ration - A-ration equivalent — Highest quality group ration; includes frozen components; requires field kitchen
+- **UGR-E** — Unitized Group Ration - Express — Ready in 30–45 minutes; requires no trained cooks
+- **UGR-H&S** — Unitized Group Ration - Heat and Serve — Shelf-stable group ration; submerge trays in hot water; no field kitchen needed
+- **UHF** — Ultra High Frequency — 300 MHz–3 GHz; strictly line-of-sight; FRS/GMRS/70cm ham band
+- **ULS** — Universal Licensing System — FCC online portal for radio license applications and management
+- **UPF** — Ultraviolet Protection Factor — Clothing sun-protection rating; UPF 50 blocks 98% of UV radiation
+- **USNG** — United States National Grid — Civilian equivalent of MGRS adopted for emergency management; identical format
+- **UTM** — Universal Transverse Mercator — Civilian grid coordinate system underlying MGRS
+- **UV** — Ultraviolet — Used in UV water purification devices and SODIS; destroys pathogen DNA but ineffective in turbid water
+- **UV-A** — Ultraviolet-A radiation — 280–400 nm band; primary disinfecting agent in SODIS and UV purifiers
+- **UXO** — Unexploded Ordnance — Munitions that failed to detonate; remain hazardous and must be reported and avoided — EOD handles disposal
+- **VBIED** — Vehicle-Borne Improvised Explosive Device — IED concealed in or constructed from a vehicle; a vehicle-as-weapon threat
+- **VHF** — Very High Frequency — 30–300 MHz; mostly line-of-sight; 2m ham band here
+- **WAAS** — Wide Area Augmentation System — FAA augmentation network improving GPS accuracy to 1-3m within CONUS
+- **WAFA** — Wilderness Advanced First Aid — Intermediate wilderness medicine certification between WFA and WFR
+- **WARNO** — Warning Order — Preliminary alert order issued before a full OPORD
+- **WBGT** — Wet Bulb Globe Temperature — Heat stress index accounting for temperature, humidity, wind, and solar radiation; used for military work/rest decisions
+- **WEA** — Wireless Emergency Alerts — Cell-broadcast messages pushed to WEA-enabled phones in a targeted area; no opt-in required
+- **WEMT** — Wilderness Emergency Medical Technician — Advanced wilderness medicine certification combining EMT with wilderness protocols
+- **WFA** — Wilderness First Aid — 16-hour entry-level wilderness medicine course for recreationists
+- **WFR** — Wilderness First Responder — 80-hour professional wilderness medicine certification; required for many outdoor guides
+- **WGS84** — World Geodetic System 1984 — The datum used by GPS; standard reference ellipsoid for Earth's shape
+- **WHO** — World Health Organization — Endorses SODIS; publishes ORS formulas and emergency water standards
+- **WMM** — World Magnetic Model — DoD/NOAA model used for declination correction; updated every 5 years
+- **WMS** — Wilderness Medical Society — Professional organization publishing evidence-based clinical practice guidelines for wilderness medicine
+- **WNB** — Wind, Night, and Barriers — Common field mnemonic for shelter-site selection factors
+- **WO1** — Warrant Officer 1 — Entry-level warrant officer grade
+- **WROL** — Without Rule Of Law — Scenario where governmental and legal authority has broken down
+- **XABCDE** — Exsanguinating hemorrhage, Airway, Breathing, Circulation, Disability, Exposure — PHTLS assessment mnemonic placing external hemorrhage control before standard ABC
+- **XO** — Executive Officer — Second-in-command of a unit, responsible for administrative and logistical functions
+- **ZIM** — Zeno Internet Media (file format) — Highly compressed indexed archive format used by Kiwix

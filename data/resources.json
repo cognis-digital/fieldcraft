@@ -1,0 +1,1374 @@
+[
+  {
+    "name": "FM 21-76 US Army Survival Manual (Internet Archive, full PDF)",
+    "type": "Field Manual",
+    "url": "https://archive.org/details/Fm21-76SurvivalManual",
+    "domain": "environment_sere",
+    "note": "Public domain US Army survival manual; covers all environmental survival scenarios including cold, desert, water, jungle, mountain. Foundational SERE reference."
+  },
+  {
+    "name": "FM 21-76 Direct PDF Download (Internet Archive)",
+    "type": "Field Manual (Public Domain PDF)",
+    "url": "https://ia801604.us.archive.org/28/items/Fm21-76SurvivalManual/FM21-76_SurvivalManual.pdf",
+    "domain": "survival",
+    "note": "Direct-link PDF of the complete FM 21-76. Save for offline use."
+  },
+  {
+    "name": "Ready.gov: Build a Kit",
+    "type": "Government guidance",
+    "url": "https://www.ready.gov/kit",
+    "domain": "preparedness",
+    "note": "FEMA's primary civilian emergency supply kit page; links to printable checklist PDF"
+  },
+  {
+    "name": "FEMA Ready.gov \u2014 Emergency Supply List (Printable PDF)",
+    "type": "Government Checklist (PDF)",
+    "url": "https://www.ready.gov/sites/default/files/2024-05/ready_supply-kit-checklist.pdf",
+    "domain": "survival",
+    "note": "Printable FEMA emergency supply list. Suitable for inclusion in a go-bag."
+  },
+  {
+    "name": "Red Cross \u2014 11 Survival Skills That Could Save Your Life",
+    "type": "Educational Article",
+    "url": "https://www.redcross.org/take-a-class/resources/articles/11-survival-skills-to-know",
+    "domain": "survival",
+    "note": "American Red Cross overview of core survival skills for civilians. Accessible introduction."
+  },
+  {
+    "name": "Wilderness First Aid Training \u2014 American Red Cross",
+    "type": "Medical Training",
+    "url": "https://www.redcross.org/take-a-class/cpr/wilderness-sports",
+    "domain": "gear_edc",
+    "note": "Red Cross WFA certification courses; 2-year certification for outdoor and remote first aid"
+  },
+  {
+    "name": "NOLS Wilderness Medicine \u2014 Course Catalog",
+    "type": "Training Course Catalog",
+    "url": "https://www.nols.edu/wilderness-medicine/courses/",
+    "domain": "survival",
+    "note": "NOLS offers WFA, WFR, and WEMT certifications. WFR is the standard credential for backcountry guides and military personnel in non-TCCC roles."
+  },
+  {
+    "name": "Stop the Bleed \u2014 National Campaign Website",
+    "type": "Public hemorrhage control training program",
+    "url": "https://www.stopthebleed.org",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Find local Stop the Bleed courses; teaches three steps: apply pressure, pack the wound, apply tourniquet; no prior training required"
+  },
+  {
+    "name": "NOAA PLB Registration (Beacon Registration)",
+    "type": "Government Registry",
+    "url": "https://beaconregistration.noaa.gov",
+    "domain": "survival",
+    "note": "All PLBs used in the US must be registered here. Registration is free and ensures SAR responders receive owner/deployment data when beacon activates."
+  },
+  {
+    "name": "Wilderness-Survival.net \u2014 Water Procurement Chapter",
+    "type": "Educational Reference",
+    "url": "https://www.wilderness-survival.net/chp6.php",
+    "domain": "survival",
+    "note": "Detailed chapter-level treatment of water finding, solar stills, and purification. Mirrors FM 21-76 Chapter 6 structure."
+  },
+  {
+    "name": "Wilderness-Survival.net \u2014 Signaling Techniques",
+    "type": "Educational Reference",
+    "url": "https://www.wilderness-survival.net/chp19.php",
+    "domain": "survival",
+    "note": "Detailed overview of ground-to-air signals, mirror use, signal fires, and SOS patterns from the FM 21-76 signaling chapter."
+  },
+  {
+    "name": "Art of Manliness \u2014 Wilderness Distress Signals",
+    "type": "Educational Article",
+    "url": "https://www.artofmanliness.com/skills/outdoor-survival/wilderness-survival-know-your-distress-signals/",
+    "domain": "survival",
+    "note": "Well-illustrated civilian reference covering whistle, mirror, fire, and ground-to-air signaling conventions."
+  },
+  {
+    "name": "OFFGRID \u2014 International Ground-to-Air Signaling Code",
+    "type": "Reference Chart",
+    "url": "https://www.offgridweb.com/survival/international-ground-to-air-signaling-code/",
+    "domain": "survival",
+    "note": "Visual reference for the international ground-to-air symbol system used to communicate with rescue aircraft."
+  },
+  {
+    "name": "Montana Knife Company / John Barklow \u2014 Rule of Threes",
+    "type": "Educational Article",
+    "url": "https://www.montanaknifecompany.com/blogs/john-barklow-mkc-survival-guide/rule-of-threes-survival",
+    "domain": "survival",
+    "note": "Authored by a military survival instructor. Solid tactical application of the Rule of Threes framework."
+  },
+  {
+    "name": "Montana Knife Company / John Barklow \u2014 Improvised Shelter Building",
+    "type": "Educational Article",
+    "url": "https://www.montanaknifecompany.com/blogs/john-barklow-mkc-survival-guide/improvised-shelter-building",
+    "domain": "survival",
+    "note": "Practical construction details for debris huts, lean-tos, and other improvised shelters from a military survival background."
+  },
+  {
+    "name": "Paul Kirtley \u2014 STOP: First Response to Being Lost",
+    "type": "Educational Article",
+    "url": "https://paulkirtley.co.uk/2010/stop/",
+    "domain": "survival",
+    "note": "Detailed application of the STOP method from a UK bushcraft instructor. Covers psychology of panic and decision-making under stress."
+  },
+  {
+    "name": "Georgia Bushcraft \u2014 4 Common Navigation Myths That Could Get You Lost",
+    "type": "Educational Article",
+    "url": "https://www.georgiabushcraft.com/blogs/wilderness-skills/4-common-navigation-myths-that-could-get-you-lost",
+    "domain": "survival",
+    "note": "Debunks the moss-on-trees myth and other unreliable navigation folklore. Important for preventing overconfidence in primitive navigation."
+  },
+  {
+    "name": "USGS National Map Downloader \u2014 Free Topo Maps",
+    "type": "tool",
+    "url": "https://apps.nationalmap.gov/downloader/",
+    "domain": "land_nav_terrain",
+    "note": "Free download of current and historical USGS topographic maps (GeoPDF, GeoTIFF) for any US location; public domain"
+  },
+  {
+    "name": "FM 21-76-1 \u2014 Survival, Evasion, and Recovery (FAS.org)",
+    "type": "Military Field Manual (Public Domain)",
+    "url": "https://irp.fas.org/doddir/army/fm21-76-1.pdf",
+    "domain": "gear_edc",
+    "note": "Companion to FM 21-76 covering SERE principles; hosted at Federation of American Scientists"
+  },
+  {
+    "name": "FM 4-25.11 First Aid (Internet Archive, full text)",
+    "type": "Field Manual",
+    "url": "https://archive.org/details/FM4-25.11",
+    "domain": "environment_sere",
+    "note": "US Army/Navy/Air Force first aid manual (2002); covers hypothermia, frostbite, heat injuries, bites, and field first aid procedures."
+  },
+  {
+    "name": "CDC: How to Make Water Safe in an Emergency",
+    "type": "Government guidance",
+    "url": "https://www.cdc.gov/water-emergency/about/index.html",
+    "domain": "preparedness",
+    "note": "CDC guidance on boiling, bleach treatment, and water purification tablets"
+  },
+  {
+    "name": "EPA: Emergency Disinfection of Drinking Water",
+    "type": "Government Guidance",
+    "url": "https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water",
+    "domain": "food_water_rations",
+    "note": "EPA bleach dosage tables by container size and bleach concentration; calcium hypochlorite instructions; iodine dosing."
+  },
+  {
+    "name": "Ready.gov: Water Storage and Purification",
+    "type": "Government guidance",
+    "url": "https://www.ready.gov/water",
+    "domain": "preparedness",
+    "note": "Official guidance on how much to store, container selection, and purification methods"
+  },
+  {
+    "name": "FEMA: Emergency Water Sources FAQ",
+    "type": "Government FAQ",
+    "url": "https://www.fema.gov/node/what-are-emergency-water-sources-if-im-running-out-clean-water",
+    "domain": "food_water_rations",
+    "note": "FEMA answers on sourcing water in disasters, improvised sources, and what NOT to drink."
+  },
+  {
+    "name": "Princeton Outdoor Action: Guide to Water Purification",
+    "type": "Educational Reference",
+    "url": "https://www.princeton.edu/~oa/manual/water.shtml",
+    "domain": "food_water_rations",
+    "note": "Detailed backcountry water purification guide; organism size/filter pore tables; iodine and chlorine dioxide dosing; Giardia and Cryptosporidium treatment."
+  },
+  {
+    "name": "HPRC Warfighter Nutrition Guide Chapter 13: Combat Rations",
+    "type": "Military Nutrition Reference",
+    "url": "https://www.hprc-online.org/nutrition/warfighter-nutrition-guide/13-combat-rations",
+    "domain": "food_water_rations",
+    "note": "Human Performance Resource Center guide to all US military ration types, calorie specs, protein/fat/carb breakdowns, and proper use."
+  },
+  {
+    "name": "US Army Combat Rations Operational Guide (Quartermaster, army.mil)",
+    "type": "Military Reference (PDF)",
+    "url": "https://quartermaster.army.mil/jccoe/operations_directorate/quad/The%20Practical%20Use%20of%20Operational%20Rations.pdf",
+    "domain": "food_water_rations",
+    "note": "Practical guide to when to use each ration type (MRE, UGR, FSR) and operational calorie planning."
+  },
+  {
+    "name": "AR 40-25: Nutrition and Menu Standards for Human Performance Optimization",
+    "type": "Army Regulation (PDF)",
+    "url": "https://www.armyresilience.army.mil/ard/images/pdf/Policy/AR%2040-25%20Nutrition%20and%20Menu%20Standards%20for%20Human%20Performance%20Optimization.pdf",
+    "domain": "food_water_rations",
+    "note": "Joint service regulation governing all military ration nutritional standards."
+  },
+  {
+    "name": "USDA FSIS: Shelf-Stable Food Safety",
+    "type": "Government Food Safety Reference",
+    "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/shelf-stable-food",
+    "domain": "food_water_rations",
+    "note": "USDA guidance on canned goods, shelf-stable foods, date codes, and food safety for stored emergency supplies."
+  },
+  {
+    "name": "USU Extension: Food Storage Research Hub",
+    "type": "University Extension Research",
+    "url": "https://extension.usu.edu/preserve-the-harvest/food-storage",
+    "domain": "food_water_rations",
+    "note": "Utah State University research-backed shelf-life data for white rice, wheat, beans, honey, canned goods, and freeze-dried foods with packaging methods."
+  },
+  {
+    "name": "USU Extension: Storing White Rice",
+    "type": "University Extension Research",
+    "url": "https://extension.usu.edu/preserve-the-harvest/research/storing-white-rice",
+    "domain": "food_water_rations",
+    "note": "Detailed shelf-life data including 30-year BYU study on polished rice quality retention under various storage conditions."
+  },
+  {
+    "name": "CDC: Water Treatment Options for Hiking, Camping, and Traveling",
+    "type": "Government Health Guidance",
+    "url": "https://www.cdc.gov/drinking-water/prevention/water-treatment-hiking-camping-traveling.html",
+    "domain": "food_water_rations",
+    "note": "CDC comparison of boiling, chemical, filter, and UV methods; organism categories addressed by each method."
+  },
+  {
+    "name": "Cleveland Clinic: Foraging 101 \u2014 What to Eat and Avoid",
+    "type": "Medical Reference",
+    "url": "https://health.clevelandclinic.org/foraging-101-what-to-eat-and-avoid",
+    "domain": "food_water_rations",
+    "note": "Medical-grade foraging safety overview; dangerous look-alikes; poisoning symptoms and when to call 911."
+  },
+  {
+    "name": "Mississippi State University Extension: Introduction to Wild Edible Plants",
+    "type": "University Extension Publication",
+    "url": "https://extension.msstate.edu/publications/forgotten-foods-introduction-wild-edible-plants",
+    "domain": "food_water_rations",
+    "note": "Peer-reviewed introduction to foraging; regional plant identification; safety and sustainability guidelines."
+  },
+  {
+    "name": "PubMed: Ad libitum water consumption prevents exertional hyponatremia \u2014 Army 40-km march study",
+    "type": "Peer-Reviewed Military Research",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6346586/",
+    "domain": "food_water_rations",
+    "note": "Primary research on military hyponatremia vs. dehydration risk during sustained operations; supports programmed drinking limits."
+  },
+  {
+    "name": "Stop the Bleed \u2014 Official Training Program (ACS)",
+    "type": "Training / Course finder",
+    "url": "https://www.stopthebleed.org/get-trained/",
+    "domain": "medical_tccc",
+    "note": "Official Stop the Bleed course locator; over 5 million trained since 2015; free and paid classes available nationwide"
+  },
+  {
+    "name": "DoD Stop the Bleed \u2014 Department of Defense Program",
+    "type": "Training / Government",
+    "url": "https://dodstopthebleed.org/",
+    "domain": "medical_tccc",
+    "note": "DoD-specific hemorrhage control training resources; public access"
+  },
+  {
+    "name": "NAEMT \u2014 TCCC Courses for Civilians",
+    "type": "Training Organization",
+    "url": "https://www.naemt.org/education/trauma-education/naemt-tccc",
+    "domain": "opensource_tools",
+    "note": "Accredited TCCC-CMC and TCCC-CLS courses endorsed by the Joint Trauma System and American College of Surgeons."
+  },
+  {
+    "name": "NAEMT TECC Course Information",
+    "type": "Training / Course",
+    "url": "https://www.naemt.org/education/trauma-education/tecc",
+    "domain": "medical_tccc",
+    "note": "Tactical Emergency Casualty Care course for civilian/law enforcement first responders"
+  },
+  {
+    "name": "C-TECC Guidelines (Free PDF)",
+    "type": "Reference / Guideline PDF",
+    "url": "https://www.c-tecc.org/images/F_TECC_FR_Guidelines_2024_FINAL.pdf",
+    "domain": "medical_tccc",
+    "note": "Official 2024 TECC guidelines for first responders; free public download from the Committee for Tactical Emergency Casualty Care"
+  },
+  {
+    "name": "C-TECC Official Website",
+    "type": "Reference / Organization",
+    "url": "https://www.c-tecc.org/",
+    "domain": "medical_tccc",
+    "note": "Committee for Tactical Emergency Casualty Care; publishes guidelines, FAQs, and course information"
+  },
+  {
+    "name": "Joint Trauma System Clinical Practice Guidelines",
+    "type": "Reference / Clinical Guidelines",
+    "url": "https://jts.health.mil/index.cfm/CPGs/cpgs",
+    "domain": "medical_tccc",
+    "note": "Free public PDFs of all JTS CPGs covering hemorrhage, hypothermia, TBI, airway, and more; authoritative US military trauma standards"
+  },
+  {
+    "name": "TCCC Handbook Version 5 \u2014 US Army (army.mil)",
+    "type": "Official US Army TCCC handbook (free PDF)",
+    "url": "https://api.army.mil/e2/c/downloads/2023/01/19/31e03488/17-13-tactical-casualty-combat-care-handbook-v5-may-17-distro-a.pdf",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Distro-A (public release) version of the TCCC handbook covering all three phases of care"
+  },
+  {
+    "name": "US Army TC 4-02.1 First Aid Manual (2016)",
+    "type": "Reference / Field Manual PDF",
+    "url": "https://rdl.train.army.mil/catalog-ws/view/100.ATSC/B0A32FAD-8C7A-44A6-8FF4-F754A32F1C30-1453986206542/tc4-02.1wc1x2.pdf",
+    "domain": "medical_tccc",
+    "note": "Official US Army First Aid training circular; publicly available via Army training library; covers basic self/buddy aid"
+  },
+  {
+    "name": "FM 4-25.11 First Aid (Internet Archive)",
+    "type": "Reference / Field Manual",
+    "url": "https://archive.org/details/UsArmyFirstAidManualFm4-25.11",
+    "domain": "medical_tccc",
+    "note": "Predecessor to TC 4-02.1; free streaming and download via Internet Archive; comprehensive illustrated self/buddy first aid"
+  },
+  {
+    "name": "TCCC Guidelines \u2014 CoTCCC / Joint Trauma System (Allogy hosted)",
+    "type": "Official TCCC guidelines (free online)",
+    "url": "https://books.allogy.com/web/tenant/8/books/b729b76a-1a34-4bf7-b76b-66bb2072b2a7/",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Current Committee on Tactical Combat Casualty Care guidelines including 2026 updates on tourniquet reassessment, airway management, and iTClamp"
+  },
+  {
+    "name": "NAEMT TCCC Instructor Guide \u2014 Massive Hemorrhage (Free PDF)",
+    "type": "Reference / Instructor Guide PDF",
+    "url": "https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-mp/instructor-guides/3-tfc-1b-massive-hemorrhage-ig.pdf",
+    "domain": "medical_tccc",
+    "note": "NAEMT open-access instructor guide for TFC hemorrhage module; covers tourniquet, wound packing, and hemostatic agents in detail"
+  },
+  {
+    "name": "NAEMT TCCC Instructor Guide \u2014 Airway (Free PDF)",
+    "type": "Reference / Instructor Guide PDF",
+    "url": "https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-mp/instructor-guides/3-tfc-1c-airway-ig.pdf",
+    "domain": "medical_tccc",
+    "note": "NAEMT open-access instructor guide for airway management; NPA insertion, surgical airway, recovery position"
+  },
+  {
+    "name": "NAEMT TCCC Instructor Guide \u2014 Respiration/Breathing (Free PDF)",
+    "type": "Reference / Instructor Guide PDF",
+    "url": "https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-mp/instructor-guides/3-tfc-1d-respiration-breathing-ig.pdf",
+    "domain": "medical_tccc",
+    "note": "NAEMT open-access instructor guide covering chest seals, needle decompression, and tension pneumothorax"
+  },
+  {
+    "name": "JTS Hypothermia Prevention and Treatment CPG",
+    "type": "Reference / Clinical Guideline PDF",
+    "url": "https://jts.health.mil/assets/docs/cpgs/Hypothermia_Prevention_Treatment_07_Jun_2023_ID23.pdf",
+    "domain": "medical_tccc",
+    "note": "2023 Joint Trauma System clinical practice guideline for hypothermia prevention and treatment in trauma; free public PDF"
+  },
+  {
+    "name": "NOLS Wilderness First Responder Course",
+    "type": "Training / Course",
+    "url": "https://www.nols.edu/courses/wm/wilderness-first-responder-wfr/",
+    "domain": "medical_tccc",
+    "note": "Gold standard WFR certification (70-80 hours); covers patient assessment, trauma, environmental emergencies, and prolonged care in austere settings"
+  },
+  {
+    "name": "Red Cross First Aid and CPR Training",
+    "type": "Training / Course",
+    "url": "https://www.redcross.org/take-a-class/first-aid",
+    "domain": "medical_tccc",
+    "note": "American Red Cross first aid/CPR/AED courses; foundational civilian training; available in-person and online nationwide"
+  },
+  {
+    "name": "EMS Junctional Hemorrhage Control \u2014 StatPearls (NCBI/NIH)",
+    "type": "Reference / Medical Literature",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK597371/",
+    "domain": "medical_tccc",
+    "note": "Free peer-reviewed StatPearls article on junctional hemorrhage control techniques; covers XStat, wound packing, junctional tourniquets"
+  },
+  {
+    "name": "Crisis Medicine \u2014 MARCH/MATCH/MARCH-PAWS Analysis",
+    "type": "Reference / Educational Article",
+    "url": "https://www.crisis-medicine.com/march-march-match/",
+    "domain": "medical_tccc",
+    "note": "Analysis of 2025 CoTCCC discussions on updating the MARCH mnemonic for the blood-product resuscitation era; useful background on protocol evolution"
+  },
+  {
+    "name": "ProlongedFieldCare.org \u2014 RAVINES Mnemonic for PFC",
+    "type": "Reference / Educational Article",
+    "url": "https://prolongedfieldcare.org/2020/09/01/ravine-mnemonic-for-prolonged-field-care/",
+    "domain": "medical_tccc",
+    "note": "Practical guide to the RAVINES framework for prolonged field care beyond initial TCCC; telemedicine, resuscitation, ventilation priorities"
+  },
+  {
+    "name": "ATP 3-21.18 Foot Marches (April 2022) \u2014 Federation of American Scientists",
+    "type": "Army Doctrine (Public Release PDF)",
+    "url": "https://irp.fas.org/doddir/army/atp3-21-18.pdf",
+    "domain": "rucking_load",
+    "note": "Primary Army governing publication for foot marches, load categories, and ruck standards. Public release; distribution unlimited."
+  },
+  {
+    "name": "ATP 3-21.18 Foot Marches (July 2025) \u2014 TRAIN.army.mil",
+    "type": "Army Doctrine (Public Release PDF)",
+    "url": "https://rdl.train.army.mil/catalog-ws/view/100.ATSC/75204646-A70B-45D5-AF7C-5E6687E3CD8E-1753815411576/ATP3_21x18.pdf",
+    "domain": "rucking_load",
+    "note": "Most current edition of the foot marches ATP as of mid-2025."
+  },
+  {
+    "name": "FM 7-21.13 / TC 7-21.13 The Soldier's Guide \u2014 FAS.org",
+    "type": "Army Field Manual (Public Domain PDF)",
+    "url": "https://irp.fas.org/doddir/army/fm7-21-13.pdf",
+    "domain": "rucking_load",
+    "note": "Foundational soldier reference covering load-bearing, field craft, and individual soldier standards. Approved for public release."
+  },
+  {
+    "name": "Soldier Load: The Art and Science of Fighting Light \u2014 Army University Press (Infantry Magazine Fall 2024)",
+    "type": "Army Journal Article (PDF)",
+    "url": "https://www.benning.army.mil/infantry/magazine/issues/2024/Fall/pdf/7_Childers-Yost_txt.pdf",
+    "domain": "rucking_load",
+    "note": "Current analysis of soldier load management challenges and doctrine from the Infantry School."
+  },
+  {
+    "name": "ATP 3-21.8 Combat Loads Supplement \u2014 Fort Benning / Army.mil",
+    "type": "Army Doctrine Supplement (Web)",
+    "url": "https://www.benning.army.mil/Infantry/DoctrineSupplement/ATP3-21.8/chapter_09/UnitCombatandBasicLoads/CombatLoads/index.html",
+    "domain": "rucking_load",
+    "note": "Defines fighting load vs. approach march load in the context of small-unit infantry operations."
+  },
+  {
+    "name": "Foot Blisters Take the Fun Out of Marching \u2014 U.S. Army Official Article",
+    "type": "Army Health Article (Web)",
+    "url": "https://www.army.mil/article/25253/foot_blisters_take_the_fun_out_of_marching",
+    "domain": "rucking_load",
+    "note": "Official Army guidance on blister prevention, sock selection, and field treatment."
+  },
+  {
+    "name": "Military Ruck Standards by Branch (2026) \u2014 The Ruck Calculator",
+    "type": "Reference Guide (Web)",
+    "url": "https://theruckcalculator.com/guides/training/military-ruck-standards.html",
+    "domain": "rucking_load",
+    "note": "Comprehensive summary of distance, weight, and time standards across Army, Rangers, SFAS, Air Assault, Marine Corps, and Navy SEAL programs."
+  },
+  {
+    "name": "How to Train for Army Ruck Marches \u2014 GORUCK",
+    "type": "Training Guide (Web)",
+    "url": "https://www.goruck.com/blogs/news-stories/ruck-march-standards",
+    "domain": "rucking_load",
+    "note": "Practical training guidance for the 12-mile/35-lb/3-hour standard, from a company founded by Special Forces veterans."
+  },
+  {
+    "name": "The 12-Mile Ruck: Standards, Time, and Prep \u2014 GORUCK",
+    "type": "Training Guide (Web)",
+    "url": "https://www.goruck.com/blogs/news-stories/12-mile-ruck",
+    "domain": "rucking_load",
+    "note": "Detailed breakdown of the 12-mile ruck march benchmark event, prep program, and gear requirements."
+  },
+  {
+    "name": "Get Started Rucking: Complete Beginner Guide \u2014 GORUCK",
+    "type": "Beginner Guide (Web)",
+    "url": "https://www.goruck.com/pages/get-started-rucking",
+    "domain": "rucking_load",
+    "note": "Entry-level rucking overview: starting weight, pack selection, frequency, and health benefits."
+  },
+  {
+    "name": "Rucking Injury Prevention Guide: 10 Common Injuries \u2014 RuckingBasics.com",
+    "type": "Injury Reference (Web)",
+    "url": "https://ruckingbasics.com/articles/rucking-injury-prevention/",
+    "domain": "rucking_load",
+    "note": "Covers all 10 major rucking injuries with causes, prevention strategies, and return-to-training guidance."
+  },
+  {
+    "name": "Rucking Recommendations: Lower Back and Knee Pain \u2014 O2X Human Performance",
+    "type": "Performance Science (Web)",
+    "url": "https://www.o2x.com/blog/rucking-recommendations-how-to-improve-ruck-times-and-avoid-lower-back-and-knee-joint-pain",
+    "domain": "rucking_load",
+    "note": "Evidence-based guidance on form, load distribution, and strength training from a military human performance organization."
+  },
+  {
+    "name": "How Heavy Should Your Ruck Be? \u2014 Team Red, White and Blue",
+    "type": "Civilian/Veteran Resource (Web)",
+    "url": "https://teamrwb.org/rucking/how-heavy-should-your-ruck-be",
+    "domain": "rucking_load",
+    "note": "Practical load-selection guide for veterans and civilians; discusses the 1/3 bodyweight rule and beginner scaling."
+  },
+  {
+    "name": "3 Tips for Packing a Ruck \u2014 Team Red, White and Blue",
+    "type": "Gear Guide (Web)",
+    "url": "https://teamrwb.org/rucking/3-tips-for-packing-a-ruck",
+    "domain": "rucking_load",
+    "note": "Load distribution and pack organization guidance for civilian ruckers."
+  },
+  {
+    "name": "The Secret to a Blister-Free Foot March \u2014 The Military Leader",
+    "type": "Foot Care Reference (Web)",
+    "url": "https://themilitaryleader.com/blister-free-foot-march/",
+    "domain": "rucking_load",
+    "note": "Detailed sock layering, boot prep, and hotspot management guide targeting military and civilian marchers."
+  },
+  {
+    "name": "12-Week Rucking Training Plan \u2014 The Ruck Calculator",
+    "type": "Training Program (Web)",
+    "url": "https://theruckcalculator.com/guides/training/12-week-training-plan.html",
+    "domain": "rucking_load",
+    "note": "Structured 12-week progressive training plan from beginner to event-ready, with weekly mileage and load progressions."
+  },
+  {
+    "name": "Free Rucking Workout Plans \u2014 GORUCK",
+    "type": "Training Program (Web)",
+    "url": "https://www.goruck.com/blogs/news-stories/rucking-workout-plans",
+    "domain": "rucking_load",
+    "note": "Free beginner and advanced ruck training plans from GORUCK, including weekly structure and strength supplements."
+  },
+  {
+    "name": "Comprehensive Guide to Rucking for Special Operations \u2014 SOF Prep Coach",
+    "type": "Special Operations Prep Guide (Web)",
+    "url": "https://sofprepcoach.com/comprehensive-guide-to-rucking-for-special-operations/",
+    "domain": "rucking_load",
+    "note": "SFAS and Ranger School preparation framework including recommended ruck standards and periodized training approach."
+  },
+  {
+    "name": "TC 3-25.26 Map Reading and Land Navigation (Part 1 PDF) \u2014 Army Writer",
+    "type": "manual",
+    "url": "https://www.armywriter.com/board/references/TC3-25x26-Part1.pdf",
+    "domain": "land_nav_terrain",
+    "note": "Direct PDF of the current US Army Training Circular (Nov 2013); public release; the authoritative reference for all Army land navigation doctrine"
+  },
+  {
+    "name": "FM 3-25.26 / TC 3-25.26 \u2014 Map Reading and Land Navigation (Internet Archive)",
+    "type": "Public-domain field manual (free download)",
+    "url": "https://archive.org/details/FM3-25x26",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "The authoritative Army land navigation manual covering MGRS, compass, terrain association, and map reading"
+  },
+  {
+    "name": "NOAA Magnetic Declination Calculator \u2014 NCEI/NGDC",
+    "type": "tool",
+    "url": "https://www.ngdc.noaa.gov/geomag/declination.shtml",
+    "domain": "land_nav_terrain",
+    "note": "Authoritative government tool for current magnetic declination at any location worldwide; uses World Magnetic Model (WMM)"
+  },
+  {
+    "name": "CalTopo \u2014 Backcountry Mapping and Route Planning",
+    "type": "tool",
+    "url": "https://caltopo.com",
+    "domain": "land_nav_terrain",
+    "note": "Free/freemium web tool for pre-mission mapping; supports USGS topos, MGRS grid overlays, slope angle shading, and printable custom maps"
+  },
+  {
+    "name": "Gaia GPS \u2014 Offline Navigation App",
+    "type": "tool",
+    "url": "https://www.gaiagps.com",
+    "domain": "land_nav_terrain",
+    "note": "Mobile GPS app (iOS/Android) with offline topo maps; free tier available; integrates with CalTopo for pre-planned routes"
+  },
+  {
+    "name": "OsmAnd \u2014 Offline Maps and Navigation",
+    "type": "App",
+    "url": "https://osmand.net",
+    "domain": "opensource_tools",
+    "note": "Full-featured offline navigation app for Android and iOS using OSM data. F-Droid tracker-free build available."
+  },
+  {
+    "name": "MGRS Coordinate Converter \u2014 MapScaping",
+    "type": "tool",
+    "url": "https://mapscaping.com/mgrs-coordinate-converter/",
+    "domain": "land_nav_terrain",
+    "note": "Free online converter between MGRS, lat/long, and UTM; interactive map display; no signup required"
+  },
+  {
+    "name": "ITS Tactical: Complete Guide to Land Navigation with MGRS",
+    "type": "tutorial",
+    "url": "https://www.itstactical.com/skillcom/navigation/the-complete-guide-to-land-navigation-with-the-military-grid-reference-system/",
+    "domain": "land_nav_terrain",
+    "note": "Detailed civilian-written step-by-step guide to MGRS: grid zones, 100k squares, reading 8- and 10-digit coordinates, practical field tips"
+  },
+  {
+    "name": "ITS Tactical: Understanding UTM",
+    "type": "tutorial",
+    "url": "https://www.itstactical.com/skillcom/navigation/landnav-101-understanding-the-universal-transverse-mercator-system-utm/",
+    "domain": "land_nav_terrain",
+    "note": "UTM system explained: zones, eastings, northings, relationship to MGRS; good primer before learning MGRS"
+  },
+  {
+    "name": "REI Expert Advice: How to Adjust Compass Declination",
+    "type": "tutorial",
+    "url": "https://www.rei.com/learn/expert-advice/compass-declination.html",
+    "domain": "land_nav_terrain",
+    "note": "Civilian-oriented guide to declination: what it is, east vs west, how to set adjustable compasses, conversion rules"
+  },
+  {
+    "name": "Gray Bearded Green Beret: Pace Count and Ranger Beads",
+    "type": "tutorial",
+    "url": "https://graybeardedgreenberet.com/blogs/the-gray-bearded-green-beret-blog/determining-distance-pace-count-and-ranger-beads",
+    "domain": "land_nav_terrain",
+    "note": "Practical guide with typical pace count values (62-75 per 100m), ranger bead construction and use, terrain adjustment factors"
+  },
+  {
+    "name": "Land-Navigation.com: Terrain Association",
+    "type": "tutorial",
+    "url": "https://www.land-navigation.com/terrain-association.html",
+    "domain": "land_nav_terrain",
+    "note": "Dedicated civilian site explaining terrain association technique including Google Earth armchair practice method"
+  },
+  {
+    "name": "Army Study Guide: Major and Minor Terrain Features",
+    "type": "reference",
+    "url": "https://www.armystudyguide.com/content/Prep_For_Basic_Training/prep_for_basic_common_tasks/identify-terrain-features.shtml",
+    "domain": "land_nav_terrain",
+    "note": "Quick-reference definitions of the five major (hill, ridge, valley, saddle, depression) and three minor (draw, spur, cliff) terrain features with contour descriptions"
+  },
+  {
+    "name": "USMC TBS Lensatic Compass Student Handout (PDF)",
+    "type": "manual",
+    "url": "https://www.trngcmd.marines.mil/Portals/207/Docs/TBS/B182056%20Lensatic%20Compass.pdf",
+    "domain": "land_nav_terrain",
+    "note": "Official USMC Training and Education Command handout on lensatic compass use; public release; covers compass-to-cheek method, azimuths, back-azimuths"
+  },
+  {
+    "name": "Wikipedia: Military Grid Reference System",
+    "type": "reference",
+    "url": "https://en.wikipedia.org/wiki/Military_Grid_Reference_System",
+    "domain": "land_nav_terrain",
+    "note": "Well-maintained encyclopedia article on MGRS; covers GZD structure, 100k squares, precision levels, relationship to UTM"
+  },
+  {
+    "name": "AskTOP.net: FM 3-25.26 Historical Download",
+    "type": "manual",
+    "url": "https://asktop.net/army-downloads/references/field-manuals/fm-3-25-26-map-reading-and-land-navigation-historical-copy-superseded-by-tc-3-25-26-map-reading-and-land-navigation/",
+    "domain": "land_nav_terrain",
+    "note": "Hosted download of the superseded FM 3-25.26 for historical reference; same core content as TC 3-25.26 for most land nav topics"
+  },
+  {
+    "name": "Gaia GPS: How to Read Topographic Maps",
+    "type": "tutorial",
+    "url": "https://blog.gaiagps.com/how-to-read-topographic-maps/",
+    "domain": "land_nav_terrain",
+    "note": "Accessible civilian introduction to topo map reading: contour lines, index contours, valley vs ridge signatures, scale, and using digital topos"
+  },
+  {
+    "name": "FCC: General Mobile Radio Service (GMRS)",
+    "type": "Government regulatory reference",
+    "url": "https://www.fcc.gov/wireless/bureau-divisions/mobility-division/general-mobile-radio-service-gmrs",
+    "domain": "comms",
+    "note": "Official FCC GMRS rules, license requirements, power limits, and channel allocations"
+  },
+  {
+    "name": "FCC: Family Radio Service (FRS)",
+    "type": "Government regulatory reference",
+    "url": "https://www.fcc.gov/wireless/bureau-divisions/mobility-division/family-radio-service-frs",
+    "domain": "comms",
+    "note": "Official FCC FRS rules; 22 channels, power limits, no-license requirements"
+  },
+  {
+    "name": "FCC: Multi-Use Radio Service (MURS)",
+    "type": "Government regulatory reference",
+    "url": "https://www.fcc.gov/wireless/bureau-divisions/mobility-division/multi-use-radio-service-murs",
+    "domain": "comms",
+    "note": "Official FCC MURS rules; 5 VHF channels, 2W max, license-free"
+  },
+  {
+    "name": "FCC: Amateur Radio Service",
+    "type": "Government regulatory reference",
+    "url": "https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service",
+    "domain": "comms",
+    "note": "FCC page for amateur radio licensing, regulations, and ULS access"
+  },
+  {
+    "name": "ARRL: Ham Radio Licenses",
+    "type": "Licensing guide",
+    "url": "https://www.arrl.org/ham-radio-licenses",
+    "domain": "comms",
+    "note": "ARRL overview of Technician/General/Extra license classes, exam prep, and getting started"
+  },
+  {
+    "name": "ARRL: Amateur Radio Emergency Service (ARES)",
+    "type": "Volunteer organization",
+    "url": "https://www.arrl.org/ares",
+    "domain": "comms",
+    "note": "How to join and participate in ARES for disaster and emergency communications"
+  },
+  {
+    "name": "HamStudy.org \u2014 Free Exam Prep (includes 2026 Tech pool)",
+    "type": "Free study tool",
+    "url": "https://hamstudy.org",
+    "domain": "comms",
+    "note": "Flash cards, practice tests, full question pools for all three license classes; updated for 2026 Technician pool"
+  },
+  {
+    "name": "HamExam.org \u2014 Free Practice Exams",
+    "type": "Free study tool",
+    "url": "https://www.hamexam.org",
+    "domain": "comms",
+    "note": "Timed, full-length mock exams mirroring actual FCC exam format"
+  },
+  {
+    "name": "CHIRP Radio Programming Software",
+    "type": "Open-source software",
+    "url": "https://chirpmyradio.com/projects/chirp/wiki/Download",
+    "domain": "comms",
+    "note": "Free, open-source tool for programming hundreds of radio models (Baofeng, Yaesu, Kenwood, etc.); Windows/macOS/Linux"
+  },
+  {
+    "name": "RepeaterBook \u2014 Repeater Directory",
+    "type": "Free database",
+    "url": "https://www.repeaterbook.com",
+    "domain": "comms",
+    "note": "Crowd-sourced directory of ham and GMRS repeaters in US and worldwide; integrates with CHIRP"
+  },
+  {
+    "name": "myGMRS.com \u2014 GMRS Repeater Network",
+    "type": "Free database",
+    "url": "https://mygmrs.com",
+    "domain": "comms",
+    "note": "Primary GMRS repeater directory and community; map view; 1,700+ repeaters"
+  },
+  {
+    "name": "CISA: Leveraging the PACE Plan (PDF)",
+    "type": "Government guidance document",
+    "url": "https://www.cisa.gov/sites/default/files/2024-10/2024_NCSWICPTE_Leveraging_PACE_Plan_Emergency_Comms_Ecosystems.pdf",
+    "domain": "comms",
+    "note": "2024 CISA paper on applying PACE methodology to civilian and government emergency communications ecosystems"
+  },
+  {
+    "name": "FEMA ICS-205 Incident Radio Communications Plan (PDF form)",
+    "type": "Government form / template",
+    "url": "https://training.fema.gov/emiweb/is/icsresource/assets/ics%20forms/ics%20form%20205,%20incident%20radio%20communications%20plan%20(v3.1).pdf",
+    "domain": "comms",
+    "note": "Fillable FEMA form for documenting all radio frequencies and assignments during an incident; free to use"
+  },
+  {
+    "name": "NATO Phonetic Alphabet \u2014 Official NATO Page",
+    "type": "Reference",
+    "url": "https://www.nato.int/en/news-and-events/articles/news/2017/12/21/nato-phonetic-alphabet-codes-and-signals",
+    "domain": "comms",
+    "note": "Official NATO article on phonetic alphabet, Morse code equivalents, and signals"
+  },
+  {
+    "name": "Wikipedia: Procedure Word (Prowords)",
+    "type": "Reference",
+    "url": "https://en.wikipedia.org/wiki/Procedure_word",
+    "domain": "comms",
+    "note": "Comprehensive list of standard radiotelephony procedure words with meanings and usage context"
+  },
+  {
+    "name": "Winlink \u2014 Email Over Radio",
+    "type": "Open-source EmComm tool",
+    "url": "https://www.winlink.org",
+    "domain": "comms",
+    "note": "Free system for sending email over HF/VHF/UHF amateur radio when internet is down; used by ARES/RACES"
+  },
+  {
+    "name": "Meshtastic \u2014 Open Source Off-Grid LoRa Mesh Communication",
+    "type": "Firmware / App",
+    "url": "https://meshtastic.org",
+    "domain": "opensource_tools",
+    "note": "Open-source firmware for $20-60 LoRa hardware enabling encrypted, license-free mesh text comms with no infrastructure. GitHub: github.com/meshtastic/firmware"
+  },
+  {
+    "name": "FRS/GMRS Combined Channel Chart \u2014 RadioReference Wiki",
+    "type": "Reference chart",
+    "url": "https://wiki.radioreference.com/index.php/FRS/GMRS_combined_channel_chart",
+    "domain": "comms",
+    "note": "Complete tabular listing of all 22 FRS and 30 GMRS frequencies, power limits, and channel designations"
+  },
+  {
+    "name": "TM 10-8415-236-10 \u2014 ECWCS Gen III Operator Manual (CIE Hub)",
+    "type": "Military Technical Manual (Public Domain)",
+    "url": "https://ciehub.info/ref/TM/10-8415-236-10_2014.pdf",
+    "domain": "gear_edc",
+    "note": "Official U.S. Army operator manual for the Extended Cold Weather Clothing System Gen III"
+  },
+  {
+    "name": "Stop the Bleed (ACS)",
+    "type": "Training program",
+    "url": "https://www.stopthebleed.org/",
+    "domain": "preparedness",
+    "note": "Nationwide program teaching civilians to control life-threatening bleeding; free training locations searchable on site"
+  },
+  {
+    "name": "What Are the Ten Essentials \u2014 The Mountaineers",
+    "type": "Outdoor Organization",
+    "url": "https://www.mountaineers.org/blog/what-are-the-ten-essentials",
+    "domain": "gear_edc",
+    "note": "Authoritative source of the modern 10 Essentials systems approach; The Mountaineers originated this list in the 1930s"
+  },
+  {
+    "name": "REI Expert Advice \u2014 Ten Essentials for Hiking and Camping",
+    "type": "Retailer / Educational",
+    "url": "https://www.rei.com/learn/expert-advice/ten-essentials.html",
+    "domain": "gear_edc",
+    "note": "Practical consumer-oriented breakdown of the 10 Essential Systems with gear recommendations"
+  },
+  {
+    "name": "REI Expert Advice \u2014 Hiking Boots vs. Trail Runners",
+    "type": "Educational",
+    "url": "https://www.rei.com/learn/expert-advice/hiking-boots-vs-trail-runners-the-great-debate.html",
+    "domain": "gear_edc",
+    "note": "Evidence-based comparison of footwear options for hiking and backpacking"
+  },
+  {
+    "name": "REI Expert Advice \u2014 How to Choose Hiking Socks",
+    "type": "Educational",
+    "url": "https://www.rei.com/learn/expert-advice/backpacking-socks.html",
+    "domain": "gear_edc",
+    "note": "Covers merino wool vs. synthetic, weight, cushioning, and liner sock systems"
+  },
+  {
+    "name": "Dave Canterbury's 10 Cs of Survivability \u2014 Smart Survival Skills",
+    "type": "Survival Reference",
+    "url": "https://www.smartsurvivalskills.com/10-cs-of-survivability/",
+    "domain": "gear_edc",
+    "note": "Clear breakdown of all 10 Cs with descriptions; Dave Canterbury's framework from Bushcraft 101"
+  },
+  {
+    "name": "ECWCS Gen III Overview \u2014 CIE Hub (U.S. Army)",
+    "type": "Military Reference",
+    "url": "https://ciehub.info/clothing/CW/ECWCS/GEN3.html",
+    "domain": "gear_edc",
+    "note": "U.S. Army Clothing and Individual Equipment Hub; all 7 levels of ECWCS Gen III described"
+  },
+  {
+    "name": "MOLLE II Care and Use Manual (CIE Hub)",
+    "type": "Military Technical Manual (Public Domain)",
+    "url": "https://ciehub.info/ref/MOLLE2CareUse.pdf",
+    "domain": "gear_edc",
+    "note": "Official U.S. Army MOLLE II system care, use, and component guide"
+  },
+  {
+    "name": "TCCC Quick Reference Guide 2017 \u2014 California EMSA",
+    "type": "Medical Reference (Public Domain)",
+    "url": "https://emsa.ca.gov/wp-content/uploads/sites/71/2017/07/TCCC_Quick_Reference_Guide_2017.pdf",
+    "domain": "gear_edc",
+    "note": "Publicly available TCCC quick reference covering MARCH algorithm, hemorrhage control, airway management"
+  },
+  {
+    "name": "Washington Trails Association \u2014 How to Pick the Right Hiking Socks",
+    "type": "Outdoor Organization",
+    "url": "https://www.wta.org/news/magazine/features/how-to-pick-the-right-hiking-socks-for-you",
+    "domain": "gear_edc",
+    "note": "Practical guide to sock selection from a recognized hiking authority"
+  },
+  {
+    "name": "Washington Trails Association \u2014 Navigate on Trail Using Orienteering Skills",
+    "type": "Outdoor Organization / Educational",
+    "url": "https://www.wta.org/go-outside/trail-smarts/how-to/navigate-on-trail-using-orienteering-skills-map-compass",
+    "domain": "gear_edc",
+    "note": "Map and compass fundamentals for trail navigation from WTA"
+  },
+  {
+    "name": "Helly Hansen \u2014 The 3-Layer System: How to Dress for Outdoor Performance",
+    "type": "Educational",
+    "url": "https://www.hellyhansen.com/guides/how-to-dress-for-the-outdoors-the-3-layer-system",
+    "domain": "gear_edc",
+    "note": "Clear explanation of the three-layer wicking-insulating-shell principle"
+  },
+  {
+    "name": "USAMM \u2014 ECWCS: The Army's Extended Cold Weather Clothing System Guide",
+    "type": "Military Reference",
+    "url": "https://www.usamm.com/blogs/news/ecwcs-extended-cold-weather-clothing-system-guide",
+    "domain": "gear_edc",
+    "note": "Accessible guide to all 7 ECWCS Gen III levels with descriptions and usage guidance"
+  },
+  {
+    "name": "Ready.gov: Make a Plan",
+    "type": "Government guidance",
+    "url": "https://www.ready.gov/plan",
+    "domain": "preparedness",
+    "note": "Family emergency plan overview with fillable templates and wallet-card downloads"
+  },
+  {
+    "name": "Ready.gov: Evacuation",
+    "type": "Government guidance",
+    "url": "https://www.ready.gov/evacuation",
+    "domain": "preparedness",
+    "note": "When and how to evacuate; route planning, go-bag, pet considerations"
+  },
+  {
+    "name": "Ready.gov: Shelter (Shelter-in-Place)",
+    "type": "Government guidance",
+    "url": "https://www.ready.gov/shelter",
+    "domain": "preparedness",
+    "note": "Shelter-in-place procedures by hazard type"
+  },
+  {
+    "name": "Ready.gov: Power Outages",
+    "type": "Government guidance",
+    "url": "https://www.ready.gov/power-outages",
+    "domain": "preparedness",
+    "note": "Before, during, and after guidance for power outages including generator safety and food safety"
+  },
+  {
+    "name": "Ready.gov Emergency Supply Checklist (PDF)",
+    "type": "Printable checklist",
+    "url": "https://www.ready.gov/sites/default/files/2021-02/ready_checklist.pdf",
+    "domain": "preparedness",
+    "note": "One-page printable emergency supply list from FEMA/Ready.gov"
+  },
+  {
+    "name": "FEMA Emergency Financial First Aid Kit (EFFAK)",
+    "type": "Government tool",
+    "url": "https://www.fema.gov/emergency-financial-first-aid-kit",
+    "domain": "preparedness",
+    "note": "Free toolkit for organizing critical financial, medical, and legal documents before a disaster"
+  },
+  {
+    "name": "FEMA Planning Considerations: Evacuation and Shelter-in-Place (PDF)",
+    "type": "Government planning document",
+    "url": "https://www.fema.gov/sites/default/files/2020-07/planning-considerations-evacuation-and-shelter-in-place.pdf",
+    "domain": "preparedness",
+    "note": "Comprehensive FEMA planning document for emergency managers and informed civilians on evacuation vs SIP decisions"
+  },
+  {
+    "name": "American Red Cross: Power Outage Safety",
+    "type": "Nonprofit guidance",
+    "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+    "domain": "preparedness",
+    "note": "Red Cross power outage before/during/after guidance; generator and food safety"
+  },
+  {
+    "name": "American Red Cross: Survival Kit Supplies",
+    "type": "Nonprofit guidance",
+    "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
+    "domain": "preparedness",
+    "note": "Red Cross recommended supplies for emergency survival kits"
+  },
+  {
+    "name": "Red Cross Power Outage Preparedness Checklist (PDF)",
+    "type": "Printable checklist",
+    "url": "https://www.redcross.org/content/dam/redcross/get-help/power-outage/EN_Power-Outage-Safety-Checklist.pdf",
+    "domain": "preparedness",
+    "note": "Printable Red Cross power outage safety checklist"
+  },
+  {
+    "name": "CDC: How to Create an Emergency Water Supply",
+    "type": "Government guidance",
+    "url": "https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html",
+    "domain": "preparedness",
+    "note": "CDC water storage container selection and safe water treatment methods"
+  },
+  {
+    "name": "FEMA Community Emergency Response Team (CERT) Program",
+    "type": "Official FEMA CERT program page",
+    "url": "https://www.fema.gov/emergency-managers/individuals-communities/preparedness-activities-webinars/community-emergency-response-team",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Find local CERT training, curriculum downloads, and program registration"
+  },
+  {
+    "name": "FEMA IS-317: Introduction to CERT (Free Online Course)",
+    "type": "Free online training",
+    "url": "https://training.fema.gov/is/courseoverview.aspx?code=is-317",
+    "domain": "preparedness",
+    "note": "FEMA Independent Study online introduction to the CERT program; free, no registration cost"
+  },
+  {
+    "name": "Red Cross: Until Help Arrives (Free Online Course)",
+    "type": "Free online training",
+    "url": "https://www.redcross.org/take-a-class/first-aid/first-aid-training/first-aid-classes/until-help-arrives",
+    "domain": "preparedness",
+    "note": "Free Red Cross online course on bystander life-saving actions: severe bleeding, CPR, choking, shock"
+  },
+  {
+    "name": "NOAA Weather Radio All Hazards",
+    "type": "Government alert system",
+    "url": "https://www.weather.gov/nwr",
+    "domain": "preparedness",
+    "note": "Nationwide 24/7 weather and hazard broadcast network; find your local transmitter frequency here"
+  },
+  {
+    "name": "Ready.gov: People with Disabilities Preparedness",
+    "type": "Government guidance",
+    "url": "https://www.ready.gov/people-disabilities",
+    "domain": "preparedness",
+    "note": "Tailored preparedness guidance for people with access and functional needs"
+  },
+  {
+    "name": "Army Publishing Directorate \u2014 Official Field Manuals and ATPs",
+    "type": "Official government publication repository",
+    "url": "https://armypubs.army.mil",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Free PDF downloads of all public-release Army doctrine including FM 3-0, ATP 4-25.13 (Casualty Evacuation), TC 3-25.26 (Map Reading and Land Navigation)"
+  },
+  {
+    "name": "TC 3-21.76 Ranger Handbook (April 2017) \u2014 Direct PDF from APD",
+    "type": "Official Doctrine PDF",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN3039-TC_3-21.76-000-WEB-1.pdf",
+    "domain": "mil_reference",
+    "note": "The canonical small-unit field reference. Covers patrol operations, battle drills, navigation, survival, first aid, and combat orders. Public release, unlimited distribution."
+  },
+  {
+    "name": "FM 3-0 Operations (March 2025) \u2014 Direct PDF from APD",
+    "type": "Official Doctrine PDF",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN43326-FM_3-0-000-WEB-1.pdf",
+    "domain": "mil_reference",
+    "note": "Capstone operations FM covering large-scale combat and multidomain operations. Most current edition."
+  },
+  {
+    "name": "ADP 6-22 Army Leadership and the Profession \u2014 FAS Mirror",
+    "type": "Official Doctrine PDF (FAS Mirror)",
+    "url": "https://irp.fas.org/doddir/army/adp6_22.pdf",
+    "domain": "mil_reference",
+    "note": "Leadership principles applicable to all ranks and organizations. Foundational reading."
+  },
+  {
+    "name": "Army Publishing Directorate \u2014 Field Manuals Product Map",
+    "type": "Official Government",
+    "url": "https://armypubs.army.mil/ProductMaps/PubForm/FM.aspx",
+    "domain": "mil_reference",
+    "note": "Browse all current Field Manuals alphabetically or by number."
+  },
+  {
+    "name": "Federation of American Scientists \u2014 Army Doctrine Index",
+    "type": "Public Archive",
+    "url": "https://irp.fas.org/doddir/army/index.html",
+    "domain": "mil_reference",
+    "note": "FAS hosts an extensive archive of older Army field manuals and intelligence doctrine, many no longer on the main APD site."
+  },
+  {
+    "name": "Internet Archive \u2014 TC 3-21.76 Ranger Handbook",
+    "type": "Public Archive",
+    "url": "https://archive.org/details/tc-3-21.76-ranger-handbook-2017",
+    "domain": "mil_reference",
+    "note": "Free borrow/stream of the 2017 Ranger Handbook. Useful when APD is unavailable."
+  },
+  {
+    "name": "U.S. Army Official Ranks Page",
+    "type": "Official Government",
+    "url": "https://www.army.mil/ranks/",
+    "domain": "mil_reference",
+    "note": "Official Army.mil page with current rank insignia, titles, and pay grades for enlisted, warrant officer, and officer grades."
+  },
+  {
+    "name": "GoArmy \u2014 Warrant Officers Career Page",
+    "type": "Official Government",
+    "url": "https://www.goarmy.com/careers-and-jobs/find-your-path/warrant-officers",
+    "domain": "mil_reference",
+    "note": "Official U.S. Army recruiting site explanation of the warrant officer role, branches, and entry requirements."
+  },
+  {
+    "name": "Army Sustainment Resource Portal \u2014 Doctrine Publications",
+    "type": "Official Government",
+    "url": "https://cascom.army.mil/asrp/doctrine-pubs.html",
+    "domain": "mil_reference",
+    "note": "CASCOM portal with logistics and sustainment doctrine; useful for CMF 92/88/91 MOS-related publications."
+  },
+  {
+    "name": "Operation Military Kids \u2014 Army Organization / Platoon Size Explained",
+    "type": "Educational Reference",
+    "url": "https://www.operationmilitarykids.org/platoon-size-how-the-us-army-is-organized/",
+    "domain": "mil_reference",
+    "note": "Clear plain-language overview of Army echelons from fire team to field army with typical sizes and commanders."
+  },
+  {
+    "name": "Congressional Research Service \u2014 Defense Primer: Organization of U.S. Ground Forces",
+    "type": "Government Research / Public",
+    "url": "https://sgp.fas.org/crs/natsec/IF10571.pdf",
+    "domain": "mil_reference",
+    "note": "CRS primer on ground force organization including BCT types, division, corps, and force structure numbers. Authoritative and concise."
+  },
+  {
+    "name": "OODA Loop \u2014 Wikipedia",
+    "type": "Encyclopedia Reference",
+    "url": "https://en.wikipedia.org/wiki/OODA_loop",
+    "domain": "mil_reference",
+    "note": "Well-sourced Wikipedia article covering Boyd's model, the four stages, orientation as the dominant phase, and applications. Includes references to Boyd's original briefings."
+  },
+  {
+    "name": "Farnam Street \u2014 The OODA Loop Explained",
+    "type": "Educational Reference",
+    "url": "https://fs.blog/ooda-loop/",
+    "domain": "mil_reference",
+    "note": "Accessible deep-dive into Boyd's OODA loop, the importance of orientation, and why tempo beats raw speed. Good for non-military readers."
+  },
+  {
+    "name": "Army Study Guide \u2014 NCO Duties and Responsibilities",
+    "type": "Educational Reference",
+    "url": "https://www.armystudyguide.com/content/army_board_study_guide_topics/nco_duties/duties-responsibilities-authority-of-nco.shtml",
+    "domain": "mil_reference",
+    "note": "Comprehensive study guide on NCO authority, duties of squad leaders, platoon sergeants, and first sergeants. Based on FM 7-22.7 doctrine."
+  },
+  {
+    "name": "GlobalSecurity.org \u2014 Army Doctrine Library",
+    "type": "Public Archive",
+    "url": "https://www.globalsecurity.org/military/library/policy/army/fm/",
+    "domain": "mil_reference",
+    "note": "Hosts older FM text including FM 3-21.9 and FM 7-7 chapters. Useful for historical doctrine reference when APD only carries current editions."
+  },
+  {
+    "name": "Illinois State ROTC \u2014 Army Doctrine Resources Page",
+    "type": "Educational / University",
+    "url": "https://arotc.illinoisstate.edu/resources/doctrine/",
+    "domain": "mil_reference",
+    "note": "Curated links to key Army doctrine publications; useful starting point for ROTC cadets and civilians studying Army doctrine."
+  },
+  {
+    "name": "QGIS \u2014 Open Source GIS Desktop",
+    "type": "Software",
+    "url": "https://qgis.org",
+    "domain": "opensource_tools",
+    "note": "Primary open-source desktop GIS. Windows/macOS/Linux. GNU GPL."
+  },
+  {
+    "name": "QField \u2014 Mobile QGIS Field Collection App",
+    "type": "Software / App",
+    "url": "https://qfield.org",
+    "domain": "opensource_tools",
+    "note": "Open-source Android/iOS/desktop QGIS companion for offline field data collection. GitHub: github.com/opengisch/QField"
+  },
+  {
+    "name": "Organic Maps \u2014 Offline Hike, Bike, and Navigation",
+    "type": "App",
+    "url": "https://organicmaps.app",
+    "domain": "opensource_tools",
+    "note": "Lightweight, ad-free, open-source navigation app. Best for hiking/cycling/travel. Unlimited offline downloads."
+  },
+  {
+    "name": "OpenStreetMap",
+    "type": "Dataset / Community",
+    "url": "https://www.openstreetmap.org",
+    "domain": "opensource_tools",
+    "note": "Community-maintained open map database underlying OsmAnd, Organic Maps, QField, and more. ODbL licensed."
+  },
+  {
+    "name": "CivTAK / ATAK \u2014 Civilian Team Awareness Kit",
+    "type": "Software / App",
+    "url": "https://www.civtak.org",
+    "domain": "opensource_tools",
+    "note": "Android situational awareness app with offline mapping, team tracking, and CoT messaging. Source: github.com/deptofdefense/AndroidTacticalAssaultKit-CIV"
+  },
+  {
+    "name": "OpenTAKServer \u2014 Open Source TAK Server",
+    "type": "Software",
+    "url": "https://docs.opentakserver.io",
+    "domain": "opensource_tools",
+    "note": "Community TAK server for ATAK/WinTAK/iTAK clients. Runs on Raspberry Pi. GitHub: github.com/brian7704/OpenTAKServer"
+  },
+  {
+    "name": "CHIRP \u2014 Ham Radio Programming Software",
+    "type": "Software",
+    "url": "https://chirp.danplanet.com",
+    "domain": "opensource_tools",
+    "note": "Free, open-source cross-platform (Win/Mac/Linux) memory channel programmer for hundreds of radio models. GNU GPL."
+  },
+  {
+    "name": "Gqrx SDR \u2014 Open Source Software Defined Radio Receiver",
+    "type": "Software",
+    "url": "https://www.gqrx.dk",
+    "domain": "opensource_tools",
+    "note": "Open-source SDR receiver GUI powered by GNU Radio. Supports RTL-SDR, HackRF, Airspy. GitHub: github.com/gqrx-sdr/gqrx"
+  },
+  {
+    "name": "GPSBabel \u2014 GPS Data Conversion and Transfer",
+    "type": "Software",
+    "url": "https://www.gpsbabel.org",
+    "domain": "opensource_tools",
+    "note": "Converts and transfers GPS data among ~100 formats; transfers to/from Garmin and Magellan hardware. GNU GPL."
+  },
+  {
+    "name": "Kiwix \u2014 Offline Knowledge Browser",
+    "type": "Software / App",
+    "url": "https://kiwix.org",
+    "domain": "opensource_tools",
+    "note": "Offline browser for Wikipedia, WikiHow, Gutenberg, and many more via compressed ZIM files. ZIM library at library.kiwix.org"
+  },
+  {
+    "name": "TCCC Guidelines (January 2024) \u2014 Defense Health Agency",
+    "type": "Reference Document",
+    "url": "https://learning-media.allogy.com/api/v1/pdf/f4cf1d4e-3191-443a-befc-415838fb04f2/contents",
+    "domain": "opensource_tools",
+    "note": "Current TCCC guidelines PDF from the Committee on Tactical Combat Casualty Care (CoTCCC). Public access."
+  },
+  {
+    "name": "FEMA Ready.gov \u2014 Free Publications",
+    "type": "Reference / Guides",
+    "url": "https://www.ready.gov/publications",
+    "domain": "opensource_tools",
+    "note": "Free downloadable hazard information sheets, emergency preparedness guides, and the full 'Are You Ready?' citizen guide."
+  },
+  {
+    "name": "awesome-survival \u2014 Curated Preparedness Resource List",
+    "type": "Curated List",
+    "url": "https://github.com/alx-xlx/awesome-survival",
+    "domain": "opensource_tools",
+    "note": "Community-maintained GitHub list covering apps, archives, comms tools, energy, and community resources for preparedness."
+  },
+  {
+    "name": "RTL-SDR Blog \u2014 SDR Community Hub",
+    "type": "Community / Tutorials",
+    "url": "https://www.rtl-sdr.com",
+    "domain": "opensource_tools",
+    "note": "Primary community site for RTL-SDR hardware and open-source scanner software tutorials."
+  },
+  {
+    "name": "GNU Radio \u2014 Open Source SDR Framework",
+    "type": "Software",
+    "url": "https://www.gnuradio.org",
+    "domain": "opensource_tools",
+    "note": "Foundational open-source signal processing toolkit underlying GQRX and many other SDR applications."
+  },
+  {
+    "name": "ATP 4-25.13 \u2014 Casualty Evacuation (Internet Archive)",
+    "type": "Public-domain Army techniques publication (free download)",
+    "url": "https://archive.org/details/ATP4-25x13",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Official doctrine for CASEVAC and MEDEVAC, 9-line request procedures, and non-medical transport coordination"
+  },
+  {
+    "name": "FEMA Emergency Management Institute \u2014 Free IS Courses (NIMS/ICS)",
+    "type": "Free federal emergency management training",
+    "url": "https://training.fema.gov/nims/",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "IS-100 (Intro to ICS), IS-200 (ICS for Initial Action), IS-317 (Intro to CERT), IS-700 (NIMS) \u2014 all free with certificate"
+  },
+  {
+    "name": "Ready.gov \u2014 Official US Emergency Preparedness Portal",
+    "type": "Official government preparedness guidance",
+    "url": "https://www.ready.gov",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "FEMA's public-facing preparedness site covering build-a-kit, make-a-plan, hazard-specific guidance, and CERT program"
+  },
+  {
+    "name": "NATO Phonetic Alphabet \u2014 Official NATO Page",
+    "type": "Official NATO reference",
+    "url": "https://www.nato.int/en/about-us/nato-history/history-by-theme/symbols-of-nato/nato-phonetic-alphabet",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "The 26-word spelling alphabet (Alpha\u2013Zulu) adopted 1956; universal voice communications standard across NATO forces"
+  },
+  {
+    "name": "NOLS Wilderness Medicine \u2014 9 Wilderness Medicine Acronyms",
+    "type": "Wilderness medicine education (NOLS)",
+    "url": "https://www.nols.edu/blog/9-wilderness-medicine-acronyms-you-need-to-know/",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Covers PAS, ABCDE, MOI, CSM, SAMPLE, SCTM, BSI, LOR, and SOAP \u2014 core wilderness medicine assessment tools"
+  },
+  {
+    "name": "Internet Archive \u2014 US Military Manuals Collection",
+    "type": "Free public-domain manual archive",
+    "url": "https://archive.org/details/military-manuals",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Thousands of free Army, Navy, Air Force, and Marine Corps field manuals, technical manuals, and training circulars"
+  },
+  {
+    "name": "GlobalSecurity.org \u2014 Army Field Manuals and ATPs",
+    "type": "Third-party public-domain manual mirror",
+    "url": "https://www.globalsecurity.org/military/library/policy/army/atp/atp4-25-13.pdf",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "ATP 4-25.13 Casualty Evacuation (February 2013 edition) directly accessible; GlobalSecurity.org hosts many FMs and ATPs"
+  },
+  {
+    "name": "FAS Intelligence Resource Program \u2014 Army Doctrine Publications",
+    "type": "Federation of American Scientists doctrine archive",
+    "url": "https://irp.fas.org/doddir/army/",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Public-release ADP, AR, FM, and ATP publications; includes FM 3-25.26 Land Navigation PDF"
+  },
+  {
+    "name": "The Prepared \u2014 Preparedness Glossary",
+    "type": "Civilian preparedness reference",
+    "url": "https://theprepared.com/prepping-basics/guides/glossary/",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Comprehensive plain-language glossary of preparedness acronyms (BOB, EDC, SHTF, CBRN, EMP, WROL, and more)"
+  },
+  {
+    "name": "Operation Military Kids \u2014 9-Line MEDEVAC Explained",
+    "type": "Educational military reference",
+    "url": "https://www.operationmilitarykids.org/9-line-medevac/",
+    "domain": "Military, Tactical, Survival, and Medical Acronyms \u2014 Field Reference Glossary",
+    "note": "Detailed breakdown of all nine lines of the MEDEVAC request with examples; suitable for ROTC and civilian first responders"
+  },
+  {
+    "name": "TC 4-02.1 First Aid (2016) \u2014 Army Pubs official PDF",
+    "type": "Training Circular",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN14135_TC%204-02x1%20C2%20INCL%20FINAL%20WEB.pdf",
+    "domain": "environment_sere",
+    "note": "Updated Army first aid doctrine including environmental injuries. Superseded by ATP 4-02.11 (2026) but widely referenced."
+  },
+  {
+    "name": "FM 31-70 Basic Cold Weather Survival Manual (Internet Archive)",
+    "type": "Field Manual",
+    "url": "https://archive.org/stream/milmanual-fm-31-70-basic-cold-weather-survival-manual/fm_31-70_basic_cold_weather_survival_manual_djvu.txt",
+    "domain": "environment_sere",
+    "note": "Dedicated cold weather survival manual; covers shelter, clothing, travel, frostbite, hypothermia in detail."
+  },
+  {
+    "name": "NOAA / NWS Wind Chill Chart and Calculator",
+    "type": "Reference Tool",
+    "url": "https://www.weather.gov/safety/cold-wind-chill-chart",
+    "domain": "environment_sere",
+    "note": "Official National Weather Service wind chill formula and frostbite risk table; includes frostbite time-to-injury thresholds at various temperature/wind combinations."
+  },
+  {
+    "name": "Army Public Health \u2014 Cold Weather Casualties and Injuries",
+    "type": "Public Health Guidance",
+    "url": "https://phc.amedd.army.mil/topics/discond/cip/Pages/Cold-Weather-Casualties-and-Injuries.aspx",
+    "domain": "environment_sere",
+    "note": "US Army Public Health Command reference page on cold injury categories, prevention, and treatment for military and civilian audiences."
+  },
+  {
+    "name": "Army Heat Illness Prevention and Sun Safety",
+    "type": "Public Health Guidance",
+    "url": "https://ph.health.mil/topics/discond/hipss/Pages/default.aspx",
+    "domain": "environment_sere",
+    "note": "Defense Health Agency resource covering WBGT, heat categories, work/rest tables, and heat injury prevention for military personnel."
+  },
+  {
+    "name": "FEMA / Ready.gov \u2014 Extreme Heat",
+    "type": "Civilian Preparedness",
+    "url": "https://www.ready.gov/heat",
+    "domain": "environment_sere",
+    "note": "FEMA public preparedness guide for extreme heat events; practical home and outdoor guidance for general public."
+  },
+  {
+    "name": "CDC Yellow Book \u2014 High Elevation Travel and Altitude Illness",
+    "type": "Medical Reference",
+    "url": "https://wwwnc.cdc.gov/travel/yellowbook/2024/environmental-hazards-risks/high-elevation-travel-and-altitude-illness",
+    "domain": "environment_sere",
+    "note": "CDC traveler's health reference covering AMS, HACE, HAPE, acetazolamide, and descent protocols. Free online access."
+  },
+  {
+    "name": "WildsafeOrg \u2014 Altitude Illnesses 101 (AMS, HACE, HAPE)",
+    "type": "Educational Reference",
+    "url": "https://wildsafe.org/resources/ask-the-experts/altitude-safety-101/altitude-illnesses/",
+    "domain": "environment_sere",
+    "note": "Clear lay-audience summary of all three altitude illness types with symptoms, treatment, and Gamow bag guidance."
+  },
+  {
+    "name": "Wilderness Medical Society \u2014 Frostbite Clinical Practice Guidelines 2024",
+    "type": "Clinical Guideline",
+    "url": "https://journals.sagepub.com/doi/10.1177/10806032231222359",
+    "domain": "environment_sere",
+    "note": "Current evidence-based WMS guidelines on frostbite prevention, classification, field rewarming, and hospital treatment. Abstract free; full text may require access."
+  },
+  {
+    "name": "DTIC \u2014 Sustaining Health and Performance in Cold (ADA395745, full PDF)",
+    "type": "Military Research",
+    "url": "https://apps.dtic.mil/sti/pdfs/ADA395745.pdf",
+    "domain": "environment_sere",
+    "note": "US DoD technical report on cold weather physiology, clothing, nutrition, and performance. Freely available via DTIC."
+  },
+  {
+    "name": "NOLS Wilderness Medicine \u2014 Resources and Free Study Materials",
+    "type": "Educational",
+    "url": "https://www.nols.edu/wilderness-medicine/resources/",
+    "domain": "environment_sere",
+    "note": "NOLS provides free WFR/WFA practice tests, handbook excerpts, scope-of-practice charts, and case studies. Leading wilderness medicine training organization."
+  },
+  {
+    "name": "Red Cross \u2014 Exertional Heat Stroke First Aid",
+    "type": "First Aid Reference",
+    "url": "https://www.redcross.org/take-a-class/resources/learn-first-aid/heat-stroke",
+    "domain": "environment_sere",
+    "note": "American Red Cross public first aid guidance for heat stroke recognition and cooling treatment; free online access."
+  },
+  {
+    "name": "Navy/Marine Corps Public Health \u2014 Prevention and Treatment of Heat and Cold Stress Injuries",
+    "type": "Military Medical Reference",
+    "url": "https://www.med.navy.mil/Portals/62/Documents/NMFA/NMCPHC/root/Occupational%20and%20Environmental%20Medicine/NMCPHC_TM_OEM_6260_6B_Prevention_Treatment_Heat_Cold.pdf",
+    "domain": "environment_sere",
+    "note": "Comprehensive Navy/USMC technical manual covering heat and cold stress physiology, prevention, and treatment protocols."
+  },
+  {
+    "name": "NIH/NCBI StatPearls \u2014 Acute Mountain Sickness",
+    "type": "Medical Reference",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK430716/",
+    "domain": "environment_sere",
+    "note": "Free full-text evidence-based review of AMS etiology, pathophysiology, diagnosis, and management; continuously updated."
+  },
+  {
+    "name": "TRADOC Regulation TR350-29 \u2014 Prevention of Heat and Cold Casualties (PDF)",
+    "type": "Military Regulation",
+    "url": "https://adminpubs.tradoc.army.mil/regulations/TR350-29.pdf",
+    "domain": "environment_sere",
+    "note": "US Army TRADOC regulation governing heat and cold casualty prevention in training; includes work/rest tables and WBGT implementation."
+  },
+  {
+    "name": "Minnesota DNR \u2014 Cold Water Dangers",
+    "type": "Safety Reference",
+    "url": "https://www.dnr.state.mn.us/safety/boatwater/cold-water.html",
+    "domain": "environment_sere",
+    "note": "Clear public resource on cold water immersion survival time, cold shock, H.E.L.P. position, and PFD importance; applicable to any cold water environment."
+  }
+]
