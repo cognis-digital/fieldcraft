@@ -1,0 +1,499 @@
+[
+  {
+    "name": "Army Publishing Directorate (FM / ADP / ATP / TC)",
+    "type": "Reference / Doctrine",
+    "url": "https://armypubs.army.mil/",
+    "domain": "doctrine",
+    "note": "Authoritative source for all Army Field Manuals, Doctrine Pubs, Techniques Pubs, and Training Circulars (incl. public weapons training circulars e.g. TC 3-22.9 Rifle & Carbine). Publisher: Army Publishing Directorate."
+  },
+  {
+    "name": "Combined Arms Research Library (CARL) Digital Library",
+    "type": "Reference / Doctrine",
+    "url": "https://cgsc.contentdm.oclc.org/digital/collection/p4013coll9",
+    "domain": "doctrine",
+    "note": "Open digital library of Army doctrine, history, and reference holdings (Command & General Staff College). Publisher: Army University Press."
+  },
+  {
+    "name": "Joint Doctrine Publications (JP series)",
+    "type": "Reference / Doctrine",
+    "url": "https://www.jcs.mil/Doctrine/Joint-Doctrine-Pubs/",
+    "domain": "doctrine",
+    "note": "Official Joint Publications — JP 1, JP 3-0 Joint Operations, JP 5-0 Joint Planning, etc. Publisher: Joint Chiefs of Staff."
+  },
+  {
+    "name": "Joint Electronic Library (JEL)",
+    "type": "Reference / Doctrine",
+    "url": "https://www.jcs.mil/Doctrine/",
+    "domain": "doctrine",
+    "note": "Full joint doctrine library and doctrine notes. Publisher: Joint Chiefs of Staff."
+  },
+  {
+    "name": "Marine Corps Pubs Electronic Library (MCDP / MCRP / MCTP)",
+    "type": "Reference / Doctrine",
+    "url": "https://www.marines.mil/News/Publications/MCPEL/",
+    "domain": "doctrine",
+    "note": "Marine Corps Doctrinal, Reference, and Tactical Publications — incl. MCDP 1 Warfighting. Publisher: U.S. Marine Corps."
+  },
+  {
+    "name": "Air Force e-Publishing (AFDP / AFI / AFMAN)",
+    "type": "Reference / Doctrine",
+    "url": "https://www.e-publishing.af.mil/",
+    "domain": "doctrine",
+    "note": "Official Air Force doctrine, instructions, and manuals. Publisher: U.S. Air Force."
+  },
+  {
+    "name": "Navy Directives & Instructions (DONI)",
+    "type": "Reference / Doctrine",
+    "url": "https://www.secnav.navy.mil/doni/default.aspx",
+    "domain": "doctrine",
+    "note": "Official Navy directives, instructions, and notices. Publisher: Dept. of the Navy Issuances (DONI)."
+  },
+  {
+    "name": "NIST SP 800-53 Rev 5 — Security & Privacy Controls",
+    "type": "NIST Publication",
+    "url": "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final",
+    "domain": "cyber",
+    "note": "Catalog of security and privacy controls for federal information systems. Publisher: NIST CSRC."
+  },
+  {
+    "name": "NIST SP 800-37 Rev 2 — Risk Management Framework",
+    "type": "NIST Publication",
+    "url": "https://csrc.nist.gov/pubs/sp/800/37/r2/final",
+    "domain": "cyber",
+    "note": "RMF for information systems and organizations — the core RMF process. Publisher: NIST CSRC."
+  },
+  {
+    "name": "NIST SP 800-171 Rev 2 — Protecting CUI",
+    "type": "NIST Publication",
+    "url": "https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final",
+    "domain": "cyber",
+    "note": "Protecting Controlled Unclassified Information in nonfederal systems (DFARS / contractor relevant). Publisher: NIST CSRC."
+  },
+  {
+    "name": "NIST SP 800-171 Rev 3 — Protecting CUI",
+    "type": "NIST Publication",
+    "url": "https://csrc.nist.gov/pubs/sp/800/171/r3/final",
+    "domain": "cyber",
+    "note": "Latest revision of CUI protection requirements. Publisher: NIST CSRC."
+  },
+  {
+    "name": "NIST SP 800-207 — Zero Trust Architecture",
+    "type": "NIST Publication",
+    "url": "https://csrc.nist.gov/pubs/sp/800/207/final",
+    "domain": "cyber",
+    "note": "Foundational zero-trust architecture reference. Publisher: NIST CSRC."
+  },
+  {
+    "name": "NIST SP 800-61 Rev 2 — Incident Handling Guide",
+    "type": "NIST Publication",
+    "url": "https://csrc.nist.gov/pubs/sp/800/61/r2/final",
+    "domain": "cyber",
+    "note": "Computer security incident handling. Publisher: NIST CSRC."
+  },
+  {
+    "name": "NIST SP 800-30 Rev 1 — Guide for Conducting Risk Assessments",
+    "type": "NIST Publication",
+    "url": "https://csrc.nist.gov/pubs/sp/800/30/r1/final",
+    "domain": "cyber",
+    "note": "Risk assessment methodology. Publisher: NIST CSRC."
+  },
+  {
+    "name": "NIST SP 800-115 — Technical Guide to InfoSec Testing",
+    "type": "NIST Publication",
+    "url": "https://csrc.nist.gov/pubs/sp/800/115/final",
+    "domain": "cyber",
+    "note": "Security testing and assessment techniques. Publisher: NIST CSRC."
+  },
+  {
+    "name": "NIST SP 800-137 — Info Security Continuous Monitoring",
+    "type": "NIST Publication",
+    "url": "https://csrc.nist.gov/pubs/sp/800/137/final",
+    "domain": "cyber",
+    "note": "ISCM for federal systems. Publisher: NIST CSRC."
+  },
+  {
+    "name": "NIST SP 800-218 — Secure Software Development Framework",
+    "type": "NIST Publication",
+    "url": "https://csrc.nist.gov/pubs/sp/800/218/final",
+    "domain": "cyber",
+    "note": "SSDF practices for secure software. Publisher: NIST CSRC."
+  },
+  {
+    "name": "NIST Cybersecurity Framework (CSF) 2.0",
+    "type": "NIST Publication",
+    "url": "https://csrc.nist.gov/pubs/cswp/29/the-nist-cybersecurity-framework-csf-20/final",
+    "domain": "cyber",
+    "note": "The CSF 2.0 core reference. Publisher: NIST CSRC."
+  },
+  {
+    "name": "NIST CSRC Publications Library",
+    "type": "NIST Publication",
+    "url": "https://csrc.nist.gov/publications",
+    "domain": "cyber",
+    "note": "Full searchable index of all NIST SP / FIPS / CSWP publications. Publisher: NIST CSRC."
+  },
+  {
+    "name": "DISA STIGs — Security Technical Implementation Guides",
+    "type": "DISA STIG",
+    "url": "https://public.cyber.mil/stigs/",
+    "domain": "cyber",
+    "note": "Public STIG library — configuration hardening guides for DoD systems. Publisher: DoD Cyber Exchange (DISA)."
+  },
+  {
+    "name": "DISA STIG Downloads",
+    "type": "DISA STIG",
+    "url": "https://public.cyber.mil/stigs/downloads/",
+    "domain": "cyber",
+    "note": "Downloadable STIG packages (public release). Publisher: DoD Cyber Exchange (DISA)."
+  },
+  {
+    "name": "SRG / STIG Tools (STIG Viewer)",
+    "type": "Reference / Doctrine",
+    "url": "https://public.cyber.mil/stigs/srg-stig-tools/",
+    "domain": "cyber",
+    "note": "STIG Viewer and supporting tools. Publisher: DoD Cyber Exchange (DISA)."
+  },
+  {
+    "name": "DoD Cyber Exchange (Public)",
+    "type": "Reference / Doctrine",
+    "url": "https://public.cyber.mil/",
+    "domain": "cyber",
+    "note": "DISA's public cyber resource hub — STIGs, SRGs, RMF, training. Publisher: DoD Cyber Exchange (DISA)."
+  },
+  {
+    "name": "RMF Templates & Quick-Start Guides",
+    "type": "Reference / Doctrine",
+    "url": "https://csrc.nist.gov/projects/risk-management/rmf-quick-start-guides",
+    "domain": "cyber",
+    "note": "Official RMF step quick-start guides and templates. Publisher: NIST CSRC."
+  },
+  {
+    "name": "DoD RMF Resources",
+    "type": "Reference / Doctrine",
+    "url": "https://public.cyber.mil/rmf/",
+    "domain": "cyber",
+    "note": "DoD Risk Management Framework guidance and resources. Publisher: DoD / DISA."
+  },
+  {
+    "name": "Intelligence Community Directives (ICD series)",
+    "type": "Reference / Doctrine",
+    "url": "https://www.dni.gov/index.php/what-we-do/ic-related-menus/ic-related-links/intelligence-community-directives",
+    "domain": "intel",
+    "note": "Official ICD series — IC policy directives and readouts. Publisher: ODNI."
+  },
+  {
+    "name": "IC on the Record — Public Releases",
+    "type": "Reference / Doctrine",
+    "url": "https://www.intelligence.gov/ic-on-the-record-database",
+    "domain": "intel",
+    "note": "Declassified and public IC documents and readouts. Publisher: ODNI / intelligence.gov."
+  },
+  {
+    "name": "DoD Issuances (Directives / Instructions / Manuals)",
+    "type": "Reference / Doctrine",
+    "url": "https://www.esd.whs.mil/DD/",
+    "domain": "reference",
+    "note": "Authoritative source for DoDD / DoDI / DoDM issuances. Publisher: Washington HQ Services (WHS)."
+  },
+  {
+    "name": "Committee on National Security Systems (CNSS) Library",
+    "type": "Reference / Doctrine",
+    "url": "https://www.cnss.gov/CNSS/issuances/Instructions.cfm",
+    "domain": "reference",
+    "note": "CNSS policies and instructions for national security systems. Publisher: CNSS."
+  },
+  {
+    "name": "DTIC — Defense Technical Information Center",
+    "type": "Reference / Doctrine",
+    "url": "https://discover.dtic.mil/",
+    "domain": "reference",
+    "note": "Searchable DoD-funded technical reports and research (public release). Publisher: Defense Technical Information Center."
+  },
+  {
+    "name": "GAO — Defense Reports",
+    "type": "Reference / Doctrine",
+    "url": "https://www.gao.gov/topics/national-defense",
+    "domain": "reference",
+    "note": "Government Accountability Office reports on defense programs and weapon systems. Publisher: U.S. GAO."
+  },
+  {
+    "name": "CRS Reports",
+    "type": "Reference / Doctrine",
+    "url": "https://crsreports.congress.gov/",
+    "domain": "reference",
+    "note": "Nonpartisan congressional research, incl. weapon-system program reports. Publisher: Congressional Research Service."
+  },
+  {
+    "name": "CISA Resources & Tools",
+    "type": "Reference / Doctrine",
+    "url": "https://www.cisa.gov/resources-tools/resources",
+    "domain": "cyber",
+    "note": "Cybersecurity & Infrastructure Security Agency guidance and advisories. Publisher: CISA."
+  },
+  {
+    "name": "Army University Press",
+    "type": "Reference / Doctrine",
+    "url": "https://www.armyupress.army.mil/",
+    "domain": "doctrine",
+    "note": "Military review, doctrine analysis, and professional military education references. Publisher: Army University Press."
+  },
+  {
+    "name": "TC 3-22.9 — Rifle and Carbine (M4 / M16 series)",
+    "type": "Training Circular",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN19927_TC_3-22x9_C3_FINAL_WEB.pdf",
+    "domain": "weapons",
+    "note": "Public-release training circular: weapon function, optics, ammunition, and the marksmanship shot process for the M4/M4A1 carbine and M16 series. Publisher: U.S. Army (HQDA / TRADOC MCoE)."
+  },
+  {
+    "name": "TC 3-23.35 — Pistol (M17 / M18 / M9)",
+    "type": "Training Circular",
+    "url": "https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=1002426",
+    "domain": "weapons",
+    "note": "Pistol marksmanship and employment — aiming, holsters/accessories, stability, control. Official APD record page with download. Publisher: U.S. Army (HQDA / TRADOC MCoE)."
+  },
+  {
+    "name": "TC 3-23.30 — Grenades and Pyrotechnic Signals",
+    "type": "Training Circular",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN37340-TC_3-23.30-001-WEB-3.pdf",
+    "domain": "weapons",
+    "note": "Function, description, handling, and tactical employment of hand grenades and pyrotechnic signals/simulators. Publisher: U.S. Army (HQDA / TRADOC MCoE)."
+  },
+  {
+    "name": "TC 3-22.50 — Heavy Machine Gun, M2 / M2A1 (.50 cal)",
+    "type": "Training Circular",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN5846_TC%203-22x50%20FINAL%20WEB.pdf",
+    "domain": "weapons",
+    "note": "Operation, components, attachments, and gunnery for the M2 / M2A1 caliber .50 machine gun. Publisher: U.S. Army (HQDA / TRADOC MCoE)."
+  },
+  {
+    "name": "TC 3-22.240 — Medium Machine Gun, M240 series",
+    "type": "Training Circular",
+    "url": "https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=1002179",
+    "domain": "weapons",
+    "note": "M240-series medium machine gun employment and gunnery. Official APD record page with download. Publisher: U.S. Army (HQDA / TRADOC MCoE)."
+  },
+  {
+    "name": "TC 3-22.19 — MK19 40mm Grenade Machine Gun",
+    "type": "Training Circular",
+    "url": "https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=1002223",
+    "domain": "weapons",
+    "note": "Mechanical training, capabilities, and gunnery for the MK19 MOD 3 40mm grenade machine gun. Official APD record page. Publisher: U.S. Army (HQDA / TRADOC MCoE)."
+  },
+  {
+    "name": "M249 Light Machine Gun — TBS Student Handout (B3M4138)",
+    "type": "Reference / Doctrine",
+    "url": "https://www.trngcmd.marines.mil/Portals/207/Docs/TBS/B3M4138%20M249%20Light%20Machine%20Gun.pdf?ver=2015-05-07-103752-850",
+    "domain": "weapons",
+    "note": "USMC Basic School student handout: characteristics, cycle of operation, and employment of the M249 SAW. Publisher: U.S. Marine Corps (TECOM / TBS)."
+  },
+  {
+    "name": "ATP 3-21.8 — The Infantry Rifle Platoon and Squad",
+    "type": "Army Techniques Pub",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN40007-ATP_3-21.8-000-WEB-1.pdf",
+    "domain": "tactics",
+    "note": "Doctrinal techniques for Infantry, Stryker, and Armored BCT platoons and squads — movement, offense, defense, patrolling. Publisher: U.S. Army (HQDA / TRADOC MCoE)."
+  },
+  {
+    "name": "ATP 3-21.18 — Foot Marches",
+    "type": "Army Techniques Pub",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN35163-ATP_3-21.18-000-WEB-1.pdf",
+    "domain": "tactics",
+    "note": "Planning and conduct of dismounted foot marches — load planning, rates, security, and march discipline. Publisher: U.S. Army (HQDA / TRADOC MCoE)."
+  },
+  {
+    "name": "ATP 3-20.15 — Tank Platoon",
+    "type": "Army Techniques Pub",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44282-ATP_3-20.15-000-WEB-1.pdf",
+    "domain": "tactics",
+    "note": "TTPs for employment of the tank platoon (M1 Abrams) — formations, fire control, and combined-arms integration. Publisher: U.S. Army (HQDA / TRADOC) / USMC."
+  },
+  {
+    "name": "TC 3-09.81 — Field Artillery Manual Cannon Gunnery (FM 6-40)",
+    "type": "Training Circular",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tc3_09x81.pdf",
+    "domain": "fires",
+    "note": "Complete manual cannon gunnery problem — ballistics, firing charts, fire direction, and target attack. Publisher: U.S. Army (HQDA / Fires CoE)."
+  },
+  {
+    "name": "TC 3-25.26 — Map Reading and Land Navigation",
+    "type": "Training Circular",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN31077-TC_3-25.26-000-WEB-1.pdf",
+    "domain": "fieldcraft",
+    "note": "Armywide reference on map reading and land navigation — applies to every Soldier regardless of branch/MOS. Publisher: U.S. Army (HQDA / TRADOC MCoE)."
+  },
+  {
+    "name": "TC 3-21.76 — Ranger Handbook",
+    "type": "Training Circular",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN45113-TC_3-21.76-000-WEB-2.pdf",
+    "domain": "fieldcraft",
+    "note": "Small-unit tactics, battle drills, patrolling, and field craft reference. Publisher: U.S. Army (HQDA / Ranger Training Brigade)."
+  },
+  {
+    "name": "FM 7-22 — Holistic Health and Fitness (H2F)",
+    "type": "Field Manual",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN30964-FM_7-22-001-WEB-4.pdf",
+    "domain": "fieldcraft",
+    "note": "Army physical readiness training doctrine — programming, exercises, recovery, and injury prevention. Publisher: U.S. Army (HQDA / Center for Initial Military Training)."
+  },
+  {
+    "name": "ATP 3-37.11 — CBRN Defense (Engineer/Maneuver Support)",
+    "type": "Army Techniques Pub",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN12082_ATP%203-37x11%20FINAL%20WEB.pdf",
+    "domain": "cbrn",
+    "note": "Public-release CBRN defense techniques in support of maneuver. (Restricted ATP 3-11.32 deliberately excluded.). Publisher: U.S. Army (HQDA / Maneuver Support CoE)."
+  },
+  {
+    "name": "ATP 4-02.11 — Casualty Response, TCCC, and First Aid",
+    "type": "Army Techniques Pub",
+    "url": "https://www.army.mil/article/291504/medcoe_publishes_atp_4_02_11_casualty_response_tactical_combat_casualty_care_and_first_aid",
+    "domain": "medical",
+    "note": "Primary doctrinal guide for nonmedical Soldiers — care under fire, tactical field care, MARCH, hypothermia. Official MEDCoE release/announcement with link. Publisher: U.S. Army MEDCoE."
+  },
+  {
+    "name": "ATP 4-25.13 — Casualty Evacuation (CASEVAC)",
+    "type": "Army Techniques Pub",
+    "url": "https://www.globalsecurity.org/military/library/policy/army/atp/atp4-25-13.pdf",
+    "domain": "medical",
+    "note": "Casualty movement, evacuation requests, and litter/non-litter carries. Publisher: HQDA (mirrored copy). Publisher: U.S. Army (HQDA) — mirrored via GlobalSecurity."
+  },
+  {
+    "name": "TC 3-22.90 — Mortars (M224 60mm / M252 81mm / M120 120mm)",
+    "type": "Training Circular",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN36911-TC_3-22.90-001-WEB-3.pdf",
+    "domain": "weapons",
+    "note": "MOS 11C employment of the 60/81/120mm mortar systems — laying, fire commands, and gunnery. Publisher: U.S. Army (HQDA / TRADOC MCoE)."
+  },
+  {
+    "name": "TC 3-22.10 — Sniper",
+    "type": "Training Circular",
+    "url": "https://irp.fas.org/doddir/army/tc3-22-10.pdf",
+    "domain": "weapons",
+    "note": "Sniper equipment, ballistics, marksmanship fundamentals, field skills, and mission planning. Publisher: HQDA. Publisher: U.S. Army (HQDA) — mirrored via FAS."
+  },
+  {
+    "name": "FM 3-22.37 — Javelin Close Combat Missile System, Medium",
+    "type": "Field Manual",
+    "url": "https://irp.fas.org/doddir/army/fm3-22-37.pdf",
+    "domain": "weapons",
+    "note": "Operation, employment, and gunner training for the Javelin anti-armor missile system. Publisher: HQDA. Publisher: U.S. Army (HQDA) — mirrored via FAS."
+  },
+  {
+    "name": "TC 3-25.150 — Combatives",
+    "type": "Training Circular",
+    "url": "https://irp.fas.org/doddir/army/tc3-25-150.pdf",
+    "domain": "fieldcraft",
+    "note": "Hand-to-hand and close-quarters combatives program — drills, techniques, and training progression. Publisher: HQDA. Publisher: U.S. Army (HQDA) — mirrored via FAS."
+  },
+  {
+    "name": "FM 3-97.61 — Military Mountaineering",
+    "type": "Field Manual",
+    "url": "https://irp.fas.org/doddir/army/fm3-97-61.pdf",
+    "domain": "fieldcraft",
+    "note": "Knots, anchors, rope systems, and movement techniques for mountainous terrain. Publisher: HQDA. Publisher: U.S. Army (HQDA) — mirrored via FAS."
+  },
+  {
+    "name": "ATP 3-90.97 — Mountain Warfare and Cold Weather Operations",
+    "type": "Army Techniques Pub",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/atp3_90x97.pdf",
+    "domain": "fieldcraft",
+    "note": "Doctrine for operating in mountain and cold-weather environments — applies to all Soldiers. Publisher: U.S. Army (HQDA / Maneuver Support CoE)."
+  },
+  {
+    "name": "FM 21-76 — Survival (SERE foundation)",
+    "type": "Field Manual",
+    "url": "https://irp.fas.org/doddir/army/fm21-76.pdf",
+    "domain": "fieldcraft",
+    "note": "Foundational survival doctrine — water, fire, shelter, food, navigation, all environments. Publisher: HQDA (public domain). Publisher: U.S. Army (HQDA) — mirrored via FAS."
+  },
+  {
+    "name": "TC 3-21.5 — Drill and Ceremonies",
+    "type": "Training Circular",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32297-TC_3-21.5-000-WEB-1.pdf",
+    "domain": "fieldcraft",
+    "note": "Armywide standard for drill, manual of arms, and ceremonies. Publisher: U.S. Army (HQDA / TRADOC)."
+  },
+  {
+    "name": "ATP 6-02.53 — Techniques for Tactical Radio Operations",
+    "type": "Army Techniques Pub",
+    "url": "https://irp.fas.org/doddir/army/atp6-02-53.pdf",
+    "domain": "comms",
+    "note": "Signal MOS reference: tactical radio nets, waveforms, SINCGARS/JCR planning, EW protection. Publisher: HQDA. Publisher: U.S. Army (HQDA) — mirrored via FAS."
+  },
+  {
+    "name": "ATP 3-04 — Army Aviation",
+    "type": "Army Techniques Pub",
+    "url": "https://irp.fas.org/doddir/army/atp3-04.pdf",
+    "domain": "aviation",
+    "note": "Employment of Army aviation across the warfighting functions. Publisher: HQDA. Publisher: U.S. Army (HQDA) — mirrored via FAS."
+  },
+  {
+    "name": "ATP 3-06 — Urban Operations",
+    "type": "Army Techniques Pub",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN6452_ATP%203-06%20FINAL%20WEB.pdf",
+    "domain": "tactics",
+    "note": "Planning and conducting operations in dense urban terrain (ATP 3-06 / MCTP 12-10B). Publisher: U.S. Army (HQDA / Combined Arms Center)."
+  },
+  {
+    "name": "ATP 3-20.98 — Scout Platoon",
+    "type": "Army Techniques Pub",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN19886-ATP_3-20.98-000-WEB-1.pdf",
+    "domain": "recon",
+    "note": "Reconnaissance and security techniques for Cavalry scout platoons (ABCT/IBCT/SBCT). Publisher: U.S. Army (HQDA / TRADOC)."
+  },
+  {
+    "name": "FM 3-98 — Reconnaissance and Security Operations",
+    "type": "Field Manual",
+    "url": "https://irp.fas.org/doddir/army/fm3-98.pdf",
+    "domain": "recon",
+    "note": "Doctrine for Cavalry and recon/security organizations. Publisher: HQDA. Publisher: U.S. Army (HQDA) — mirrored via FAS."
+  },
+  {
+    "name": "ATP 3-01.81 — Counter-Unmanned Aircraft System (C-UAS) Operations",
+    "type": "Army Techniques Pub",
+    "url": "https://irp.fas.org/doddir/army/atp3-01-81.pdf",
+    "domain": "counter-uas",
+    "note": "DEFENSIVE C-UAS — active/passive techniques and layered defense against UAS threats. Publisher: HQDA. Publisher: U.S. Army (HQDA) — mirrored via FAS."
+  },
+  {
+    "name": "FM 3-01 — U.S. Army Air and Missile Defense Operations",
+    "type": "Field Manual",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44767-FM_3-01-000-WEB-1.pdf",
+    "domain": "counter-uas",
+    "note": "Air and missile defense doctrine — defensive integration across echelons. Publisher: U.S. Army (HQDA / Fires CoE)."
+  },
+  {
+    "name": "FM 3-34 — Engineer Operations",
+    "type": "Field Manual",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN31353-FM_3-34-000-WEB-1.pdf",
+    "domain": "engineer",
+    "note": "Engineer Regiment keystone manual — combat, general, and geospatial engineering. Publisher: U.S. Army (HQDA / Maneuver Support CoE)."
+  },
+  {
+    "name": "ADP 3-0 — Operations",
+    "type": "Army Doctrine Pub",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN18010-ADP_3-0-000-WEB-2.pdf",
+    "domain": "doctrine",
+    "note": "Capstone doctrine: how the Army conducts unified land operations. Publisher: U.S. Army (HQDA / Combined Arms Center)."
+  },
+  {
+    "name": "ADP 3-90 — Offense and Defense",
+    "type": "Army Doctrine Pub",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN34828-ADP_3-90-000-WEB-1.pdf",
+    "domain": "doctrine",
+    "note": "Fundamental offensive and defensive tactics, control measures, and planning. Publisher: U.S. Army (HQDA / Combined Arms Center)."
+  },
+  {
+    "name": "FM 3-90 — Tactics",
+    "type": "Field Manual",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN38160-FM_3-90-000-WEB-1.pdf",
+    "domain": "doctrine",
+    "note": "Tactical concepts, formations, and the conduct of tactical operations. Publisher: U.S. Army (HQDA / Combined Arms Center)."
+  },
+  {
+    "name": "FM 3-0 — Operations",
+    "type": "Field Manual",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN36290-FM_3-0-000-WEB-2.pdf",
+    "domain": "doctrine",
+    "note": "The Army's keystone doctrine for prompt and sustained large-scale combat operations. Publisher: U.S. Army (HQDA / Combined Arms Center)."
+  }
+]

@@ -75,13 +75,22 @@ def _load_json(name):
 def resources(domain: str = None) -> list:
     seed = [{"name": r[0], "type": r[1], "url": r[2], "domain": r[3], "note": r[4]}
             for r in _RESOURCES_SEED]
-    extra = _load_json("resources.json") or []
+    # resources.json = general field/preparedness links; military_guides.json =
+    # curated public gov/military doctrine & technical reference (FM/TC/ATP/JP/
+    # MCDP, NIST SP, DISA STIGs, RMF, ICD). Both merge by URL into the catalog.
+    extra = (_load_json("resources.json") or []) + (_load_json("military_guides.json") or [])
     by_url = {r["url"]: r for r in seed}
     for r in extra:
         if r.get("url"):
             by_url[r["url"]] = {"name": r.get("name", ""), "type": r.get("type", ""),
                                 "url": r["url"], "domain": r.get("domain", ""), "note": r.get("note", "")}
     items = list(by_url.values())
+    return [r for r in items if r.get("domain") == domain] if domain else items
+
+
+def military_guides(domain: str = None) -> list:
+    """Just the curated military/IC doctrine & technical guides (military_guides.json)."""
+    items = _load_json("military_guides.json") or []
     return [r for r in items if r.get("domain") == domain] if domain else items
 
 

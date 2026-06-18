@@ -6,6 +6,7 @@
   acronym <TERM>                 look up a term
   acronyms [--search Q]          list / search the glossary
   resources [--domain D]         curated public/open-source links
+  guides [--domain D]            public mil/IC doctrine & manuals (FM/TC/ATP/JP/NIST/STIG)
   cognis                         related Cognis repos for field use
   checklist <name>               a printable checklist (go-bag-72h, ifak, ...)
   checklists                     list available checklists
@@ -81,6 +82,16 @@ def cmd_resources(a):
     if a.format == "json": _j(rs); return 0
     for r in rs:
         print(f"[{r.get('domain',''):12}] {r['name']:38} {r['url']}")
+    return 0
+
+
+def cmd_guides(a):
+    rs = catalog.military_guides(a.domain)
+    if a.format == "json": _j(rs); return 0
+    for r in rs:
+        print(f"[{r.get('domain',''):12}] {r['name']:48} {r['url']}")
+    print(f"\n{len(rs)} guide(s). Domains: weapons, tactics, recon, fires, comms, "
+          "aviation, medical, cbrn, engineer, counter-uas, fieldcraft, doctrine, cyber, intel, reference")
     return 0
 
 
@@ -230,6 +241,7 @@ def build_parser():
     sp = add("acronym", cmd_acronym); sp.add_argument("term")
     sp = add("acronyms", cmd_acronyms); sp.add_argument("--search")
     sp = add("resources", cmd_resources); sp.add_argument("--domain")
+    sp = add("guides", cmd_guides); sp.add_argument("--domain")
     add("cognis", cmd_cognis)
     sp = add("checklist", cmd_checklist); sp.add_argument("name")
     add("checklists", cmd_checklists)
