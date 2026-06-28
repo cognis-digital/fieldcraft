@@ -21,6 +21,79 @@
 > sources, and follow all applicable laws.
 
 <!-- cognis:layman:start -->
+
+<!-- cognis:example:start -->
+## 🔎 Example output
+
+Real, reproducible output from the tool — runs offline:
+
+```console
+$ fieldcraft --version
+fieldcraft 0.4.0
+```
+
+```console
+$ fieldcraft --help
+usage: fieldcraft [-h] [--version]
+                  {roles,loadout,acronym,acronyms,resources,guides,cognis,checklist,checklists,wiki,lessons,lesson,sop,os,equipment,equip-show,sources,search} ...
+
+fieldcraft — a practical preparedness, survival & field-reference knowledge base
++ loadout builder, for soldiers and civilians. Educational/reference use.
+
+  roles                          list roles you can "build"
+  loadout <role>[,<role>...] [--tier edc|24h|72h|sustainment]   compose a kit
+  acronym <TERM>                 look up a term
+  acronyms [--search Q]          list / search the glossary
+  resources [--domain D]         curated public/open-source links
+  guides [--domain D]            public mil/IC doctrine & manuals (FM/TC/ATP/JP/NIST/STIG)
+  cognis                         related Cognis repos for field use
+  checklist <name>               a printable checklist (go-bag-72h, ifak, ...)
+  checklists                     list available checklists
+  wiki [page]                    list wiki pages (docs/) or show where one lives
+  search <Q>                     search acronyms + resources
+
+--format table|json
+
+positional arguments:
+  {roles,loadout,acronym,acronyms,resources,guides,cognis,checklist,checklists,wiki,lessons,lesson,sop,os,equipment,equip-show,sources,search}
+
+options:
+  -h, --help            show this help message and exit
+  --version             show program's version number and exit
+```
+
+> Blocks above are real `fieldcraft` output — reproduce them from a clone.
+
+**Sample result format** _(illustrative values — run on your own data for real findings):_
+
+```
+$ fieldcraft loadout --tier edc
+{
+  "role": "Operator",
+  "loadout": [
+    {
+      "item": "HK MP5",
+      "quantity": 1,
+      "notes": "Primary weapon"
+    },
+    {
+      "item": "Glock 19",
+      "quantity": 2,
+      "notes": "Backup pistol, spare magazines"
+    },
+    ...
+  ]
+}
+
+$ fieldcraft acronym --search CQB
+{
+  "term": "Close Quarters Battle",
+  "definition": "Tactical combat in confined or enclosed spaces."
+}
+```
+
+<!-- cognis:example:end -->
+
 ## What is this?
 
 If you've ever wanted one organized place that tells you *what to carry, what to

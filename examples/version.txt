@@ -1,0 +1,3 @@
+$ fieldcraft --version
+
+fieldcraft 0.4.0
